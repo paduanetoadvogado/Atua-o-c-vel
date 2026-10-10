@@ -1,4 +1,4 @@
-# Pauta — Audiências e Perícias
+# Pauta — Audiências, Perícias e Prazos
 
 _Última atualização: 10/10/2026_
 
@@ -39,7 +39,25 @@ _Última atualização: 10/10/2026_
 
 ---
 
-## 3. Registro de despachos
+## 3. Prazos
+
+> Contagem em dias úteis (art. 219 do CPC), salvo indicação em contrário. Prazo em dobro anotado quando houver (Fazenda Pública, Defensoria, litisconsortes com procuradores diferentes em autos físicos).
+
+### Em aberto
+
+| Vencimento | Processo | Cliente | Ato / Providência | Fundamento | Início da contagem | Prazo | Responsável | Status |
+|---|---|---|---|---|---|---|---|---|
+| — | — | — | — | — | — | — | — | — |
+
+### Cumpridos
+
+| Vencimento | Processo | Cliente | Ato | Cumprido em | Observação |
+|---|---|---|---|---|---|
+| — | — | — | — | — | — |
+
+---
+
+## 4. Registro de despachos
 
 Resumo de cada despacho recebido, para conferência.
 
