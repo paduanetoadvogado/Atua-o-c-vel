@@ -1,6 +1,8 @@
 # Trabalhista — Líder de Obras x CZS Engenharia Ltda
 
-**Situação:** líder de obras, sofreu acidente de moto, recebeu 3 meses de benefício do INSS. Fez novo requerimento e aguarda a perícia. Quer sair da empresa sem perder muitos direitos.
+**Situação:** líder de obras, sofreu acidente de moto **em dia de folga**, recebeu 3 meses de benefício do INSS. Fez novo requerimento e aguarda a perícia. Quer sair da empresa sem perder muitos direitos.
+
+> **Atualização:** como o acidente ocorreu em dia de folga, em princípio ele **não** é acidente de trabalho. Benefício comum (B31), **sem estabilidade** do art. 118. Antes de fechar essa conclusão, confirmar as perguntas 8-A abaixo.
 
 ---
 
@@ -20,6 +22,7 @@
    - [ ] a serviço (ia a outra obra, a um fornecedor, levava material, cumpria ordem do chefe)
    - [ ] no trajeto casa ↔ trabalho
    - [ ] assunto particular
+8-A. **Mesmo de folga:** estava de sobreaviso ou plantão? Foi chamado pelo chefe para ir à obra, buscar material ou resolver algum problema? Há mensagem de WhatsApp disso? (Se sim, o acidente pode ser de trabalho e a estratégia muda.)
 9. A moto é dele ou da empresa? A empresa sabia que ele usava a moto no serviço, exigia isso ou pagava por isso?
 10. Há boletim de ocorrência, atendimento do SAMU ou do hospital, testemunhas, mensagens do chefe mandando-o ir ao local?
 11. **A empresa emitiu a CAT?** Se não emitiu, alguém emitiu (ele mesmo, o sindicato, o médico)?
@@ -50,52 +53,56 @@ CTPS (digital), contracheques, extrato do FGTS, carta de concessão e de cessaç
 
 ---
 
-## 2. Pontos jurídicos que mudam a estratégia
+## 2. Consequências de ser acidente fora do trabalho
 
 | Questão | Consequência |
 |---|---|
-| **Acidente a serviço ou no trajeto** | É equiparado a acidente de trabalho (Lei 8.213/91, arts. 19 e 21, IV, "d"; a revogação feita pela MP 905/2019 caducou). O benefício deve ser **B91**. |
-| **B91 / nexo reconhecido** | Dá **estabilidade de 12 meses** após a cessação do benefício (art. 118 da Lei 8.213/91; Súmula 378 do TST), **FGTS depositado durante o afastamento** (art. 15, §5º, da Lei 8.036/90) e plano de saúde mantido (Súmula 440 do TST). |
-| **Recebeu B31 mas o acidente é de trabalho** | A estabilidade pode ser reconhecida em juízo (Súmula 378, II, do TST) e o benefício pode ser convertido em B91 (CAT emitida pelo próprio segurado ou pelo sindicato, art. 22, §2º, ou ação acidentária na **Justiça Estadual**). |
-| **Contrato suspenso** (afastamento a partir do 16º dia) | A empresa **não pode dispensá-lo sem justa causa** enquanto durar o benefício (Súmula 371 do TST: a dispensa só produz efeitos após a cessação). |
-| **"Limbo previdenciário"** (INSS nega o benefício e a empresa não o aceita de volta) | A empresa deve pagar os salários. Se não pagar, cabe rescisão indireta. |
-| **Sequela permanente** | Auxílio-acidente (B94), que pode ser recebido junto com o salário, mais indenização civil contra a empresa (danos morais, materiais, estéticos e pensão: art. 7º, XXVIII, da CF; responsabilidade objetiva em atividade de risco, Tema 932 do STF). |
+| Natureza do benefício | **B31 (comum)**: não há estabilidade de 12 meses após a alta e o FGTS não é depositado durante o afastamento. |
+| Indenização contra a empresa | Em regra, **não cabe** (não há nexo com o trabalho). |
+| Durante o benefício | O contrato fica **suspenso**: a empresa não pode dispensá-lo (Súmula 371 do TST), mas também não paga salário. |
+| Após a alta | A empresa pode dispensá-lo sem justa causa livremente. Para quem quer sair, isso é uma **vantagem**: facilita uma dispensa negociada. |
+| "Limbo previdenciário" | Se o INSS der alta e o médico da empresa o considerar inapto e recusar o retorno, a empresa **deve pagar os salários**. Se não pagar, cabe rescisão indireta. |
+| Sequela permanente | **Auxílio-acidente (B94)** vale para acidente **de qualquer natureza** (art. 86 da Lei 8.213/91) e pode ser recebido junto com o salário ou novo emprego. Pedir na perícia ou após a alta, se ficar redução da capacidade. |
+| Seguro de vida da convenção coletiva | As convenções da construção civil costumam exigir seguro de vida em grupo com cobertura **24 horas** (vale para acidente fora do serviço) para invalidez permanente total ou parcial. **Verificar: pode ser o principal valor do caso.** Se a empresa não contratou, ela responde pela indenização prevista na convenção. |
+| Seguro DPVAT/SPVAT | Verificar a situação atual da cobertura para acidentes de trânsito na data do acidente e, havendo invalidez permanente, requerer. |
+
+**Atenção:** enquanto recebe o benefício do INSS, ele **não pode receber seguro-desemprego ao mesmo tempo** (art. 124 da Lei 8.213/91). As parcelas ficam para depois da alta, desde que o requerimento seja feito no prazo.
 
 ---
 
 ## 3. Formas de rescindir, da melhor para a pior
 
-### Opção 1 — Rescisão indireta (art. 483 da CLT) ⭐ se houver falta da empresa
-- **O que ele recebe:** o mesmo que numa dispensa sem justa causa (aviso prévio, 13º e férias proporcionais + 1/3, multa de 40% do FGTS, saque do FGTS, seguro-desemprego) **+ indenização substitutiva da estabilidade** (salários dos 12 meses, se o acidente for de trabalho) + indenizações pelo acidente.
-- **Fundamentos comuns nesse tipo de caso:** FGTS não depositado (inclusive durante o B91), CAT não emitida, salários ou horas extras não pagos, desvio de função, plano de saúde cortado, falta de EPI ou culpa da empresa no acidente, limbo previdenciário.
-- **Cuidado:** o pedido é feito por ação judicial. Se o juiz não reconhecer a falta grave, a saída pode ser convertida em pedido de demissão, então é preciso ter **prova documental** (o extrato do FGTS é a mais forte). Em regra, convém ajuizar a ação após a alta do INSS, sem abandonar o emprego antes (art. 483, §3º, da CLT).
+### Opção 1 — Dispensa sem justa causa negociada, após a alta ⭐
+- Como não há estabilidade, a empresa não tem custo extra para dispensá-lo. Muitas aceitam quando o empregado manifesta que não quer continuar, especialmente se ele estiver com restrições para a função de campo.
+- **O que ele recebe:** aviso prévio (30 dias + 3 por ano), saldo de salário, 13º e férias proporcionais e vencidas + 1/3, **multa de 40% do FGTS**, **saque integral do FGTS** e **seguro-desemprego**.
+- **Como conduzir:** após a alta, apresentar-se ao trabalho e fazer o exame de retorno. Conversar com a empresa, com o advogado conduzindo. **Não** formalizar nada como "pedido".
 
-### Opção 2 — Acordo com indenização da estabilidade (art. 484-A da CLT + homologação, art. 855-B da CLT)
-- **Pelo art. 484-A ele recebe:** metade do aviso prévio, **20% de multa do FGTS**, saque de **80% do FGTS**, demais verbas integrais. **Não recebe seguro-desemprego.**
-- **O que negociar a mais:** um valor pela estabilidade e pela renúncia às indenizações do acidente.
-- **Segurança jurídica:** fazer como **acordo extrajudicial homologado na Justiça do Trabalho** (art. 855-B), com advogados distintos para as partes. Fazer só **depois da cessação do benefício**, nunca durante a suspensão do contrato.
-- É a melhor opção se a empresa tiver interesse em encerrar e não houver falta grave clara.
+### Opção 2 — Rescisão indireta (art. 483 da CLT), se houver falta da empresa
+- Gera as mesmas verbas da Opção 1, mas por decisão judicial.
+- **Fundamentos possíveis:** FGTS não depositado nos meses em que trabalhou, salários ou horas extras não pagos, pagamento "por fora", desvio de função, limbo previdenciário (empresa recusa o retorno e não paga os salários).
+- **Risco:** se o juiz não reconhecer a falta, a saída pode ser convertida em pedido de demissão. Só usar com **prova documental**, como o extrato do FGTS.
+- Pode ser ajuizada junto com a cobrança de horas extras e outras diferenças, que aumentam o valor e o poder de negociação.
 
-### Opção 3 — Voltar após a alta e negociar a dispensa sem justa causa
-- Depois da alta, se a estabilidade estiver garantida (B91), a empresa costuma preferir pagar a indenização da estabilidade a mantê-lo por 12 meses.
-- **O que recebe:** todas as verbas da dispensa + seguro-desemprego + valor negociado da estabilidade.
-- É a opção mais vantajosa financeiramente, mas depende da vontade da empresa.
+### Opção 3 — Acordo (art. 484-A da CLT)
+- **O que ele recebe:** metade do aviso prévio, **20% de multa do FGTS**, saque de **80% do FGTS**, demais verbas integrais. **Não recebe seguro-desemprego.**
+- Usar se a empresa se recusar a dispensá-lo e não houver falta grave para a rescisão indireta.
+- Fazer após a alta. Se houver valores a acertar (horas extras, pagamento "por fora"), formalizar como **acordo extrajudicial homologado** (art. 855-B da CLT).
 
-### Opção 4 — Pedido de demissão ❌ evitar
-- Ele perde a multa de 40%, o saque do FGTS, o seguro-desemprego e a estabilidade.
-- Se for inevitável, deve ser feito **com assistência do sindicato** (art. 500 da CLT, aplicado por analogia ao empregado estável) e **sem renunciar** ao direito de cobrar as indenizações do acidente.
+### Opção 4 — Pedido de demissão ❌ última alternativa
+- Não há estabilidade a perder, mas ele perde a multa de 40%, o saque do FGTS e o seguro-desemprego. Continua recebendo saldo de salário, 13º e férias proporcionais + 1/3.
+- **Faz sentido só se** ele já tiver novo emprego garantido e a empresa se recusar a negociar. Mesmo assim, avaliar antes se há créditos para cobrar.
 
 ---
 
 ## 4. Recomendação prática imediata
 
-1. **Não pedir demissão e não assinar nada** enquanto aguarda a perícia.
-2. Verificar o **tipo de benefício (B31/B91)** e a **CAT**. Se o acidente foi a serviço ou no trajeto e não há CAT, emitir a CAT pelo próprio segurado ou pelo sindicato **antes da perícia**.
-3. Puxar o **extrato do FGTS** hoje: a falta de depósitos é a "chave" da rescisão indireta.
-4. Acompanhar a perícia:
-   - **se concedido:** o contrato continua suspenso; preparar as provas e aguardar a alta.
-   - **se negado:** apresentar-se formalmente à empresa (notificação por escrito ou e-mail) para documentar um eventual limbo; avaliar recurso no INSS ou ação acidentária.
-5. Após a alta, escolher entre a **rescisão indireta** (se houver falta comprovada) e o **acordo homologado com indenização da estabilidade**.
-6. Avaliar em paralelo: **seguro de vida da convenção coletiva**, **auxílio-acidente** (se ficar sequela) e **indenização civil** contra a empresa.
+1. **Confirmar que não foi chamado ao trabalho** naquele dia (pergunta 8-A). Se foi, voltar à estratégia de acidente de trabalho (CAT + estabilidade).
+2. **Não pedir demissão e não assinar nada** durante o afastamento. O contrato está suspenso e não há vantagem em sair agora.
+3. **Verificar o seguro de vida da convenção coletiva** e o seguro de trânsito: pedir a apólice à empresa ou ao sindicato.
+4. **Puxar o extrato do FGTS** e reunir contracheques: ver se há falta para rescisão indireta ou créditos para cobrar (horas extras, pagamento "por fora").
+5. **Perícia:**
+   - **se concedido:** aguardar. Se houver sequela, pedir o auxílio-acidente na alta.
+   - **se negado:** apresentar-se formalmente à empresa (notificação por escrito ou e-mail) e fazer o exame de retorno. Se a empresa recusar o retorno sem pagar salário, temos o limbo e base para rescisão indireta. Paralelamente, avaliar recurso administrativo ou ação contra o INSS (Justiça Federal, por ser benefício comum).
+6. **Após a alta:** negociar a **dispensa sem justa causa** (Opção 1). Plano B: rescisão indireta, se houver prova. Plano C: acordo do art. 484-A.
 
 **Prescrição:** 5 anos, limitada a 2 anos após o fim do contrato (art. 7º, XXIX, da CF).
