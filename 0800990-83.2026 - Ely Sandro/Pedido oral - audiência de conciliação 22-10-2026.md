@@ -9,10 +9,10 @@
 
 | Situação na abertura | Cenário | Proposta de acordo |
 |---|---|---|
-| Despacho no PJe cancelou a audiência | **C2** (petição) | Protocolo opcional, para registrar boa-fé |
+| Despacho no PJe cancelou a audiência | **C2** (petição) | Não apresentar |
 | Juiz/conciliador cancela na abertura do ato | **C1** (registro e protesto) | Não apresentar |
 | Autor ausente; presente só o advogado | **A** (extinção, art. 51, I) | **Não apresentar** e justificar |
-| Autor presente pessoalmente | **B** (registro, ratificação, julgamento antecipado) | **Apresentar** (Anexo) |
+| Autor presente pessoalmente | **B** (registro, ratificação, julgamento antecipado) | **Não apresentar** e justificar (recusa expressa do autor) |
 | Em qualquer cenário, se alegarem intempestividade | Bloco próprio | — |
 
 **Em todos os cenários em que o processo prosseguir:** ratificar a contestação em ata e registrar a ausência de procuração do autor.
@@ -26,8 +26,7 @@
 - [ ] Verificar, na abertura, **quem está presente pelo autor**: só o advogado (Dr. Ivan Lopes, OAB/PI 14.249) ou o próprio Francisco Antônio.
 - [ ] **Não há procuração do autor nos autos** (a inicial diz "procuração em anexo", mas nenhum dos documentos de 08/07/2026 é procuração). Conferir no PJe, antes do ato, se houve juntada posterior.
 - [ ] Se a audiência for conduzida por conciliador, pedir que o requerimento conste **literalmente em ata** para apreciação do juiz.
-- [ ] **Proposta de acordo:** autorização do Ely Sandro para os termos do Anexo (em especial a nota e a Cláusula 6ª) e procuração dele (ID 105179160) **com poderes para transigir**. Sem esses dois itens, não apresentar a proposta.
-- [ ] Ter impressa a **Proposta de acordo** (Anexo) para exibir no Cenário B.
+- [ ] Se surgir proposta do autor: lembrar que só o cliente decide; conferir se a procuração do Ely Sandro (ID 105179160) tem **poderes para transigir**.
 
 ---
 
@@ -99,7 +98,7 @@
 >
 > O requerido **ratifica neste ato a contestação de ID 106243575 e os documentos que a instruem**, requerendo que conste em ata.
 >
-> Em demonstração de efetiva disposição conciliatória, o requerido apresenta, neste ato, **proposta concreta de acordo**, nos seguintes termos: (i) o requerido publicará, uma única vez, em seu perfil no Facebook, **nota de esclarecimento** informando que o Inquérito Policial nº 0816146-68.2026.8.18.0140 foi arquivado por decisão de 24/06/2026, com reconhecimento da origem lícita do valor de R$ 147.300,00, mantendo-a por 7 dias; (ii) **sem pagamento** de qualquer valor, sem remoção de conteúdo e sem obrigação de abstenção; (iii) **sem reconhecimento** de ilicitude, culpa ou inveracidade e sem renúncia à imunidade parlamentar; (iv) o autor **renuncia ao direito** em que se funda a ação, com extinção do processo com resolução do mérito e **quitação recíproca**; (v) cada parte arca com os honorários de seu advogado. Requer que a proposta conste em ata, com a juntada da petição escrita, e que o autor se manifeste.
+> O requerido **deixa de apresentar proposta de acordo**, sem prejuízo da disposição conciliatória que mantém, porque o próprio autor declarou nos autos, de forma **expressa e inequívoca**, que **não tem interesse na autocomposição** (ID 107306168) e que a retratação é o núcleo da sua pretensão, afirmando que "inexiste ponto de convergência possível". A autocomposição é ato bilateral e voluntário, como o próprio autor sustentou na sua petição (art. 166 do CPC; art. 2º, § 2º, da Lei 13.140/2015). Diante da recusa prévia e expressa, qualquer proposta seria inócua. A inviabilidade da composição decorre, portanto, **exclusivamente da manifestação do autor**, e não do requerido, que compareceu pessoalmente e permanece aberto ao diálogo, inclusive em momento posterior (art. 139, V, do CPC).
 >
 > Registra, ainda, a **ausência de procuração do autor nos autos**, embora a inicial afirme "procuração em anexo", e requer a intimação do autor para regularizar a representação, sob pena de extinção (arts. 76, § 1º, I, e 485, IV, do CPC; art. 104, § 2º, do CPC).
 >
@@ -107,9 +106,7 @@
 >
 > São os requerimentos."
 
-**Se o autor fizer contraproposta:** não aceitar na hora. Pedir que conste em ata e requerer prazo (5 dias) para consulta ao cliente. **Não aceitar** retratação genérica, pagamento, remoção de vídeos ou abstenção de manifestações futuras sem autorização expressa do cliente.
-
-**Se o autor aceitar:** pedir a redução a termo dos exatos termos do Anexo e a homologação por sentença (art. 22, parágrafo único, da Lei 9.099/95; art. 487, III, "b" e "c", do CPC).
+**Se o autor fizer proposta:** não aceitar na hora. Pedir que conste em ata e requerer prazo (5 dias) para consulta ao cliente. **Não aceitar** retratação genérica, pagamento, remoção de vídeos ou abstenção de manifestações futuras sem autorização expressa do cliente.
 
 ---
 
@@ -130,7 +127,6 @@ Antes de qualquer deliberação, pedir o registro dos fatos. Eles servem de base
   2. **Irregularidade de representação:** intimação do autor para juntar procuração em prazo **improrrogável**, sob pena de extinção (arts. 76, § 1º, I, e 485, IV, do CPC), com a ineficácia dos atos não ratificados, inclusive o pedido de cancelamento e a própria inicial (art. 104, § 2º).
   3. **Ratificação da contestação** (ID 106243575) e defesa da tempestividade (Enunciados 10 e 11 do FONAJE; art. 231 do CPC fixado pelo juízo; boa-fé, arts. 5º e 6º; justa causa, art. 223), antecipando o ataque que o autor anunciou para a réplica.
   4. **Julgamento antecipado do mérito** (art. 355, I, do CPC), pela imunidade parlamentar material (art. 29, VIII, CF; Tema 469/STF), já reconhecida na decisão de ID 100909958.
-- **Opcional:** protocolar também a Proposta de acordo (Anexo), para registrar a boa-fé do requerido antes da réplica.
 
 ---
 
@@ -146,7 +142,7 @@ Antes de qualquer deliberação, pedir o registro dos fatos. Eles servem de base
 
 - **Em qualquer cenário em que o processo prossiga, ratificar a contestação em ata.** Valor da causa (R$ 60.000,00) supera 20 salários mínimos: pelo Enunciado 11 do FONAJE, a revelia aqui depende da ausência de contestação; a ratificação resolve também o risco do Enunciado 13.
 - **Não aceitar proposta de retratação genérica** ("reconhecer a inveracidade das imputações"). Se houver proposta, pedir prazo para consultar o cliente e que conste em ata.
-- **Proposta de acordo:** só no Cenário B (ver Mapa de decisão). No Cenário A, a justificativa substitui a proposta.
+- **Proposta de acordo:** o requerido **não apresenta proposta** em nenhum cenário. No Cenário A, por falta de interlocutor válido (autor ausente, sem procuração); no Cenário B, pela recusa expressa do autor (ID 107306168). Em ambos, registrar que a disposição conciliatória do requerido permanece.
 - **Não discutir mérito com o autor/advogado**; limitar-se ao registro em ata.
 - Conferir a ata **antes de encerrar**: ausência do autor (se for o caso), presença pessoal do réu, ratificação da contestação e o pedido de extinção com o fundamento (art. 51, I e § 2º).
 
@@ -165,55 +161,3 @@ Antes de qualquer deliberação, pedir o registro dos fatos. Eles servem de base
 | Procuração ausente | Lei 9.099/95, art. 9º, § 3º (poderes especiais não podem ser verbais); CPC arts. 76 § 1º I, 104 § 2º, 105, 485 IV |
 | Cancelamento | CPC art. 334, § 4º, I (desinteresse de **ambas** as partes); FONAJE 15 (sem agravo; impugnar em recurso inominado) |
 | Normas | Lei 9.099/95, arts. 2º, 9º §§ 3º e 4º, 20, 21, 22, 30, 51 I e §§ 1º e 2º, 54; FONAJE 10, 11, 13, 20, 28; CPC arts. 5º, 6º, 223, 231, 355 I, 486 § 2º |
-
-<!-- QUEBRA -->
-
-# ANEXO — PROPOSTA DE ACORDO (para exibir e juntar no Cenário B)
-
-**EXCELENTÍSSIMO SENHOR DOUTOR JUIZ DE DIREITO DA VARA ÚNICA DA COMARCA DE MIGUEL ALVES — ESTADO DO PIAUÍ**
-
-**Processo nº 0800990-83.2026.8.18.0061**
-
-**ELY SANDRO VAZ E SILVA**, já qualificado nos autos da ação movida por **FRANCISCO ANTÔNIO REBELO DE PAIVA**, por seu advogado, vem, respeitosamente, à presença de Vossa Excelência, com fundamento nos arts. 2º, 21 e 22 da Lei nº 9.099/1995 e nos arts. 3º, §§ 2º e 3º, e 139, V, do Código de Processo Civil, apresentar
-
-# PROPOSTA DE ACORDO
-
-nos termos a seguir, reafirmando a disposição conciliatória já manifestada na contestação (ID 106243575).
-
-## I. Da finalidade da proposta
-
-O requerido mantém integralmente as teses de defesa, em especial a incidência da imunidade parlamentar material (art. 29, VIII, da Constituição Federal; Tema 469 do STF), já reconhecida por este Juízo em cognição sumária (ID 100909958). Ainda assim, em atenção ao dever de cooperação e à política judiciária de solução consensual dos conflitos, apresenta proposta **concreta** de composição, o que afasta a alegação do autor de que o interesse conciliatório seria "meramente formal" e "desacompanhado de qualquer proposta concreta" (ID 107306168).
-
-## II. Das condições propostas
-
-**Cláusula 1ª — Nota de esclarecimento.** O requerido publicará, **uma única vez**, em seu perfil pessoal no Facebook, no prazo de 5 (cinco) dias contados da homologação, mantendo-a publicada por 7 (sete) dias, a seguinte nota, sem acréscimos ou supressões:
-
-> *"Esclarecimento. Em relação aos pronunciamentos que fiz entre fevereiro e maio de 2026 sobre a quantia apreendida com o Secretário Municipal de Finanças, informo que, por decisão de 24/06/2026, o Juízo da Central de Inquéritos de Teresina arquivou o Inquérito Policial nº 0816146-68.2026.8.18.0140, reconhecendo a origem lícita do valor de R$ 147.300,00 e determinando a sua restituição. Registro essa informação em respeito ao direito de informação da população de Miguel Alves."*
-
-**Cláusula 2ª — Ausência de reconhecimento de culpa.** A nota tem caráter exclusivamente informativo e reproduz fato objetivo já admitido na contestação. O acordo **não importa reconhecimento** de ilicitude, culpa, responsabilidade civil ou penal, nem de inveracidade de qualquer manifestação, e **não implica renúncia** à imunidade parlamentar material ou ao exercício da função fiscalizadora inerente ao mandato.
-
-**Cláusula 3ª — Sem obrigações pecuniárias ou de abstenção.** Não haverá pagamento de qualquer valor a título de indenização, nem obrigação de remoção de conteúdo ou de abstenção de manifestações futuras.
-
-**Cláusula 4ª — Extinção e quitação.** O autor **renuncia ao direito sobre o qual se funda a ação**, requerendo-se a homologação do acordo e a extinção do processo com resolução do mérito (art. 487, III, "b" e "c", do CPC), com **plena, geral e recíproca quitação** quanto aos fatos narrados na inicial.
-
-**Cláusula 5ª — Custas e honorários.** Cada parte arcará com os honorários de seu advogado. Sem custas, nos termos do art. 54 da Lei nº 9.099/1995.
-
-**Cláusula 6ª — Queixa-crime.** [OPCIONAL — confirmar com o cliente] Considerando que os mesmos fatos são objeto da Queixa-Crime nº 0800876-47.2026.8.18.0061, em trâmite neste Juízo, o querelante concede **perdão** ao querelado, para os fins dos arts. 105 e 107, V, do Código Penal, comprometendo-se a requerer a extinção da punibilidade naqueles autos no prazo de 5 (cinco) dias da homologação.
-
-**Cláusula 7ª — Descumprimento.** O descumprimento da Cláusula 1ª autoriza a execução da obrigação de fazer nos próprios autos (art. 52, V, da Lei nº 9.099/1995).
-
-## III. Dos requerimentos
-
-Ante o exposto, requer:
-
-1. o **registro desta proposta** nos autos e em ata;
-2. a **intimação do autor** para que se manifeste sobre ela;
-3. em caso de aceitação, a **homologação do acordo** por sentença, com resolução do mérito (art. 22, parágrafo único, da Lei nº 9.099/1995; art. 487, III, do CPC);
-4. em caso de recusa, o **registro de que a composição foi inviabilizada pelo autor** e o regular prosseguimento do feito, com o julgamento antecipado do mérito (art. 355, I, do CPC).
-
-Nestes termos, pede deferimento.
-
-Miguel Alves/PI, 22 de outubro de 2026.
-
-**ANTÔNIO DE PÁDUA SANTOS NETO**
-**OAB/PI nº 21.320**
