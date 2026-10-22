@@ -18,7 +18,7 @@
 
 > "Pela ordem, Excelência/Senhor(a) Conciliador(a). A defesa do requerido Ely Sandro Vaz e Silva requer, inicialmente, que conste em ata que o **requerido compareceu pessoalmente** ao ato e que o **autor, Francisco Antônio Rebelo de Paiva, não compareceu**, estando presente apenas o seu advogado.
 >
-> Este Juízo recebeu a inicial sob o **rito da Lei nº 9.099/1995** (decisão de ID 100909958), e a presente sessão foi designada com fundamento nos **arts. 21 e 22** daquela lei (despacho de ID 106314056). No rito dos Juizados, o **comparecimento pessoal da parte é obrigatório**, conforme o **Enunciado nº 20 do FONAJE**; a representação por terceiro só é admitida à pessoa jurídica, por preposto (art. 9º, § 4º). A presença do advogado, portanto, não supre a ausência do autor.
+> Este Juízo recebeu a inicial sob o **rito da Lei nº 9.099/1995** (decisão de ID 100909958), e a presente sessão foi designada com fundamento nos **arts. 21 e 22** daquela lei (despacho de ID 106314056). Tanto é assim que o autor **ajuizou a ação sem recolher custas**, benefício próprio do primeiro grau dos Juizados (**art. 54 da Lei nº 9.099/1995**). Quem se vale das vantagens do rito sujeita-se também às suas regras. A remissão ao art. 231 do CPC, feita pelo Juízo apenas para fixar o termo inicial do prazo de defesa, não altera o rito do processo. No rito dos Juizados, o **comparecimento pessoal da parte é obrigatório**, conforme o **Enunciado nº 20 do FONAJE**; a representação por terceiro só é admitida à pessoa jurídica, por preposto (art. 9º, § 4º). A presença do advogado, portanto, não supre a ausência do autor.
 >
 > O autor tinha **ciência inequívoca** do ato: ele próprio peticionou ontem, no ID 107306168, mencionando a data, o horário e a possibilidade de participação por videoconferência — e, ainda assim, optou por não comparecer. A mera declaração de desinteresse na conciliação **não dispensa** o comparecimento no rito sumaríssimo, nem configura força maior. A extinção, nesse caso, **independe de prévia intimação pessoal** (art. 51, § 1º).
 >
@@ -38,7 +38,11 @@
 
 **Se o advogado do autor invocar o art. 334, § 10, do CPC (representação por advogado com poderes especiais):**
 
-> "Excelência, o art. 334 do CPC não rege este ato. O feito tramita sob o rito da Lei 9.099/1995, conforme a decisão de ID 100909958, e a sessão foi designada com base nos arts. 21 e 22 dessa lei, que têm regra própria e específica para a ausência do autor (art. 51, I). A norma especial prevalece sobre a geral."
+> "Excelência, o art. 334 do CPC não rege este ato. O feito tramita sob o rito da Lei 9.099/1995, conforme a decisão de ID 100909958, e a sessão foi designada com base nos arts. 21 e 22 dessa lei, que têm regra própria e específica para a ausência do autor (art. 51, I). A norma especial prevalece sobre a geral. O próprio autor se beneficiou do rito ao ajuizar sem custas (art. 54 da Lei 9.099/95); não pode agora afastá-lo para fugir da consequência da sua ausência."
+
+**Se alegarem que não houve custas por causa da justiça gratuita (e não do rito):**
+
+> "No primeiro grau dos Juizados o acesso independe de custas por força de lei (art. 54), com ou sem gratuidade. A gratuidade só repercute na exigibilidade, não no rito. E a condenação em custas do art. 51, § 2º, é justamente a exceção legal ao art. 54 para o autor que falta à audiência."
 
 ---
 
