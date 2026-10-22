@@ -65,6 +65,12 @@
 
 > "No primeiro grau dos Juizados o acesso independe de custas por força de lei (art. 54), com ou sem gratuidade. A gratuidade só repercute na exigibilidade, não no rito. E a condenação em custas do art. 51, § 2º, é justamente a exceção legal ao art. 54 para o autor que falta à audiência, com natureza sancionatória que a gratuidade não afasta (TJMT, RI 1023350-98.2025.8.11.0015)."
 
+**7. O advogado do autor pede prazo de 15 dias para juntar a procuração (art. 104 do CPC):**
+
+> "Excelência, duas observações. Primeiro, o prazo do art. 104, § 1º, do CPC é de 15 dias **contados do ato praticado sem mandato**, prorrogável uma vez por despacho. A inicial foi protocolada em 08/07/2026, há mais de três meses, sem procuração e sem pedido de prorrogação: o prazo legal **já se esgotou**, e os atos não ratificados são ineficazes (art. 104, § 2º). Caso Vossa Excelência entenda por conceder novo prazo (art. 76 do CPC), requer que seja **improrrogável** e **sob pena de extinção** (art. 76, § 1º, I, e art. 485, IV).
+>
+> Segundo, e principalmente: a regularização da procuração **não supre a ausência pessoal do autor** a esta audiência. São questões independentes. Ainda que juntada procuração com poderes para transigir, nos Juizados a presença do advogado não substitui a da parte (Enunciado 20 do FONAJE; TJPI, RI 0000116-41.2012.8.18.0088; TJPR, Proc. 0008989-29.2024.8.16.0035). A extinção pelo art. 51, I, decorre do fato já ocorrido hoje e **não depende** da regularização. Reitera-se, assim, o pedido de extinção, sem prejuízo do prazo eventualmente concedido."
+
 ---
 
 ## CENÁRIO B — O autor comparece pessoalmente e não há acordo
