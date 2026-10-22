@@ -54,6 +54,30 @@
 
 *Obs.: este último foi extraído da citação no acórdão; conferir o inteiro teor antes de citar como precedente autônomo.*
 
+### 3. TJMT — Segunda Turma Recursal — Recurso Inominado nº 1023350-98.2025.8.11.0015
+- **Relator:** Edson Dias Reis — **Julgamento:** 01/09/2026 — **Publicação:** 05/09/2026 — unânime
+- **Partes:** Osvaldo da Conceição Silva x Loja dos Óculos Ltda. e Brasil Card Administradora de Cartão de Crédito Ltda.
+- **Teses:** A2 (justificativa sem prova idônea não afasta a extinção), **A4 (custas têm natureza sancionatória e NÃO são afastadas pela gratuidade)**, e supre a distinção do precedente nº 1: **ausência de advertência expressa na intimação não gera nulidade sem prejuízo concreto**.
+
+**Ementa (trechos principais):**
+> DIREITO PROCESSUAL CIVIL. RECURSO INOMINADO. JUIZADOS ESPECIAIS. AUSÊNCIA DO AUTOR À AUDIÊNCIA DE CONCILIAÇÃO. JUSTIFICATIVA SEM COMPROVAÇÃO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. CUSTAS PROCESSUAIS. RECURSO DESPROVIDO.
+>
+> [...] A ausência de advertência expressa na intimação acerca das consequências do não comparecimento não gera nulidade sem demonstração de prejuízo concreto. O autor tinha ciência da audiência e não compareceu ao ato. A ausência injustificada à audiência também autoriza a condenação ao pagamento das custas processuais. A sanção não é afastada pela gratuidade da justiça.
+>
+> **Tese de julgamento:** "1. O não comparecimento do autor à audiência nos Juizados Especiais autoriza a extinção do processo sem resolução do mérito, quando a justificativa apresentada não estiver acompanhada de prova idônea do impedimento. 2. A ausência de advertência expressa na intimação sobre as consequências do não comparecimento não gera nulidade sem demonstração de prejuízo concreto. 3. A ausência injustificada do autor à audiência autoriza sua condenação ao pagamento das custas processuais, não afastada pela gratuidade da justiça."
+
+**Trechos úteis do voto:**
+- "A norma decorre da própria sistemática dos Juizados Especiais, em que a presença pessoal das partes nos atos processuais constitui elemento relevante para concretização dos princípios da oralidade, simplicidade e busca pela autocomposição."
+- "Registre-se que a condenação ao pagamento de custas pela ausência injustificada à audiência possui natureza sancionatória, não sendo afastada pelo deferimento da gratuidade da justiça."
+- Honorários de 15% sobre o valor da causa, com exigibilidade suspensa (art. 98, § 3º, do CPC) — a suspensão alcançou os honorários, **não as custas sancionatórias**.
+
+**Precedente citado no voto:**
+> "[...] nos Juizados Especiais, a ausência do autor à audiência, sem justificativa tempestiva e comprovada, impõe a extinção do processo e a condenação ao pagamento de custas, conforme o Enunciado 28 do FONAJE. A natureza punitiva das custas impostas em razão da ausência injustificada não é afastada pelo deferimento da gratuidade da justiça." (TJMT, Turma Recursal Cível, N.U. 1027619-28.2025.8.11.0001, Rel. Gonçalo Antunes de Barros Neto, j. 13/11/2025, DJE 18/11/2025)
+>
+> *Obs.: no texto colado consta "Enunciado 288" — erro material evidente; o enunciado é o 28 do FONAJE. Conferir o inteiro teor antes de citar autonomamente.*
+
+**Aplicação ao caso:** muito recente (set./2026). Resolve o ponto de atenção do precedente nº 1 (falta de advertência no despacho de ID 106314056) e autoriza pedir custas **sem a ressalva da gratuidade** — o autor é beneficiário da justiça gratuita. No nosso caso o autor sequer apresentou justificativa de impedimento: apenas desinteresse.
+
 ---
 
 ## PRECEDENTES CONTRÁRIOS (argumentos que o autor pode usar)
