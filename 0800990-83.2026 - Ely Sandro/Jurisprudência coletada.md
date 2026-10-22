@@ -24,3 +24,32 @@
 **Aplicação ao caso:** precedente da própria Turma Recursal do TJPI. Confirma que a ausência pessoal do autor à conciliação, sem justificativa idônea, impõe a extinção (arts. 20 e 51, I; Enunciado 20). Aqui o autor nem sequer alega impedimento: apenas manifestou desinteresse e anunciou que só o advogado participaria.
 
 **Ponto de atenção (distinção possível):** no precedente, o despacho advertiu expressamente "sob pena de arquivamento". Conferir se o despacho de ID 106314056 contém advertência semelhante. Se não contiver, responder com o art. 51, § 1º (extinção independe de prévia intimação pessoal) e com a ciência inequívoca do autor (petição de ID 107306168).
+
+### 2. TJPR — 3ª Turma Recursal dos Juizados Especiais — Recurso Inominado Cível nº 0002883-64.2024.8.16.0160 (Juizado Especial Cível de Sarandi)
+- **Relatora:** Helênika Valente de Souza Pinto — **Julgamento:** 17/04/2026 (sessão; consta 22/04/2026 nas bases de pesquisa) — **Publicação:** 22/04/2026 — unânime
+- **Partes:** Damaris Stefani Satira Rola x Raul Duran de Lucena
+- **Fonte:** acórdão em PDF juntado pelo advogado (inteiro teor conferido).
+- **Teses:** A1, **A2 (desinteresse prévio — caso praticamente idêntico)**, **A3 (inaplicabilidade do art. 334, § 4º, I, do CPC)**, A4 (honorários de 20% — art. 55 — e custas, com exigibilidade suspensa pela gratuidade); rebate a alegação de boa-fé/celeridade/economia processual e de confiança legítima.
+
+**Ementa (trechos principais):**
+> RECURSO INOMINADO. DIREITO PROCESSUAL CIVIL. JUIZADO ESPECIAL CÍVEL. AUSÊNCIA INJUSTIFICADA DO AUTOR À AUDIÊNCIA DE CONCILIAÇÃO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ART. 20 e 51, I, DA LEI Nº 9.099/95. MANIFESTAÇÃO PRÉVIA DE DESINTERESSE NA CONCILIAÇÃO QUE NÃO AFASTA A OBRIGATORIEDADE DO COMPARECIMENTO. INAPLICABILIDADE DO ART. 334, §4º, I, DO CPC. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+>
+> [...] nos Juizados Especiais Cíveis, a audiência de conciliação constitui ato essencial e obrigatório do procedimento, nos termos dos arts. 2º, 20 e 51 da Lei nº 9.099/95, sendo o comparecimento pessoal das partes exigência legal expressa. Desta forma, a ausência injustificada da autora, devidamente intimada, impõe a extinção do processo sem resolução do mérito, como **consequência legal objetiva, não se tratando de faculdade do magistrado, mas de comando normativo cogente**.
+>
+> [...] no rito da Lei nº 9.099/95, **não existe previsão legal que autorize o cancelamento automático da audiência apenas com base na manifestação unilateral ou bilateral das partes**, diferentemente do que ocorre no procedimento comum do CPC. [...] a audiência no Juizado não se limita à tentativa de acordo, possuindo também **função ordenadora e saneadora do processo**, razão pela qual sua dispensa não pode ser presumida.
+>
+> [...] a Lei nº 9.099/95 não é omissa quanto às consequências da ausência do autor à audiência, prevendo expressamente a extinção do processo no art. 51, I. Assim, **não há espaço para aplicação subsidiária do CPC quando a lei especial disciplina de forma clara a matéria, sob pena de violação ao princípio da especialidade**.
+>
+> [...] A confiança legítima invocada pela recorrente não pode se sobrepor à lei [...]. Eventual necessidade de repropositura da ação decorre exclusivamente da inobservância do dever processual da parte autora, não podendo ser imputada ao Judiciário.
+>
+> [...] A jurisprudência colacionada pela recorrente não se aplica [...] porque envolve demandas da Fazenda Pública [...] ou situações específicas em que **a audiência foi expressamente cancelada pelo juízo antes de sua realização** [...]. No presente caso, a audiência foi regularmente designada, não cancelada, e a parte autora deixou de comparecer sem justificativa idônea, incidindo exatamente a hipótese do art. 51, I.
+
+**Voto:** honorários de 20% sobre o valor corrigido da causa (art. 55 da Lei 9.099/95) e custas, com suspensão da cobrança (art. 98, § 3º, do CPC) pela gratuidade.
+
+**Aplicação ao caso:** é o precedente mais próximo — autor que manifestou desinteresse prévio, invocou o art. 334, § 4º, do CPC, boa-fé e economia processual (exatamente os argumentos da petição de ID 107306168) e teve a extinção mantida. Reforça a importância de que a audiência **não tenha sido cancelada** pelo juízo.
+
+**Precedente citado dentro do acórdão (A1 — advogado com poderes para transigir):**
+> RECURSO INOMINADO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AUDIÊNCIA DE CONCILIAÇÃO DESIGNADA PELO JUÍZO. AUSÊNCIA INJUSTIFICADA DA EXEQUENTE. COMPARECIMENTO PESSOAL OBRIGATÓRIO (ART. 51, I, LEI 9.099/95 E ENUNCIADO 20 DO FONAJE). **ALEGADA PRESENÇA DO ADVOGADO COM PODERES PARA TRANSIGIR. IRRELEVÂNCIA.** AUDIÊNCIA CONCILIATÓRIA, AINDA QUE INCIDENTAL, MANTÉM NATUREZA OBRIGATÓRIA. INEXISTÊNCIA DE JUSTIFICATIVA PARA O NÃO COMPARECIMENTO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO MANTIDA. Recurso conhecido e desprovido.
+> (TJPR, 3ª Turma Recursal, Processo nº 0008989-29.2024.8.16.0035, Rel. Helênika Valente de Souza Pinto, j. 23/03/2026)
+
+*Obs.: este último foi extraído da citação no acórdão; conferir o inteiro teor antes de citar como precedente autônomo.*
