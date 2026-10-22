@@ -27,6 +27,8 @@
 >
 > Há mais, Excelência: **não há procuração do autor nos autos**. A inicial afirma "procuração em anexo", mas nenhum dos documentos que a instruem é instrumento de mandato. O advogado presente, portanto, **não tem mandato** para representar o autor, muito menos **poderes especiais para transigir**, que nos Juizados **não podem ser conferidos verbalmente** (art. 9º, § 3º, da Lei 9.099/95; art. 105 do CPC). E o mandato verbal só poderia ser outorgado pelo próprio autor, que não está presente. Não há, assim, quem fale validamente em nome do autor neste ato.
 >
+> Por essas razões, o requerido **deixa de apresentar proposta de acordo neste ato**, não por falta de disposição conciliatória, que mantém e manifestou na contestação, mas porque **não há interlocutor válido**: o autor não compareceu, declarou nos autos que não tem interesse na composição, e o advogado presente não possui procuração nem poderes especiais para transigir, que não podem ser verbais (art. 9º, § 3º). Qualquer proposta seria inócua e não poderia ser aceita validamente em nome do autor. A ausência de proposta decorre, portanto, **exclusivamente da conduta do autor**, e não do requerido.
+>
 > Diante disso, requer:
 >
 > **1)** a **extinção do processo sem resolução do mérito**, nos termos do **art. 51, inciso I, da Lei nº 9.099/1995**;
@@ -51,7 +53,7 @@
 
 **3. "A audiência seria mero ato pro forma, pois o réu não trouxe proposta concreta" (tese do TJSP, RI 1010181-63.2017.8.26.0320):**
 
-> "Excelência, esse argumento não se aplica. Primeiro, a ausência aqui foi **deliberada e anunciada**: o autor declarou nos autos que não quer transigir, de modo que o advogado comparece com a ordem do próprio mandante de não compor. Quem frustrou a finalidade do ato foi o autor, não o réu, que está presente pessoalmente. Segundo, aquele precedente pressupõe advogado 'com amplos poderes para transigir'; aqui **não há sequer procuração nos autos**, e poderes para transigir não podem ser verbais nos Juizados (art. 9º, § 3º). Terceiro, a causa versa sobre **honra e retratação pessoal**, matéria personalíssima em que a presença das partes é essencial a qualquer composição. Quarto, a audiência nos Juizados não serve apenas à proposta de acordo: tem **função ordenadora e saneadora do processo**, razão pela qual sua dispensa não pode ser presumida (TJPR, RI 0002883-64.2024.8.16.0160). Por fim, o entendimento invocado é isolado, de 2018, e contraria o Enunciado 20 do FONAJE e a orientação da 2ª Turma Recursal deste Tribunal."
+> "Excelência, esse argumento não se aplica. Primeiro, a ausência aqui foi **deliberada e anunciada**: o autor declarou nos autos que não quer transigir, de modo que o advogado comparece com a ordem do próprio mandante de não compor. Quem frustrou a finalidade do ato foi o autor, não o réu, que está presente pessoalmente. Se não há proposta sobre a mesa, é porque não há com quem transigir validamente: o autor está ausente e seu advogado não tem procuração. Segundo, aquele precedente pressupõe advogado 'com amplos poderes para transigir'; aqui **não há sequer procuração nos autos**, e poderes para transigir não podem ser verbais nos Juizados (art. 9º, § 3º). Terceiro, a causa versa sobre **honra e retratação pessoal**, matéria personalíssima em que a presença das partes é essencial a qualquer composição. Quarto, a audiência nos Juizados não serve apenas à proposta de acordo: tem **função ordenadora e saneadora do processo**, razão pela qual sua dispensa não pode ser presumida (TJPR, RI 0002883-64.2024.8.16.0160). Por fim, o entendimento invocado é isolado, de 2018, e contraria o Enunciado 20 do FONAJE e a orientação da 2ª Turma Recursal deste Tribunal."
 
 **4. "O despacho não advertiu sobre a consequência da ausência":**
 
@@ -80,6 +82,8 @@
 > Registra a defesa que o interesse na conciliação manifestado pelo requerido é legítimo e decorre de **previsão legal expressa** (arts. 21 e 22 da Lei 9.099/1995), não havendo falar em violação à boa-fé (art. 5º do CPC). Discordar do mérito da pretensão não é deslealdade processual: a autocomposição não pressupõe que o réu aceite integralmente o pedido, muito menos uma retratação genérica.
 >
 > O requerido **ratifica neste ato a contestação de ID 106243575 e os documentos que a instruem**, requerendo que conste em ata.
+>
+> O requerido apresenta, neste ato, **proposta concreta de acordo**, nos termos da petição que ora exibe (nota de esclarecimento factual, sem pagamento, sem remoção de conteúdo, sem reconhecimento de culpa, com extinção do processo e quitação recíproca), requerendo que conste em ata e que o autor se manifeste.
 >
 > Registra, ainda, a **ausência de procuração do autor nos autos**, embora a inicial afirme "procuração em anexo", e requer a intimação do autor para regularizar a representação, sob pena de extinção (arts. 76, § 1º, I, e 485, IV, do CPC; art. 104, § 2º, do CPC).
 >
@@ -122,6 +126,7 @@ Antes de qualquer deliberação, pedir o registro dos fatos. Eles servem de base
 
 - **Em qualquer cenário em que o processo prossiga, ratificar a contestação em ata.** Valor da causa (R$ 60.000,00) supera 20 salários mínimos: pelo Enunciado 11 do FONAJE, a revelia aqui depende da ausência de contestação; a ratificação resolve também o risco do Enunciado 13.
 - **Não aceitar proposta de retratação genérica** ("reconhecer a inveracidade das imputações"). Se houver proposta, pedir prazo para consultar o cliente e que conste em ata.
+- **Proposta de acordo, por cenário** (arquivo *Proposta de acordo - 22-10-2026*): **Cenário A** → **não apresentar** e justificar (autor ausente, sem procuração, sem interlocutor válido); **Cenário B** → **apresentar** a proposta e pedir registro em ata; **Cenário C2** → protocolar a proposta é opcional, para registrar boa-fé.
 - **Opcional, a critério do cliente:** levar uma posição mínima, não confessional (ex.: reconhecer o fato já admitido na contestação, de que o inquérito foi arquivado com reconhecimento da origem lícita do numerário), para esvaziar a tese de que a audiência seria "pro forma" sem proposta concreta. Não é retratação.
 - **Não discutir mérito com o autor/advogado**; limitar-se ao registro em ata.
 - Conferir a ata **antes de encerrar**: ausência do autor (se for o caso), presença pessoal do réu, ratificação da contestação e o pedido de extinção com o fundamento (art. 51, I e § 2º).
