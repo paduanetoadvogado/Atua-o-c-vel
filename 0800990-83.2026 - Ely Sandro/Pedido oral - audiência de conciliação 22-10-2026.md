@@ -96,7 +96,7 @@
 >
 > Registra a defesa que o interesse na conciliação manifestado pelo requerido é legítimo e decorre de **previsão legal expressa** (arts. 21 e 22 da Lei 9.099/1995), não havendo falar em violação à boa-fé (art. 5º do CPC). Discordar do mérito da pretensão não é deslealdade processual: a autocomposição não pressupõe que o réu aceite integralmente o pedido, muito menos uma retratação genérica.
 >
-> O requerido **ratifica neste ato a contestação de ID 106243575 e os documentos que a instruem**, requerendo que conste em ata.
+> O requerido **ratifica integralmente e apresenta neste ato a contestação de ID 106243575 e os documentos que a instruem** (art. 30 da Lei 9.099/95), nos termos do bloco *Ratificação da contestação*, requerendo que conste em ata.
 >
 > O requerido **deixa de apresentar proposta de acordo**, sem prejuízo da disposição conciliatória que mantém, porque o próprio autor declarou nos autos, de forma **expressa e inequívoca**, que **não tem interesse na autocomposição** (ID 107306168) e que a retratação é o núcleo da sua pretensão, afirmando que "inexiste ponto de convergência possível". A autocomposição é ato bilateral e voluntário, como o próprio autor sustentou na sua petição (art. 166 do CPC; art. 2º, § 2º, da Lei 13.140/2015). Diante da recusa prévia e expressa, qualquer proposta seria inócua. A inviabilidade da composição decorre, portanto, **exclusivamente da manifestação do autor**, e não do requerido, que compareceu pessoalmente e permanece aberto ao diálogo, inclusive em momento posterior (art. 139, V, do CPC).
 >
@@ -136,6 +136,18 @@ Antes de qualquer deliberação, pedir o registro dos fatos. Eles servem de base
 
 ---
 
+## Ratificação da contestação (Cenários A, se não houver extinção, B e C1)
+
+> "Excelência, a defesa requer que conste em ata que o requerido **Ely Sandro Vaz e Silva**, presente pessoalmente e assistido por seu advogado, **ratifica integralmente a contestação de ID 106243575 e todos os documentos que a instruem**, e a **apresenta neste ato**, para todos os fins, nos termos do **art. 30 da Lei nº 9.099/1995**, segundo o qual a contestação, oral ou escrita, é apresentada na audiência.
+>
+> Reitera, assim, **todas as preliminares** (tempestividade, ilegitimidade ativa quanto a familiares e terceiros e inépcia parcial do pedido genérico de abstenção), **toda a matéria de mérito**, em especial a **imunidade parlamentar material** (art. 29, VIII, da CF; Tema 469 do STF), e **todos os requerimentos de prova**, inclusive a requisição à Câmara Municipal de Miguel Alves das atas e gravações integrais das sessões de 27/02, 13/03, 27/03 e 09/05/2026 e o depoimento pessoal do autor.
+>
+> Requer, por fim, que a defesa seja **recebida como apresentada nesta audiência**, o que afasta qualquer alegação de revelia, nos termos dos **Enunciados 10 e 11 do FONAJE**: a contestação pode ser apresentada até a audiência de instrução e julgamento e, nas causas de valor superior a vinte salários mínimos, a revelia só decorre da sua ausência, o que não ocorre."
+
+**Conferir na ata:** (i) presença pessoal do réu; (ii) ratificação **integral** da contestação de ID 106243575 **e documentos**; (iii) menção ao **art. 30 da Lei 9.099/95** ("apresentada neste ato"); (iv) reiteração das preliminares, do mérito e das provas.
+
+---
+
 ## Se o autor alegar intempestividade da contestação (qualquer cenário)
 
 > "Excelência, a questão está superada. A audiência foi designada **a partir do requerimento formulado na própria contestação** (ID 106243575), sem certidão de decurso de prazo ou de intempestividade: o Juízo recebeu a defesa e lhe deu seguimento. Além disso, no rito da Lei 9.099/1995, a revelia decorre do **não comparecimento do réu** (art. 20) ou, nas causas superiores a vinte salários mínimos, da **ausência de contestação** (Enunciado 11 do FONAJE), que é apresentada **na audiência** (art. 30) e, nos termos do **Enunciado 10 do FONAJE**, '**a contestação poderá ser apresentada até a audiência de Instrução e Julgamento**'. Nenhuma das hipóteses ocorre. Ad cautelam, o requerido **ratifica neste ato a contestação de ID 106243575 e os documentos que a instruem**, requerendo que conste em ata.
@@ -146,7 +158,7 @@ Antes de qualquer deliberação, pedir o registro dos fatos. Eles servem de base
 
 ## Cuidados durante o ato
 
-- **Em qualquer cenário em que o processo prossiga, ratificar a contestação em ata.** Valor da causa (R$ 60.000,00) supera 20 salários mínimos: pelo Enunciado 11 do FONAJE, a revelia aqui depende da ausência de contestação; a ratificação resolve também o risco do Enunciado 13.
+- **Em qualquer cenário em que o processo prossiga, ratificar a contestação em ata** (bloco *Ratificação da contestação*). Valor da causa (R$ 60.000,00) supera 20 salários mínimos: pelo Enunciado 11 do FONAJE, a revelia aqui depende da ausência de contestação; a ratificação resolve também o risco do Enunciado 13.
 - **Não aceitar proposta de retratação genérica** ("reconhecer a inveracidade das imputações"). Se houver proposta, pedir prazo para consultar o cliente e que conste em ata.
 - **Proposta de acordo:** o requerido **não apresenta proposta** em nenhum cenário. No Cenário A, por falta de interlocutor válido (autor ausente, sem procuração); no Cenário B, pela recusa expressa do autor (ID 107306168). Em ambos, registrar que a disposição conciliatória do requerido permanece.
 - **Não discutir mérito com o autor/advogado**; limitar-se ao registro em ata.
