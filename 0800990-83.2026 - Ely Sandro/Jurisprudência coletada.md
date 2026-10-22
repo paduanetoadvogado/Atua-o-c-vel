@@ -53,3 +53,31 @@
 > (TJPR, 3ª Turma Recursal, Processo nº 0008989-29.2024.8.16.0035, Rel. Helênika Valente de Souza Pinto, j. 23/03/2026)
 
 *Obs.: este último foi extraído da citação no acórdão; conferir o inteiro teor antes de citar como precedente autônomo.*
+
+---
+
+## PRECEDENTES CONTRÁRIOS (argumentos que o autor pode usar)
+
+### C1. TJSP — 1ª Turma Cível do Colégio Recursal de Limeira — Recurso Inominado nº 1010181-63.2017.8.26.0320
+- **Relator:** Marcelo Ielo Amaro — **Julgamento:** 29/10/2018 — **Publicação:** 31/10/2018
+- **Resultado:** recurso provido para **afastar** a extinção pelo art. 51, I.
+
+**Ementa:**
+> AÇÃO JUIZADO ESPECIAL – EXTINÇÃO PELA AUSÊNCIA FÍSICA DO AUTOR AUDIÊNCIA DE CONCILIAÇÃO – PREMATURO ENCERRAMENTO DO FEITO – REPRESENTAÇÃO POR ADVOGADO COM AMPLOS PODERES PARA TRANSIGIR – PRINCÍPIOS DA INFORMALIDADE E INSTRUMENTALIDADE – RECURSO PROVIDO
+
+**Fundamentos do voto:**
+- Advogado presente "com amplos poderes para transigir em nome do faltante".
+- A sessão "tem mero aspecto pro forma o que resta corroborado pelo fato de que **não se lançou, em nenhum momento, proposta concreta para acordo**"; o ato teria atingido sua finalidade (instrumentalidade das formas; *pas de nullité sans grief*).
+- Extinguir ofenderia economia e celeridade, pois o autor voltaria a ajuizar a mesma ação.
+- Reconhece que o sistema exige comparecimento pessoal, mas rejeita "formalismo incompatível com o espírito dos Juizados".
+- Cita: Colégio Recursal de Jaboticabal, RI 1001194-59.2015.8.26.0368 (mesma linha: ré sem proposta concreta, advogados com poderes para transigir); Colégio Recursal de Campinas, RI 0052154-61.2011.8.26.0114, j. 08/11/2013 (ausência **justificada por atestado médico** — hipótese distinta).
+
+**Risco específico:** a petição do autor (ID 107306168) já afirma que o interesse conciliatório do réu é "meramente formal" e "desacompanhado de qualquer proposta concreta" — exatamente o fundamento central deste acórdão.
+
+**Distinções a sustentar:**
+1. **Ausência deliberada e anunciada.** No precedente, a falta não foi precedida de recusa expressa. Aqui o autor declarou nos autos que não quer transigir e que só o advogado participaria: o advogado comparece com a ordem do próprio mandante de **não** compor. A finalidade do ato fica frustrada por escolha do autor, não por mera forma.
+2. **Natureza personalíssima da causa.** A ação versa sobre honra e **retratação pessoal** do autor; a presença das partes é especialmente relevante para a composição (retratação, nota de esclarecimento), que não se resolve por mero valor pecuniário.
+3. **Poderes para transigir.** Conferir se a procuração do autor contém poderes especiais para transigir; se não contiver, o precedente não se aplica nem em tese.
+4. **Precedente isolado, antigo e de outro Estado** (TJSP, 2018), contra o Enunciado 20 do FONAJE e contra a orientação da **própria Turma Recursal do TJPI** (RI 0000116-41.2012.8.18.0088, 2023) e a da 3ª TR do TJPR (2026), que declarou **irrelevante** a presença do advogado com poderes para transigir.
+5. **Função ordenadora e saneadora** da audiência nos Juizados (TJPR, RI 0002883-64.2024.8.16.0160): o ato não serve apenas à proposta de acordo, logo não é "pro forma".
+6. **Repropositura** é consequência da conduta do autor (TJPR, mesmo acórdão), e a lei impõe custas justamente para desestimulá-la (art. 51, § 2º; art. 486, § 2º, do CPC).
