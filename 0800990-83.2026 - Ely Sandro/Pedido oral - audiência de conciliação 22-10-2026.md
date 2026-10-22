@@ -8,7 +8,7 @@
 ## Antes de abrir a sessão
 
 - [ ] Ely Sandro presente **pessoalmente** (câmera ligada, documento em mãos). Ausência do réu = revelia (art. 20 da Lei 9.099/95).
-- [ ] Conferir no PJe se saiu despacho sobre a manifestação do autor (ID 107306168) **cancelando** a audiência. Se a audiência for cancelada pelo juízo antes do ato, a tese de extinção cai (TJPR distingue exatamente esse caso).
+- [ ] Conferir no PJe se saiu despacho sobre a manifestação do autor (ID 107306168) **cancelando** a audiência. Se saiu, ir direto ao **Cenário C2**.
 - [ ] Verificar, na abertura, **quem está presente pelo autor**: só o advogado (Dr. Ivan Lopes, OAB/PI 14.249) ou o próprio Francisco Antônio.
 - [ ] **Não há procuração do autor nos autos** (a inicial diz "procuração em anexo", mas nenhum dos documentos de 08/07/2026 é procuração). Conferir no PJe, antes do ato, se houve juntada posterior.
 - [ ] Se a audiência for conduzida por conciliador, pedir que o requerimento conste **literalmente em ata** para apreciação do juiz.
@@ -87,6 +87,27 @@
 >
 > São os requerimentos."
 
+
+---
+
+## CENÁRIO C — O juiz cancela a audiência
+
+### C1. Cancelamento na abertura do ato (sala já aberta)
+
+Antes de qualquer deliberação, pedir o registro dos fatos. Eles servem de base para o recurso inominado futuro.
+
+> "Excelência, antes da deliberação, a defesa requer que conste em ata: (i) que o **requerido compareceu pessoalmente** e o **autor não compareceu**; (ii) que **não há procuração do autor nos autos**; e (iii) a **oposição do requerido ao cancelamento**. O requerido manifestou interesse na conciliação (contestação, ID 106243575). Nem pelo CPC a audiência poderia ser dispensada, pois o art. 334, § 4º, I, exige que **ambas** as partes manifestem desinteresse. E, no rito da Lei 9.099/1995, escolhido pelo próprio autor, não existe cancelamento por manifestação das partes (TJPR, RI 0002883-64.2024.8.16.0160). Além disso, o pedido de cancelamento (ID 107306168) foi formulado por advogado **sem procuração nos autos**, sendo ato ineficaz enquanto não ratificado (art. 104, § 2º, do CPC). Requer, assim, a manutenção do ato e a extinção do processo (art. 51, I). Mantida a deliberação, requer o registro do protesto, para oportuna arguição em recurso."
+
+### C2. Cancelamento por despacho antes do ato
+
+- A tese do art. 51, I, **deixa de existir**: sem audiência, não há ausência. O TJPR distingue exatamente o caso de audiência cancelada pelo juízo.
+- Não há agravo nos Juizados (Enunciado 15 do FONAJE). As interlocutórias não precluem e podem ser impugnadas **em preliminar de recurso inominado** contra a sentença. Por isso, registrar já a oposição.
+- **Protocolar petição** com:
+  1. **Oposição ao cancelamento**, para registro: o art. 334, § 4º, I, do CPC exige desinteresse de **ambas** as partes; o rito da Lei 9.099 foi escolhido pelo autor (inicial, item II e pedido 5); o pedido de cancelamento foi feito sem procuração (art. 104, § 2º, do CPC).
+  2. **Irregularidade de representação:** intimação do autor para juntar procuração em prazo **improrrogável**, sob pena de extinção (arts. 76, § 1º, I, e 485, IV, do CPC), com a ineficácia dos atos não ratificados, inclusive o pedido de cancelamento e a própria inicial (art. 104, § 2º).
+  3. **Ratificação da contestação** (ID 106243575) e defesa da tempestividade (Enunciados 10 e 11 do FONAJE; art. 231 do CPC fixado pelo juízo; boa-fé, arts. 5º e 6º; justa causa, art. 223), antecipando o ataque que o autor anunciou para a réplica.
+  4. **Julgamento antecipado do mérito** (art. 355, I, do CPC), pela imunidade parlamentar material (art. 29, VIII, CF; Tema 469/STF), já reconhecida na decisão de ID 100909958.
+
 ---
 
 ## Se o autor alegar intempestividade da contestação (qualquer cenário)
@@ -118,4 +139,5 @@
 | Idem (custas) | TJMT, TR Cível, N.U. 1027619-28.2025.8.11.0001, Rel. Gonçalo Antunes de Barros Neto, j. 13/11/2025 |
 | **Contrário** (advogado com poderes; audiência pro forma) | TJSP, Colégio Recursal de Limeira, RI 1010181-63.2017.8.26.0320, Rel. Marcelo Ielo Amaro, j. 29/10/2018 |
 | Procuração ausente | Lei 9.099/95, art. 9º, § 3º (poderes especiais não podem ser verbais); CPC arts. 76 § 1º I, 104 § 2º, 105, 485 IV |
+| Cancelamento | CPC art. 334, § 4º, I (desinteresse de **ambas** as partes); FONAJE 15 (sem agravo; impugnar em recurso inominado) |
 | Normas | Lei 9.099/95, arts. 2º, 9º §§ 3º e 4º, 20, 21, 22, 30, 51 I e §§ 1º e 2º, 54; FONAJE 10, 11, 13, 20, 28; CPC arts. 5º, 6º, 223, 231, 355 I, 486 § 2º |
