@@ -62,5 +62,7 @@
 
 - **Não aceitar proposta de retratação genérica** ("reconhecer a inveracidade das imputações"). Se houver proposta, pedir prazo para consultar o cliente e que conste em ata.
 - **Não discutir mérito com o autor/advogado** — limitar-se ao registro em ata.
-- Se o advogado do autor levantar a **intempestividade da contestação**, responder em uma frase e pedir registro: "A decisão de ID 100909958 fixou expressamente o art. 231 do CPC como termo inicial; a contestação é tempestiva, conforme item 'a' das preliminares, e a matéria será apreciada no momento próprio."
+- Se o advogado do autor levantar a **intempestividade da contestação**, responder e pedir registro em ata:
+
+  > "Excelência, a questão está superada. A audiência foi designada **a partir do requerimento formulado na própria contestação** (ID 106243575), sem certidão de decurso de prazo ou de intempestividade: o Juízo recebeu a defesa e lhe deu seguimento. Além disso, no rito da Lei 9.099/1995, a revelia decorre do **não comparecimento do réu às audiências** (art. 20), e não da data de protocolo da peça escrita; a contestação é apresentada **na audiência** (art. 30) e pode sê-lo **até a audiência de instrução e julgamento** (Enunciado 10 do FONAJE). O requerido está aqui, presente pessoalmente, com defesa nos autos. De todo modo, a decisão de ID 100909958 fixou expressamente o art. 231 do CPC como termo inicial, e a defesa observou esse marco, em atenção à boa-fé e à proteção da confiança (arts. 5º e 6º do CPC)."
 - Conferir a ata **antes de assinar/encerrar**: ausência do autor (se for o caso), presença pessoal do réu e o pedido de extinção com o fundamento (art. 51, I e § 2º).
