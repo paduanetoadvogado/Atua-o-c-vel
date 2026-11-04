@@ -43,6 +43,12 @@
 
 10. Como a porta está instalada dentro do terreno adquirido pelo Sr. Luiz, a cliente não mexeu nela: limitou-se a **construir/fechar o muro à frente da porta, dentro do seu próprio terreno**, vedando a abertura.
 
+11. O imóvel do Sr. Luiz foi adquirido em **fevereiro de 2019**, em nome de sua esposa, **LENY DE SOUSA FEITOSA CARVALHO**, de **DOMINGOS LIMA DE OLIVEIRA**, por meio de "Declaração de Compra e Venda" particular com firmas reconhecidas, pelo preço de R$ 14.000,00. Trata-se de **lote autônomo** de 165 m² (11 x 15 m), **com frente para a Rua 05, conhecida como Rua Gravataí**, de origem foreira e anteriormente pertencente a Manoel de Souza Costa.
+
+12. O próprio documento de compra do casal declara que o lote **confronta nos fundos com os "herdeiros do Sr. Antonio Ribeiro"**, isto é, com o terreno hoje pertencente à cliente. Assim, o casal **sabia, desde a aquisição**, que os fundos do seu lote fazem divisa com terreno alheio, e o título de aquisição **não lhes confere qualquer direito de passagem ou acesso** por esse terreno.
+
+13. A porta instalada pelo Sr. Luiz fica, portanto, **na parede dos fundos** da sua casa, abrindo-se diretamente sobre o terreno da cliente — enquanto o acesso regular do imóvel dele é pela **Rua Gravataí**.
+
 ---
 
 ## 3. DOCUMENTOS ANALISADOS
@@ -85,7 +91,34 @@
 - **Pequena área verde nos fundos (lateral pontilhada em verde):** parcela vendida a Luiz Pereira Lima, onde ele construiu sua casa; pela marcação, a linha superior dessa área se estende até a R. Gravataí.
 - **Contorno verde contínuo com frente para a PI-110 (com edificações):** lote vizinho a leste do terreno da cliente — **confirmar a quem pertence** e se tem relação com a área do Sr. Luiz.
 
-### 3.4. Documento de transmissão assinado pelos herdeiros
+### 3.4. Declaração de Compra e Venda — Domingos Lima de Oliveira → Leny de Sousa Feitosa Carvalho (fev/2019)
+
+| Item | Conteúdo |
+|---|---|
+| Título do documento | "Declaração de Compra e Venda (Terreno Foreiro Municipal)" — instrumento particular |
+| Vendedor | DOMINGOS LIMA DE OLIVEIRA, brasileiro, RG 2.158.446-SSP/PI, CPF 947.224.713-04, residente na Localidade Arriba a Saia (?), s/n, zona rural, Miguel Alves/PI |
+| Compradora | LENY DE SOUSA FEITOSA CARVALHO, brasileira, **casada** (esposa de Luiz Pereira Lima, conforme a cliente), residente na Localidade Olivença, s/n, zona rural, Miguel Alves/PI, RG 7.547.4915 (sic) SSP/PI, CPF 918.367.433-00 |
+| Objeto | Lote de terreno urbano foreiro municipal, **11,00 x 15,00 m**, perímetro 52 m, **área 165 m²**, Rua 05 do Parque Residencial Padre Josino Leal, Bairro Forquilha |
+| Preço | R$ 14.000,00 ("quatroze mil reais" — sic), pago à vista, com quitação |
+| Frente (11,00 m) | **Rua 05, conhecida como Gravataí** |
+| Fundos (11,00 m) | **Herdeiros do Sr. Antonio Ribeiro** |
+| Lado (flanco) (15,00 m) | Pessoa conhecida como "Chiquinho Gastão" |
+| Lado esquerdo (15,00 m) | Agnaldo Meneses Silva |
+| Origem | Foreira; pertenceu anteriormente a MANOEL DE SOUZA COSTA, RG 78.237 SSP/PI, CPF 249.753.033-53 ("conf. doc. de cópia anexa" — não enviada) |
+| Cláusula | Autoriza o comprador a regularizar o lote e o título junto à Prefeitura e a solicitar inscrição de IPTU |
+| Data / local | Miguel Alves/PI, 02/2019 |
+| Reconhecimento de firma | Cartório Único de Miguel Alves/PI, por autenticidade, de vendedor e compradora; escrevente autorizado Thávio de Sousa Costa; selos ABS 86568 e ABS 86569 |
+| Testemunhas | Apenas uma assinatura, sem RG legível; segunda linha em branco |
+
+**Pontos relevantes do documento:**
+- **Confissão de limite:** os fundos do lote de Leny confrontam com os **herdeiros de Antonio Ribeiro** → reconhece expressamente o terreno da cliente como imóvel distinto e vizinho.
+- **Lote autônomo, de outra cadeia dominial** (Manoel de Souza Costa → Domingos → Leny): **não é desmembramento** dos 300 m² do título de aforamento nº 2.642.
+- **Frente para a Rua Gravataí:** o imóvel tem acesso direto à via pública, o que **afasta eventual alegação de passagem forçada** (art. 1.285 do CC exige imóvel encravado).
+- **Nenhuma menção a servidão**, passagem ou acesso pelo terreno vizinho.
+- O documento é **posterior à aquisição da cliente (2018)** — a construção da casa e a instalação da porta são, necessariamente, de **depois de fevereiro de 2019**.
+- Fragilidades formais (não afetam a cliente, mas relevantes se houver litígio): instrumento particular não registrado; sem anuência/laudêmio do Município comprovados; testemunhas incompletas. Pelo valor (R$ 14.000,00, inferior a 30 salários mínimos de 2019), a escritura pública seria dispensável (art. 108 do CC), mas a transmissão do domínio útil continua dependendo do senhorio direto e do registro.
+
+### 3.5. Documento de transmissão assinado pelos herdeiros (Andreia)
 
 - **Ainda não enviado.** Necessário para análise (ver pendências).
 
@@ -108,6 +141,8 @@
 
 **Observação sobre a orientação da planta:** na imagem de satélite, a avenida (PI-110) passa ao **sul** do terreno, que se estende para o **norte**. Na planta de 2018, porém, a avenida aparece a **oeste**, com o lote se estendendo para leste, mesmo com a seta do norte apontando para cima. Ao que parece, o desenho está girado 90°. Isso reforça a necessidade de revisar a planta e o memorial (orientação e lateralidade) antes de usá-los em juízo ou em cartório.
 
+**Confronto com o documento de Leny (2019):** o lote de Leny (165 m², frente para a R. Gravataí) **faz fundos com o terreno da cliente**. Todavia, nem o título de 1994 nem o memorial de 2018 da cliente mencionam Leny, Domingos ou Manoel de Souza Costa como confrontantes (os fundos da cliente constam como Francisco Furtado da Silva). É preciso **verificar em campo em qual lado do terreno da cliente o lote de Leny encosta** (fundos ou lateral direita, nos fundos) e, se for o caso, **retificar o memorial** para incluir esse confrontante.
+
 **Observação sobre a forma do terreno:** o pontilhado roxo sugere que o fundo do terreno não é um retângulo perfeito (curva nos fundos), o que deve ser confrontado com as medidas de 10 x 30 m do título e do memorial — especialmente para saber se a parcela vendida ao Sr. Luiz **está ou não dentro dos 300 m²** da cliente.
 
 ---
@@ -127,11 +162,12 @@
 
 **Quanto ao conflito com Luiz Pereira Lima:**
 
-11. **Quem vendeu** a parcela ao Sr. Luiz (o vizinho dos fundos, Francisco Furtado da Silva? os herdeiros de Antonio Ribeiro Campos? outra pessoa?) e **quando**. Ele tem documento?
-12. A parcela vendida ao Sr. Luiz faz parte dos **300 m²** do título/memorial da cliente, ou é parte do lote do vizinho dos fundos?
+11. ~~Quem vendeu a parcela ao Sr. Luiz e quando~~ → **respondido:** Domingos Lima de Oliveira vendeu a Leny de Sousa Feitosa Carvalho (esposa de Luiz) em 02/2019 (item 3.4). Pendente: cópia do documento anterior (Manoel de Souza Costa → Domingos), citado como anexo.
+12. ~~A parcela faz parte dos 300 m² da cliente?~~ → **respondido, em princípio, que não:** é lote autônomo, de outra cadeia dominial, que **confronta** com o terreno da cliente. Confirmar em campo.
 13. **Data da construção** da casa e da instalação da porta, e **data em que o muro foi fechado** (relevante para o prazo de ano e dia do art. 1.302 do CC).
 14. A porta fica **exatamente na divisa** ou a que distância dela? É porta de passagem ou também há janelas voltadas para o terreno?
-15. A casa do Sr. Luiz tem **outra saída para via pública** (R. Gravataí)? (afasta alegação de passagem forçada).
+15. ~~A casa do Sr. Luiz tem outra saída para via pública?~~ → **respondido pelo próprio documento:** o lote tem frente para a Rua 05 (Gravataí). Confirmar com foto da fachada.
+18. Confirmar o **estado civil e o regime de bens** de Leny e Luiz (casamento civil ou união estável), para definir o polo passivo de eventual ação (ambos).
 16. Após o fechamento do muro, houve **reação do Sr. Luiz**: ameaças, derrubada do muro, notificação, boletim de ocorrência, ação judicial? Qual a situação atual?
 17. Provas: **fotos** da porta e do muro, mensagens/áudios em que ele prometeu fechar a porta e depois se recusou, testemunhas.
 
@@ -154,6 +190,8 @@
 - **Art. 1.228 do CC:** faculdades de usar, gozar e dispor do bem e de reavê-lo de quem injustamente o possua; o muro foi erguido **dentro do terreno da cliente**, em exercício regular de direito (art. 188, I, do CC).
 - A tolerância temporária da cliente (enquanto aguardava a promessa de fechamento) **não gera servidão**: atos de mera permissão ou tolerância não induzem posse (art. 1.208 do CC).
 - **Risco a avaliar:** eventual alegação do Sr. Luiz de **servidão de passagem** ou **passagem forçada** (art. 1.285 do CC). A passagem forçada só cabe para imóvel encravado, sem acesso a via pública; pela imagem, a área dele parece ter acesso à R. Gravataí, o que afastaria a tese. É preciso confirmar.
+- **O documento de Leny reforça a posição da cliente:** (i) os fundos do lote dela confrontam com o terreno dos herdeiros de Antonio Ribeiro (hoje da cliente); (ii) o lote tem acesso próprio pela Rua Gravataí; (iii) não há servidão; (iv) a obra é posterior a fev/2019, quando a cliente já era possuidora. Ninguém adquire, pelo simples fato de construir na divisa, direito de passar pelo terreno vizinho.
+- **Polo passivo** de eventual ação: **Luiz Pereira Lima** (quem construiu e recusa fechar a porta) **e Leny de Sousa Feitosa Carvalho** (titular do documento de aquisição).
 - Se houver turbação ou esbulho (ex.: derrubada do muro): **ação de manutenção/reintegração de posse** (arts. 1.210 do CC e 554 e ss. do CPC) ou ação demolitória/nunciação, conforme o caso.
 
 ---
