@@ -89,6 +89,7 @@
 | Medidas | Frente: 10,00 m · Flanco direito: 30,00 m · Flanco esquerdo: 30,00 m · Fundos: 10,00 m |
 | Área | 300 m² (10,00 x 30,00) |
 | Confrontações | Frente: a mesma rua · Flanco direito: Lote 13 · Flanco esquerdo: Maria das Graças Ricardo · Fundos: Francisco Furtado da Silva |
+| Data no fecho (verso) | "Miguel Alves, 15 de Dezembro 1994" manuscrito — o último algarismo do ano pode ser lido como "1984", mas o texto por extenso no próprio verso (processo e edital de "mil novecentos e noventa e quatro") e o anverso confirmam **1994** |
 | Assinaturas | Prefeito, foreiro (impressão digital) e testemunhas Miguel Benedito de Menezes e Gilmar Sousa Rebelo; Procuradora dos Feitos Maria do Socorro Araújo Azevedo |
 
 **Obrigações do foreiro (verso do título):**
