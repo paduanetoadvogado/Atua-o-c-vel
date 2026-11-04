@@ -49,6 +49,22 @@
 
 13. A porta instalada pelo Sr. Luiz fica, portanto, **na parede dos fundos** da sua casa, abrindo-se diretamente sobre o terreno da cliente — enquanto o acesso regular do imóvel dele é pela **Rua Gravataí**.
 
+### 2.2. Do processo administrativo na Prefeitura e do avanço sobre a área remanescente
+
+14. Inconformado com o fechamento do muro, o Sr. Luiz **acionou a Prefeitura Municipal de Miguel Alves** para medir os terrenos, dando origem ao **Processo Administrativo nº 00003690/2026**, conduzido pela Superintendência Municipal de Arrecadação e Tributos.
+
+15. Na vistoria, apurou-se que o terreno da cliente — **assim como os dos demais vizinhos da quadra** — apresenta um **acréscimo de aproximadamente 6,30 m** em relação às medidas constantes dos documentos (área chamada pela Prefeitura de "área remanescente").
+
+16. A cliente sustentou que essa faixa **integra seu imóvel**, pois todos os lotes confrontantes mantêm o mesmo padrão de alinhamento e dimensões, correspondente à sequência dos lotes da quadra — fato **confirmado pelos próprios vizinhos confrontantes**, que afirmaram possuir áreas compatíveis com as medidas originalmente estabelecidas. O Sr. Luiz, por sua vez, entende ter direito sobre a área que passou a ocupar.
+
+17. A Prefeitura promoveu diversas reuniões de conciliação e propôs **dividir a faixa de 6,30 m em partes iguais (3,15 m para cada um)**. A proposta **foi recusada pelo Sr. Luiz**.
+
+18. Por fim, a Prefeitura **encerrou o processo**, declarando expressamente que, nos termos da **Lei Municipal nº 853/2019**, **não tem competência** para definir domínio, propriedade, posse ou retificar divisas — matéria reservada ao **Poder Judiciário** —, ressalvando às partes as medidas judiciais ou extrajudiciais cabíveis.
+
+19. Durante o impasse, a cliente **foi impedida pela Prefeitura de murar o terreno até o limite do confrontante dos fundos**, como indicavam seus documentos.
+
+20. Aproveitando-se de a cliente estar impedida de concluir o muro, o Sr. Luiz **construiu uma segunda porta**, agora no limite da área acrescida, passou a **criar animais** na faixa e **já depositou tijolos** no local — indicando intenção de edificar e consolidar a ocupação.
+
 ---
 
 ## 3. DOCUMENTOS ANALISADOS
@@ -118,7 +134,28 @@
 - O documento é **posterior à aquisição da cliente (2018)** — a construção da casa e a instalação da porta são, necessariamente, de **depois de fevereiro de 2019**.
 - Fragilidades formais (não afetam a cliente, mas relevantes se houver litígio): instrumento particular não registrado; sem anuência/laudêmio do Município comprovados; testemunhas incompletas. Pelo valor (R$ 14.000,00, inferior a 30 salários mínimos de 2019), a escritura pública seria dispensável (art. 108 do CC), mas a transmissão do domínio útil continua dependendo do senhorio direto e do registro.
 
-### 3.5. Documento de transmissão assinado pelos herdeiros (Andreia)
+### 3.5. Decisão de encerramento do Processo Administrativo nº 00003690/2026 — Prefeitura de Miguel Alves
+
+| Item | Conteúdo |
+|---|---|
+| Órgão | Prefeitura Municipal de Miguel Alves/PI — Superintendência Municipal de Arrecadação e Tributos (CNPJ 06.553.614/0001-87) |
+| Partes | Andreia Pessoa Xavier e Luis (sic) Pereira Lima |
+| Tese da cliente | A área integra seu imóvel, pois todos os imóveis confrontantes mantêm padrão de alinhamento e dimensões semelhantes, correspondentes à sequência dos lotes da quadra — **confirmado pelos vizinhos confrontantes** |
+| Tese do Sr. Luiz | Entende possuir direito sobre a área ocupada; permaneceu utilizando parte da área remanescente |
+| Proposta conciliatória | Dividir a área remanescente de **≈ 6,30 m** em partes iguais (**≈ 3,15 m** para cada) — considerada "tecnicamente adequada" |
+| Resultado | **Proposta não aceita pelo Sr. Luiz** |
+| Fundamento | Lei Municipal nº 853/2019 (ordenamento territorial e uso do solo): cabe ao Município fiscalizar a ocupação do solo, mas **definição de domínio, propriedade, posse, retificação de divisas e solução de conflitos possessórios ou dominiais é do Poder Judiciário** |
+| Dispositivo | Considerando vistoria técnica, tentativas de acordo, recusa de uma das partes e inexistência de competência administrativa: **encerrado o processo**, ressalvadas às partes as medidas judiciais/extrajudiciais |
+| Assinaturas | Servidor(es) e partes (consta assinatura de "Andreia") |
+| Observação | Foi enviada **apenas a última página**; faltam as anteriores (relatório, laudo da vistoria, medidas apuradas) |
+
+**Pontos relevantes:**
+- A Prefeitura **não reconheceu direito do Sr. Luiz** sobre a faixa; apenas propôs um acordo, que **ele mesmo recusou**.
+- O fato de **todos os lotes da quadra** terem o mesmo acréscimo reforça a tese de que a diferença decorre da **implantação original do loteamento** (os lotes vão, de fato, até a divisa dos fundos), e não de avanço da cliente.
+- Os **vizinhos confirmaram** a tese da cliente — são potenciais **testemunhas**.
+- Com o encerramento do processo e a declaração de incompetência, **qualquer restrição administrativa ao muro perde fundamento quanto à titularidade** — mas convém não murar sem respaldo judicial, para não dar ao Sr. Luiz argumento de esbulho/autotutela.
+
+### 3.6. Documento de transmissão assinado pelos herdeiros (Andreia)
 
 - **Ainda não enviado.** Necessário para análise (ver pendências).
 
@@ -143,6 +180,11 @@
 
 **Confronto com o documento de Leny (2019):** o lote de Leny (165 m², frente para a R. Gravataí) **faz fundos com o terreno da cliente**. Todavia, nem o título de 1994 nem o memorial de 2018 da cliente mencionam Leny, Domingos ou Manoel de Souza Costa como confrontantes (os fundos da cliente constam como Francisco Furtado da Silva). É preciso **verificar em campo em qual lado do terreno da cliente o lote de Leny encosta** (fundos ou lateral direita, nos fundos) e, se for o caso, **retificar o memorial** para incluir esse confrontante.
 
+**A faixa de 6,30 m à luz do documento de Leny (ponto central):** o lote de Leny tem **15,00 m de profundidade** a partir da Rua Gravataí, e seus fundos **confrontam diretamente** com os herdeiros de Antonio Ribeiro (terreno da cliente) — o documento **não menciona qualquer faixa vaga** entre os dois imóveis. Logo:
+- tudo o que o Sr. Luiz ocupar **além de 15 m contados da Rua Gravataí** está **fora do título da sua própria esposa**;
+- se existe acréscimo, ele está do lado da cliente, cujo título delimita o imóvel pelos **confrontantes** (o terreno vai até a divisa dos fundos), e não apenas pela metragem.
+- **Medição a fazer:** profundidade real ocupada pelo Sr. Luiz a partir da Rua Gravataí (casa + segunda porta + área dos animais). Se passar de 15 m, a prova do avanço é documental e aritmética.
+
 **Observação sobre a forma do terreno:** o pontilhado roxo sugere que o fundo do terreno não é um retângulo perfeito (curva nos fundos), o que deve ser confrontado com as medidas de 10 x 30 m do título e do memorial — especialmente para saber se a parcela vendida ao Sr. Luiz **está ou não dentro dos 300 m²** da cliente.
 
 ---
@@ -159,6 +201,16 @@
 8. Se há **construção** no terreno (casa nº 2746) e quando foi edificada.
 9. Certidão da Prefeitura sobre a **mudança de denominação** do logradouro (Rua Principal → Av. Padre Josino Leal) e sobre a numeração.
 10. Objetivo da cliente: regularização/registro em seu nome? Há algum conflito, ameaça de turbação ou disputa com herdeiros ou terceiros?
+
+**Quanto ao processo administrativo e à faixa remanescente:**
+
+19. **Cópia integral do Processo Administrativo nº 00003690/2026** (requerimento do Sr. Luiz, laudo/relatório da vistoria técnica, medidas apuradas de cada lote, atas das reuniões, decisão completa).
+20. **Ato formal que impediu a cliente de murar**: houve notificação, embargo ou auto de infração por escrito? Ou foi apenas orientação verbal? Data e servidor.
+21. **Datas** da segunda porta, do início da criação de animais e do depósito dos tijolos (define **posse nova — menos de ano e dia —** e o cabimento de liminar).
+22. Antes da ocupação pelo Sr. Luiz, **quem usava a faixa** de 6,30 m? Estava cercada? A cliente exercia algum ato de posse (limpeza, plantio, guarda de materiais, cerca)? Desde quando?
+23. Fotos atuais: **segunda porta, animais, tijolos**, muro inacabado; e, se possível, fotos antigas da faixa.
+24. **Nome e contato dos vizinhos** que confirmaram as medidas na Prefeitura (testemunhas) e se aceitariam declarar por escrito.
+25. A faixa é **municipal** (área não aforada do loteamento) ou integra os lotes? Verificar na Prefeitura a **planta original do Parque Residencial Padre Josino Leal** e as medidas dos títulos dos lotes vizinhos.
 
 **Quanto ao conflito com Luiz Pereira Lima:**
 
@@ -193,6 +245,27 @@
 - **O documento de Leny reforça a posição da cliente:** (i) os fundos do lote dela confrontam com o terreno dos herdeiros de Antonio Ribeiro (hoje da cliente); (ii) o lote tem acesso próprio pela Rua Gravataí; (iii) não há servidão; (iv) a obra é posterior a fev/2019, quando a cliente já era possuidora. Ninguém adquire, pelo simples fato de construir na divisa, direito de passar pelo terreno vizinho.
 - **Polo passivo** de eventual ação: **Luiz Pereira Lima** (quem construiu e recusa fechar a porta) **e Leny de Sousa Feitosa Carvalho** (titular do documento de aquisição).
 - Se houver turbação ou esbulho (ex.: derrubada do muro): **ação de manutenção/reintegração de posse** (arts. 1.210 do CC e 554 e ss. do CPC) ou ação demolitória/nunciação, conforme o caso.
+
+### 6.2. Faixa remanescente de 6,30 m e avanço do Sr. Luiz
+
+- **Prevalência dos confrontantes sobre a metragem:** o título de 1994 descreve o imóvel por seus limites (frente com a rua; fundos com o confrontante dos fundos). Quando há divergência entre a metragem e os limites, a jurisprudência tende a privilegiar os **limites/confrontações** como identificadores da coisa certa e discriminada (cf. lógica do art. 500, § 3º, do CC — venda *ad corpus*, em que as dimensões são meramente enunciativas). Somado ao padrão de **todos os lotes da quadra**, a faixa integra o lote da cliente.
+- **Título do próprio Sr. Luiz como prova contra ele:** lote de 11 x 15 m com fundos para o terreno da cliente — ocupação além de 15 m é avanço sem título.
+- **Posse:** a cliente é possuidora desde 2018 (*accessio possessionis* em relação aos herdeiros do foreiro — art. 1.207 do CC). A segunda porta, os animais e os tijolos configuram **esbulho/turbação** (art. 1.210 do CC).
+- **Segunda porta:** obra recente → a cliente está **dentro do prazo de ano e dia** do art. 1.302 do CC para exigir o desfazimento, além do art. 1.301 (abertura a menos de 1,5 m) e do art. 1.312 do CC (obra em violação às normas de vizinhança deve ser demolida, com perdas e danos).
+- **Criação de animais:** uso anormal da propriedade (art. 1.277 do CC) — sossego, saúde e segurança; possível também representação à Vigilância Sanitária/Prefeitura (posturas municipais).
+- **Prefeitura:** declarou-se incompetente e **não atribuiu a faixa ao Sr. Luiz**; o impedimento ao muro não decide a titularidade. Resta a via judicial, como a própria decisão indicou.
+- **Risco a avaliar:** se a faixa for considerada **área pública municipal** não aforada, nenhuma das partes tem domínio sobre ela e não cabe usucapião (art. 183, § 3º, da CF). Mesmo assim, entre particulares, a **proteção possessória** é possível (STJ admite possessória entre particulares sobre bem público — REsp 1.296.964/DF; conferir). Em paralelo, a cliente poderia requerer ao Município a **regularização da faixa** (aforamento complementar/REURB).
+
+### 6.3. Medidas judiciais cabíveis (preliminar)
+
+| Medida | Objetivo | Observações |
+|---|---|---|
+| **Ação de reintegração/manutenção de posse com pedido liminar** (arts. 554 e ss. e 558/562 do CPC) | Retirada dos animais e materiais, fechamento das portas e proibição de novas obras na faixa | Liminar depende de **posse nova** (menos de ano e dia do esbulho) — confirmar datas. Cabe cumular **demolição/fechamento das portas** e **multa diária** (art. 555 do CPC) |
+| **Ação demarcatória** (arts. 569, I, e 574 e ss. do CPC) | Fixar judicialmente a linha divisória entre os lotes, com perícia | Adequada se a controvérsia for essencialmente sobre **onde passa a divisa**; pode ser cumulada com pedido de restituição da área (art. 569, I) |
+| **Ação de obrigação de fazer / demolitória** (arts. 1.301, 1.302 e 1.312 do CC) | Fechamento das duas portas | Pode ser cumulada com a possessória |
+| **Tutela de urgência** (art. 300 do CPC) | Impedir que o Sr. Luiz construa com os tijolos já depositados | Urgente: obra concluída dificulta a reversão |
+
+Estratégia inicial sugerida: **possessória com liminar, cumulada com fechamento/demolição das portas**, pedido de **perícia topográfica** e, subsidiariamente, demarcação — a confirmar após as pendências 19 a 25.
 
 ---
 
