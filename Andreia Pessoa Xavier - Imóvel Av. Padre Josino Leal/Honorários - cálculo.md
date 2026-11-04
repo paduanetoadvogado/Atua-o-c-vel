@@ -1,6 +1,6 @@
 # HONORÁRIOS — ANDREIA PESSOA XAVIER x LUIS PEREIRA LIMA
 
-> **Atenção:** não foi possível consultar a Tabela de Honorários da OAB/PI nesta sessão (o site oabpi.org.br está bloqueado na rede). Os valores marcados como **[TABELA]** devem ser conferidos na tabela vigente. Os demais valores são **sugestões de mercado**, a ajustar pelo advogado.
+> **Base:** Tabela de Honorários Advocatícios da OAB/PI (Resolução de 2022, valores corrigidos pelo INPC até outubro de 2022). Pelo **art. 15**, os valores são reajustados anualmente pelo INPC, mediante aprovação do Conselho Pleno; conferir se já houve atualização aprovada para 2026.
 
 ## 1. Objeto da contratação
 
@@ -15,7 +15,7 @@ Ação de **reintegração/manutenção de posse com pedido liminar**, cumulada 
 | Proveito econômico estimado | **≈ R$ 7.500 a R$ 9.500**, somados ao valor da obrigação de fazer (portas e muro) |
 | Valor da causa sugerido | **R$ 10.000,00** (ajustar ao valor venal, se for maior) |
 
-**Consequência:** o valor da causa é baixo. Um percentual sobre ele (10% a 20%) daria apenas R$ 1.000 a R$ 2.000, abaixo de qualquer mínimo razoável. Por isso os honorários devem ser fixados **por valor fixo**, respeitado o mínimo da tabela (art. 48, § 6º, do Código de Ética e Disciplina da OAB, que veda o aviltamento).
+**Consequência (arts. 5º, § 2º, e 10 da Tabela OAB/PI):** quando a tabela traz percentual e valor mínimo, prevalece **o maior**. Aqui, 20% de R$ 10.000,00 dão R$ 2.000,00, valor inferior ao mínimo de R$ 5.500,00. Logo, aplica-se o **valor mínimo**. Cobrar abaixo dele caracteriza **aviltamento** (art. 4º da Tabela).
 
 ## 3. Complexidade (critérios do art. 49 do Código de Ética da OAB)
 
@@ -28,28 +28,56 @@ Ação de **reintegração/manutenção de posse com pedido liminar**, cumulada 
 | V – Caráter da intervenção | Cliente avulsa | Neutro |
 | VI – Lugar da prestação | Comarca de Miguel Alves **[há deslocamento?]** | **[avaliar]** |
 | VII – Competência do profissional | — | — |
-| VIII – Praxe do foro | **[TABELA OAB/PI]** | — |
+| VIII – Praxe do foro | Tabela OAB/PI: possessória de imóvel, mínimo de R$ 5.500,00 ou 20% | — |
 
 **Conclusão:** causa de **complexidade média para alta** e **valor econômico baixo**. Recomenda-se ficar **acima do mínimo da tabela**, sem exagero, por causa da condição da cliente.
 
-## 4. Proposta sugerida
+## 4. Itens aplicáveis da Tabela OAB/PI
 
-| Fase/serviço | Valor sugerido | Observação |
+| Item | Serviço | Valor mínimo (2022) | Percentual mínimo |
+|---|---|---|---|
+| **10.3.2 / 11.13.3.2** | **Ação possessória de imóvel (interdito proibitório, manutenção, reintegração)** | **R$ 5.500,00** | 20% |
+| 10.1.14 | Ação de obrigação de fazer, não fazer ou dar (cumulada) | R$ 5.000,00 | 20% |
+| 10.3.5 / 11.13.8 | Divisão e demarcação (via descartada, apenas referência) | R$ 10.000,00 | 20% |
+| 10.1.3 | Cumprimento de sentença | R$ 5.000,00 | 20% |
+| 10.5.8 | Agravo de instrumento | R$ 6.500,00 | — |
+| 10.5.1 | Apelação | R$ 8.000,00 | 15% do valor da causa |
+| 10.5.2 | Contrarrazões | R$ 8.000,00 | 10% do valor da causa |
+| 10.5.26.1 | Sustentação oral no TJ | R$ 5.000,00 | — |
+| 3.3.15 | Elaboração de quesitos (perícia) | R$ 2.500,00 | 5% |
+| 2.7.5 | Notificação extrajudicial | R$ 700,00 | — |
+| 2.4.2 | Requerimento/petição avulsa no âmbito administrativo (regularização do aforamento) | R$ 1.200,00 | — |
+| 2.3.1 | Acompanhamento em órgão administrativo | R$ 800,00 | 10% |
+| 2.1.3 | Consulta com parecer escrito complexo (análise documental) | R$ 3.000,00 | — |
+| 2.6.1 / 2.6.2 | Diária fora da comarca / km rodado | R$ 1.100,00 / R$ 2,50 | — |
+
+**Regras da Tabela relevantes:**
+- **Art. 7º:** os valores cobrem **apenas o 1º grau**. Recursos e sustentação oral são contratados à parte. **Parágrafo único:** incidentes e procedimentos acessórios não estão incluídos, salvo se previstos no contrato. Convém prever expressamente a **audiência de justificação** e a **perícia**.
+- **Art. 8º:** os honorários são devidos **independentemente do êxito**. Se houver cláusula *quota litis*, contratuais e sucumbência somados não podem passar da metade do proveito.
+- **Art. 9º:** a consulta pode ser cobrada; as partes decidem se ela será abatida dos honorários.
+- **Art. 11:** acordo entre as partes **não reduz** os honorários contratados.
+
+## 5. Proposta sugerida (com base na tabela)
+
+| Fase/serviço | Valor sugerido | Fundamento |
 |---|---|---|
-| **Fase de conhecimento (1º grau)**: inicial, liminar, audiências, perícia, alegações finais, até a sentença | **R$ 6.000,00** — mínimo da tabela: **[TABELA: ação possessória]** | Parcelamento sugerido: **R$ 2.000,00 de entrada + 4 x R$ 1.000,00** |
-| **Recurso** (apelação/contrarrazões ou agravo de instrumento contra a liminar) | **+ R$ 2.500,00** por recurso | Somente se houver |
-| **Cumprimento de sentença** (se o réu descumprir a ordem) | **+ R$ 1.000,00** ou 10% da multa apurada | Somente se houver |
-| **Notificação extrajudicial** prévia (opcional) | **R$ 500,00** (ou incluída no pacote) | **[TABELA: notificação]** |
-| **Regularização do aforamento** na Prefeitura (transferência do domínio útil, laudêmio, foros) | **R$ 1.500,00 a R$ 2.500,00** | Serviço separado e recomendável |
-| Despesas | Por conta da cliente | Custas, diligências, **honorários do perito** e do assistente técnico, deslocamentos, certidões |
-| **Sucumbência** | Do advogado (art. 23 da Lei 8.906/94) | Não abate os contratuais |
+| **1º grau**: reintegração/manutenção de posse com liminar, cumulada com obrigação de fazer (portas e muro), incluindo **audiência de justificação, quesitos e acompanhamento da perícia**, audiência de instrução e alegações finais | **R$ 6.500,00** — entrada de R$ 2.500,00 + 4 x R$ 1.000,00 | Mínimo de R$ 5.500,00 (10.3.2), acrescido pela cumulação com a obrigação de fazer e pela inclusão de perícia e justificação (art. 7º, parágrafo único). Também cobre a correção estimada pelo INPC desde 2022 (art. 15) |
+| Notificação extrajudicial prévia (opcional) | R$ 700,00, ou incluída no pacote | 2.7.5 |
+| Agravo de instrumento (se a liminar for negada ou concedida e recorrida) | R$ 6.500,00 | 10.5.8 |
+| Apelação ou contrarrazões | R$ 8.000,00 | 10.5.1 / 10.5.2 |
+| Sustentação oral no TJPI | R$ 5.000,00 | 10.5.26.1 |
+| Cumprimento de sentença (se o réu descumprir) | R$ 5.000,00 ou 20% | 10.1.3 |
+| Regularização do aforamento na Prefeitura (requerimento + acompanhamento) | R$ 2.000,00 | 2.4.2 + 2.3.1 |
+| Diligências fora da sede | R$ 1.100,00/diária + R$ 2,50/km | 2.6.1 / 2.6.2 — **[se houver deslocamento até Miguel Alves]** |
+| Despesas | Por conta da cliente | Custas, perito, assistente técnico, certidões |
+| Sucumbência | Do advogado | Art. 23 da Lei 8.906/94 — não abate os contratuais |
 
-**Faixas alternativas:**
-- **Enxuta:** R$ 4.500,00 (1º grau), se a tabela OAB/PI permitir e a cliente tiver pouca capacidade de pagamento.
-- **Recomendada:** R$ 6.000,00 (1º grau).
-- **Com regularização incluída:** R$ 7.500,00 (1º grau + aforamento).
+**Faixas:**
+- **Mínimo ético:** R$ 5.500,00 (1º grau, valores de 2022). Abaixo disso há aviltamento.
+- **Recomendada:** **R$ 6.500,00** (1º grau, com justificação e perícia).
+- **Pacote com regularização:** **R$ 8.500,00** (1º grau + aforamento na Prefeitura).
 
-## 5. Itens do contrato
+## 6. Itens do contrato
 
 - Objeto e fases cobertas, com exclusão expressa de recursos, cumprimento de sentença e regularização, salvo contratação à parte.
 - Forma de pagamento e consequências do atraso (multa, juros, correção).
@@ -58,9 +86,9 @@ Ação de **reintegração/manutenção de posse com pedido liminar**, cumulada 
 - Em caso de revogação do mandato ou de acordo, as parcelas vencidas e as proporcionais ao trabalho realizado são devidas.
 - Foro da Comarca de Miguel Alves/PI.
 
-## 6. Para fechar os números
+## 7. Para fechar os números
 
-1. Valor mínimo da **ação possessória** na tabela OAB/PI vigente (e o valor da URH/UH, se a tabela usar unidade).
+1. Se o Conselho Pleno da OAB/PI já aprovou **reajuste pelo INPC** posterior a 2022 (art. 15).
 2. Valor venal do imóvel no **cadastro nº 006783** (define o valor da causa).
 3. Se há **deslocamento** até Miguel Alves.
 4. Capacidade de pagamento da cliente (entrada e número de parcelas).
