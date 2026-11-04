@@ -92,3 +92,9 @@ Ação de **reintegração/manutenção de posse com pedido liminar**, cumulada 
 2. Valor venal do imóvel no **cadastro nº 006783** (define o valor da causa).
 3. Se há **deslocamento** até Miguel Alves.
 4. Capacidade de pagamento da cliente (entrada e número de parcelas).
+
+---
+
+## 8. Valor contratado (decisão do advogado)
+
+**R$ 3.500,00**, somente para a ação possessória em 1º grau, com o objetivo de retirar o réu da ocupação da faixa. O valor foi fixado considerando a **realidade econômica do Município de Miguel Alves e da cliente**, com base nos critérios do art. 49 do Código de Ética e Disciplina da OAB (condição econômica do cliente e lugar da prestação do serviço) e do art. 5º, § 1º, da Tabela OAB/PI ("lugar de prestação do serviço e suas condições").
