@@ -1,7 +1,7 @@
 # ANÁLISE DE CASO — ANDREIA PESSOA XAVIER
 
 > Documento em construção. Os fatos e documentos serão incorporados conforme forem enviados.
-> Última atualização: 04/11/2026 (incorporada a íntegra do Termo de Tentativa de Acordo e Encerramento do PA nº 00003690/2026).
+> Última atualização: 04/11/2026 (incorporadas as certidões de óbito de Antonio Ribeiro Campos e Raimunda Madeira Campos).
 
 ---
 
@@ -26,7 +26,7 @@
 
 2. O domínio útil foi concedido a **ANTONIO RIBEIRO CAMPOS** pelo **Título de Aforamento nº 2.642, de 15/12/1994** (Processo nº 2.642/1994 e Edital nº 185/94), assinado pelo Prefeito, pelo foreiro (por impressão digital) e por duas testemunhas. O título **nunca foi registrado no Cartório de Registro de Imóveis**.
 
-3. ANTONIO RIBEIRO CAMPOS **faleceu em 10/01/2008** (registro de óbito nº 2.365, fls. 260, Livro C-04 do Cartório de Miguel Alves). Sua esposa, **RAIMUNDA MADEIRA CAMPOS**, **faleceu em 19/12/2013** (registro de óbito nº 45.879, fls. 50, Livro C-72, 3º Ofício de Teresina/PI). Não há notícia de inventário.
+3. ANTONIO RIBEIRO CAMPOS, lavrador aposentado, **casado**, faleceu aos 83 anos, em **10/01/2008** (registro de óbito nº 2.365, fls. 260, Livro C-04 do Cartório do 2º Ofício de Miguel Alves), tendo como declarante sua esposa. Sua esposa, **RAIMUNDA MADEIRA CAMPOS**, faleceu **já viúva**, aos 82 anos, em **19/12/2013**, em Teresina/PI (registro de óbito nº 45.879, fls. 50, Livro C-72, 3º Ofício do Registro Civil de Teresina), tendo como declarante a filha **Maria Alice Madeira Campos**. Por força da *saisine* (art. 1.784 do CC), com a morte de cada um a posse e a herança foram transmitidas de imediato aos herdeiros. Não há notícia de inventário.
 
 4. Em **19/06/2018**, as três herdeiras do casal — **MARIA ALICE MADEIRA CAMPOS**, **FRANCISCA RIBEIRO CAMPOS** e **MARIA DO ROSÁRIO AMADEUS ALBUQUERQUE** —, declarando-se **únicas herdeiras** de Antonio e Raimunda, celebraram com a cliente **Instrumento Particular de Compra e Venda**, transferindo-lhe a **posse** do lote, com "todo o direito, domínio, ação e servidão, ativa e passiva", obrigando-se pela evicção. O instrumento teve as **firmas reconhecidas** e foi **registrado no mesmo dia no Registro de Títulos e Documentos** do Cartório do Ofício Único de Miguel Alves (nº 1.245, fls. 205-v, Livro B-07).
 
@@ -213,8 +213,51 @@
 - **Foros**: se não pagos por 3 anos consecutivos, a cláusula resolutiva poderia ser invocada pelo Município — verificar a situação na Prefeitura.
 - Como cessão de bem singular da herança, sem inventário, a transmissão do **domínio útil** depende de regularização (art. 1.793, §§ 2º e 3º, do CC); **a posse, porém, foi validamente transmitida** — suficiente para as ações possessórias.
 - **Assinatura a rogo** de Francisca (analfabeta) por instrumento particular: aceita na prática, com duas testemunhas e digital, mas pode ser questionada; se necessário, colher ratificação.
-- **Maria do Rosário Amadeus Albuquerque** tem sobrenome distinto: confirmar a filiação (certidão de nascimento) e a inexistência de outros herdeiros.
+- **Maria do Rosário Amadeus Albuquerque** tem sobrenome distinto: o "Albuquerque" vem da família de Raimunda (item 3.8), mas convém confirmar a filiação (certidão de nascimento) e a inexistência de outros herdeiros.
 - **Preço não declarado** nas páginas recebidas.
+
+### 3.7. Certidão de Óbito — ANTONIO RIBEIRO CAMPOS
+
+| Item | Conteúdo |
+|---|---|
+| Cartório | Cartório do 2º Ofício do Registro Civil de Miguel Alves/PI (Fórum Min. Petrônio Portela, Rua São Pedro, 35, Centro) — Oficial/Escrivão Designado **Júlio César de Castro Oliveira** |
+| Registro | Em **14/01/2008**, Livro **C-04**, fls. **260**, nº **2.365** |
+| Falecimento | **10/01/2008**, às 01:55 h, "neste distrito de Teresina-Piauí" (sic — o local consta de forma ambígua) |
+| Dados pessoais | Sexo masculino, cor parda, **lavrador aposentado**, natural de Miguel Alves/PI, domiciliado e residente "nesta cidade", **83 anos**, **casado** |
+| Filiação | João Ribeiro Gomes e Nara (?) Campos de Medeiros |
+| Declarante | **Sua esposa, Raimunda Madeira Campos** |
+| Médico | Dr. Prisco Medeiros Melo Neto, CRM 933-PI |
+| Causa da morte | Abdome agudo obstrutivo etc. |
+| Sepultamento | Cemitério do Mucambo, neste município, às 8h do dia seguinte |
+| Observações | "Feito de acordo com a lei em vigor e prazo legal" |
+| Selo | AAA 89396 (ato gratuito) |
+| Omissões | A certidão **não informa** se deixou filhos, bens ou testamento |
+
+### 3.8. Certidão de Óbito — RAIMUNDA MADEIRA CAMPOS
+
+| Item | Conteúdo |
+|---|---|
+| Cartório | 3º Ofício do Registro Civil de Teresina/PI (Rua 7 de Setembro, nº 417, Centro) — Oficial Ivone Araújo Lages; certidão assinada pela escrevente Vilma Maria Nogueira da Silva Pinheiro em **10/04/2014** |
+| Matrícula | 078980 01 55 2014 4 00072 050 0045879-54 (**Livro C-72, Termo 45879, Folha 50**) |
+| Dados pessoais | Sexo feminino, cor parda, **viúva**, **82 anos**, natural de Miguel Alves/PI, eleitora |
+| Documentos | **RG 1.397.498 SSP/PI** (no instrumento de 2018 consta 1.397.408 — divergência de um dígito, irrelevante, pois o CPF coincide) · **CPF 535.647.153-04** |
+| Filiação | Idelbrando Madeira **de Albuquerque** e Joana Francisca das Chagas |
+| Residência | **Rua 30, nº 5012, Vila Bandeirante II, Teresina/PI** (mesmo endereço da herdeira Maria Alice) |
+| Falecimento | **19/12/2013**, às 03:40 h, Hospital do Satélite, Teresina/PI |
+| Causa da morte | Insuficiência respiratória aguda; CA de tireoide |
+| Sepultamento | Cemitério Distrital de Miguel Alves/PI |
+| Declarante | **Maria Alice Madeira Campos** |
+| Médico | Glausto Paulino Setubal da Cunha e Silva — 2603 PI |
+| Observações/averbações | Registro **tardio**, lavrado com base em **justificação feita pela Justiça Itinerante**, em 18/03/2014, **Processo nº 38.836/2014**, Juiz Marcus Klinger M. de Vasconcelos |
+| Selo | ANG 035644 (?), série 007 (ato gratuito) |
+
+**Pontos relevantes das certidões:**
+- **Ordem dos óbitos confirmada:** Antonio (10/01/2008, casado) faleceu antes de Raimunda (19/12/2013, viúva). Os dados de registro **coincidem exatamente** com os citados no instrumento de 2018, o que reforça a idoneidade do documento de aquisição da cliente.
+- **Sucessão:** com a morte de Antonio, a posse/domínio útil passou à viúva (meação e/ou herança, conforme o regime — art. 1.829, I, do CC) e aos descendentes; com a morte de Raimunda, a parte dela passou aos seus descendentes. As três vendedoras se declaram herdeiras de ambos, e **todas assinaram**, o que torna irrelevante, para a posse da cliente, a exata divisão de quotas.
+- **Maria do Rosário Amadeus Albuquerque:** o sobrenome "Albuquerque" aparece na **família materna** (pai de Raimunda: Idelbrando Madeira de Albuquerque), o que **torna plausível** que seja filha de Raimunda. Mesmo assim, confirmar com certidão de nascimento — se fosse filha apenas de Raimunda, seria herdeira só dela.
+- O registro tardio do óbito de Raimunda, por justificação judicial, é **plenamente válido** (art. 109 da Lei 6.015/1973).
+- As certidões **não indicam filhos nem bens** — a prova da qualidade de "únicas herdeiras" depende das certidões de nascimento/casamento.
+- **Cadeia possessória ininterrupta:** Antonio (1994) → herdeiros, por *saisine* (2008/2013 — art. 1.784 do CC) → Andreia (19/06/2018), com soma de posses (art. 1.207 do CC): **mais de 30 anos de posse qualificada** sobre o lote.
 
 ## 4. CONFRONTO ENTRE OS DOCUMENTOS (observações preliminares)
 
@@ -253,6 +296,7 @@
 - ~~Situação do cônjuge do falecido~~ → Raimunda Madeira Campos, falecida em 19/12/2013; as vendedoras se declaram herdeiras de ambos.
 - ~~Nome e qualificação dos herdeiros~~ → Maria Alice Madeira Campos, Francisca Ribeiro Campos e Maria do Rosário Amadeus Albuquerque.
 - ~~Registro do Título de Aforamento no RI~~ → não registrado (declarado no instrumento).
+- ~~Certidões de óbito de Antonio e Raimunda~~ → recebidas (itens 3.7 e 3.8).
 - ~~Quem vendeu o lote ao Sr. Luiz e quando~~ → Domingos Lima de Oliveira a Leny de Sousa Feitosa Carvalho, em 02/2019 (item 3.4); depois, informalmente, Leni → Rogério Pessoa Xavier → Sebastião Costa Lima → doação ao Sr. Luis (item 3.5).
 - ~~Íntegra do PA nº 00003690/2026~~ → Termo de 27/07/2026 recebido (item 3.5). Ainda útil: o **laudo/croqui da vistoria** e o requerimento inicial, se houver.
 - ~~O lote do Sr. Luiz faz parte dos 300 m²?~~ → Em princípio não: lote autônomo, de outra cadeia, que confronta com o da cliente.
@@ -262,7 +306,7 @@
 
 1. **Croqui anexo ao Título de Aforamento nº 2.642** e cópia do **Processo nº 2.642/1994** e do **Edital nº 185/94** na Prefeitura — podem mostrar a **profundidade real do lote e o desenho original da quadra** (decisivo para a faixa de 6,30 m).
 2. **Preço** pago às herdeiras e comprovantes de pagamento (página faltante do instrumento?).
-3. **Certidões de óbito** de Antonio e Raimunda e **certidões de nascimento** das três herdeiras (confirmar filiação, sobretudo de Maria do Rosário, e inexistência de outros herdeiros).
+3. **Certidões de nascimento** das três herdeiras e **certidão de casamento** de Antonio e Raimunda (regime de bens) — confirmar filiação, sobretudo de Maria do Rosário, e a inexistência de outros herdeiros (inclusive filhos já falecidos com descendentes).
 4. Se a transferência foi **comunicada ao Município**, se houve **laudêmio** e se os **foros/IPTU** estão em dia e em nome de quem (risco da cláusula resolutiva de 3 anos).
 5. Comprovantes de **posse desde 2018**: contas de luz/água, IPTU, notas de construção, fotos, declarações de vizinhos.
 6. **Construção** no terreno (casa nº 2746): quando foi edificada e se houve licença municipal.
@@ -296,6 +340,7 @@
 
 - Enfiteuse constituída em 1994, sob o **Código Civil de 1916** (arts. 678 e ss.), mantida pelo **art. 2.038 do CC/2002**; transmissão do domínio útil sujeita à notificação do senhorio (preferência) e ao laudêmio.
 - Alienação por herdeiros antes da partilha: **art. 1.793 do CC/2002** (cessão de direitos hereditários exige escritura pública; cessão de bem singular é ineficaz sem autorização judicial). No caso, o instrumento de 2018 transferiu expressamente a **posse** — que se transmite independentemente de escritura e basta para a tutela possessória (arts. 1.196, 1.206 e 1.207 do CC). A regularização do **domínio útil** é questão paralela.
+- ***Saisine*** (art. 1.784 do CC): aberta a sucessão, a posse e a herança transmitem-se desde logo aos herdeiros, que por isso **tinham posse própria** para transferir à cliente; a posse transmite-se com os mesmos caracteres (art. 1.206 do CC) e a cliente pode somá-la à dos antecessores (art. 1.207 do CC) — posse contínua desde **1994**.
 - Cláusulas do título: alienação **sem prévia permissão da Prefeitura** e eventual falta de **foro/laudêmio** podem ensejar a rescisão do aforamento; a mora pode ser purgada enquanto não decretado o comisso por sentença (**Súmula 122 do STF**). Recomenda-se **regularizar a transferência junto ao Município** antes ou em paralelo à ação, para retirar esse argumento do Sr. Luiz.
 - Caminhos possíveis, a definir após as pendências: regularização administrativa junto ao Município / **REURB (Lei 13.465/2017)**; inventário/sobrepartilha com adjudicação ou alvará; adjudicação compulsória; usucapião do domínio útil (verificar prazo e modalidade cabível — área de 300 m² afasta a usucapião especial urbana de até 250 m²).
 
