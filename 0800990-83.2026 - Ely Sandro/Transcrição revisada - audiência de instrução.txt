@@ -1,0 +1,229 @@
+# TRANSCRIÇÃO DA AUDIÊNCIA DE INSTRUÇÃO
+Comissão de Ética e Decoro Parlamentar – Câmara Municipal de Miguel Alves/PI
+Processos Ético-Disciplinares nº 001/2026 (representação de Arlene Naiara Leal da Silva) e nº 002/2026 (representação de Antônio Carlos Rebelo de Paiva Filho), reunidos
+Denunciado: Vereador Ely Sandro Vaz e Silva
+Fonte: gravação "Nova Gravação 7" (m4a, 36min09s), feita em celular
+
+> NOTA DE MÉTODO: transcrição feita por reconhecimento automático de fala (Whisper large-v3-turbo) e revisada a partir do áudio e dos autos. Os tempos indicam a posição na gravação. A identificação de quem fala foi deduzida do contexto. Convenções: [?] = palavra ou trecho de leitura duvidosa; [inaudível] = trecho não captado ou ininteligível; [ ] = complemento ou observação do revisor. Partes ditas ao mesmo tempo, ou longe do microfone, ficaram prejudicadas. ESTE TEXTO NÃO É TRANSCRIÇÃO OFICIAL: antes de usar nos autos, confira com o áudio e com a gravação oficial da Câmara.
+
+## Participantes identificados
+
+- PRESIDENTE/RELATOR: Vereador José [Nias?] Rosa, presidente da Comissão, que declara atuar "também na condição de relator".
+- Vereador Francisco de [Mello?] Moraes: membro e vice-presidente.
+- Vereador Ronaldo de Lima Barbosa: secretário e membro.
+- ASSESSORIA JURÍDICA da Comissão: fala na discussão sobre a testemunha arrolada fora do prazo (00:28:45 em diante). [identificação a confirmar]
+- ADV. DENUNCIANTES: advogado(a) dos representantes. [nome a confirmar]
+- ADV. DEFESA: advogado do denunciado (Dr. Antônio de Pádua Santos Neto, citado como "doutor Pádua").
+- Outros advogados citados no fim: "Dr. Gustavo [Leitardo?/Alvarado?]", "Dr. [Rômulo?]" e "Dra. [dos Anjos?]".
+- TESTEMUNHA 1: Miguel [sobrenome inaudível], lavrador (arrolado pelos denunciantes).
+- TESTEMUNHA 2: Fernando Vieira da Silva, que presta serviço de filmagem e fotografia nas sessões da Câmara (arrolado pelos denunciantes).
+
+---
+
+## 1. Abertura dos trabalhos (00:00:00 – 00:07:22)
+
+[00:00:00] PRESIDENTE: [início da gravação já em curso] … respeito, responsabilidade e observância do devido processo legal, do contraditório e da ampla defesa. Ressalto que esta Comissão não está reunida para antecipar qualquer julgamento, mas para apurar os fatos e formar sua convicção com base nas provas regularmente produzidas. Me apresentando aqui para os advogados, para os que [chegaram?] antes: Vereador José [Nias?] Rosa, presidente da Comissão; Vereador Francisco de [Mello?] Moraes, membro, vice-presidente; Vereador Ronaldo de Lima Barbosa, secretário e membro também. A todos, sejam bem-vindos. Desejo que sejam trabalhos produtivos e que o respeito possa prevalecer durante todo o ato solene.
+
+[00:00:59] PRESIDENTE: Solicito à secretaria que proceda à identificação e ao registro dos membros. [Acabei de fazer?] a identificação de todos os membros. Solicito também que sejam informadas eventuais ausências e verificadas as notificações realizadas. [Constará em ata?] as ausências e a justificativa.
+
+[00:01:27] PRESIDENTE: Antes de iniciar as oitivas das testemunhas, eu, na condição também de relator, informo que foram observadas as etapas de instrução do processo: notificação do vereador denunciado, apresentação de defesa prévia, apreciação [preliminar?] e designação desta audiência. Tudo [para] cumprir o passo a passo conforme [as normas] legais que regem este processo. Também foi dada ciência à parte denunciada, aos denunciantes e às suas respectivas defesas sobre a [data?] [e] a intimação [regular?] de testemunhas.
+
+[00:02:24] PRESIDENTE: E agora eu vou à questão de ordem que [o senhor] suscitou. Então, assim: como já disse anteriormente, tudo que esta Comissão faz, ela faz de maneira imparcial, isenta e observando os ditames legais e as leis inerentes: Decreto-Lei 201/67, o Código de Ética desta Casa e o regulamento. Então, assim, eu indefiro o seu pedido, porque a Comissão também já analisou essa parte e já respondeu, recebeu as notificações e teve todo o zelo e cuidado de responder as questões que já foram suscitadas de maneira prévia. Então, eu indefiro esse pedido e a gente continua.
+[A questão de ordem da defesa, feita antes do início da gravação, NÃO aparece no áudio. Só o indeferimento foi gravado.]
+
+[00:03:19] ADV. DEFESA [?]: Posso fazer meu requerimento?
+PRESIDENTE: Sim.
+ADV. DEFESA [?]: Então, o requerimento é [inaudível] [novo interrogatório do réu? / comparecimento do réu?], [inaudível] [direito ao silêncio?], né? E requer [inaudível] [o prazo certo dos 90 dias?] [inaudível] [o direito de fala dele?].
+[Trecho muito prejudicado: confirmar no áudio o conteúdo exato do requerimento.]
+PRESIDENTE: Seu requerimento será acolhido e será analisado conforme os ditames legais que salvaguardam esse processo. E que seja registrado em ata.
+
+[00:04:06] PRESIDENTE: Continuando, orientações gerais. Antes de iniciarmos os depoimentos, esclareço a todos que deverão manter postura respeitosa e colaborar com o regular andamento dos trabalhos. Eu não tenho dúvida de que isso vai acontecer. Não serão admitidas ofensas, intimidações, interrupções indevidas ou manifestações estranhas ao objeto do processo, [para] que a gente possa se ater aos fatos que culminaram [com] o início desse processo. Solicito que as testemunhas que ainda não prestaram depoimento permaneçam em ambientes separados, evitando o acompanhamento dos depoimentos anteriores, fato que já foi orientado pela nossa assessoria.
+
+[00:05:38] PRESIDENTE: Alguém manifesta mais algum requerimento?
+ADV. DEFESA [?]: Eu queria só deixar que fosse registrado [em ata?] [inaudível] [e a gente até já reiterou?] esses mesmos requerimentos. Eu queria que fosse dado [o] recebido.
+ADV. DEFESA [?]: Presidente, a sessão está sendo gravada?
+PRESIDENTE: Está gravada. Com certeza.
+ADV. DEFESA [?]: E dizer que nós vamos permanecer na sessão até o final, para que não seja alegado um abandono [da audiência? / de prazo?].
+
+[00:06:15] PRESIDENTE: Todos os requerimentos serão registrados em ata e as respectivas respostas serão dadas observando os ditames legais. Tá bom? Só avisando também: esta Comissão não aceitará e nem vai acolher nenhuma manifestação meramente protelatória. Nenhum ato protelatório será acolhido ou deferido por esta Comissão.
+
+[00:06:57] PRESIDENTE: Então, nesse momento, nós faremos a abertura dos depoimentos. Passaremos a ouvir primeiramente, conforme também as leis que regem esse processo, as testemunhas de acusação.
+
+[00:07:33 – 00:08:23] [Conversa paralela, em parte inaudível, sobre a entrega de petição e o "recebido". Alguém diz: "Presidente, o senhor vai dar o recebido agora ou no final? [...] São duas vias." Resposta: "Receba logo." Depois: "Se o senhor puder assinar cada página, e aqui, a data e a hora. Por favor."]
+
+---
+
+## 2. Testemunha 1 – MIGUEL [sobrenome inaudível] (00:08:30 – 00:16:37)
+
+[00:08:30] PRESIDENTE: Miguel, senta aqui na cadeira aí, [próxima?]. Isso. Senta aí.
+
+[00:08:57] PRESIDENTE: Passaremos à qualificação da testemunha. Gostaria que citasse o seu nome completo, o endereço, profissão.
+TESTEMUNHA 1: [inaudível] Lavrador.
+[00:09:30] PRESIDENTE: Miguel, repete novamente, por favor, o nome completo, endereço e profissão.
+TESTEMUNHA 1: Miguel [inaudível] [endereço inaudível] lavrador.
+[Nome completo e endereço não captados.]
+
+[00:10:07] PRESIDENTE: Agora, o compromisso de dizer a verdade. Nos termos do artigo 12 do regulamento da Comissão, solicito que assuma o compromisso de dizer a verdade sobre os fatos de que tiver conhecimento, alertando inclusive para as sanções [que] podem acontecer caso o faça diferente, tá bom?
+TESTEMUNHA 1: [inaudível – resposta não captada]
+
+[00:11:08] PRESIDENTE/RELATOR: Na condição de relator, eu [inicio] perguntando: como teve conhecimento dos fatos que levaram a este processo? Como foi que [o senhor] ficou sabendo?
+TESTEMUNHA 1: Fiquei sabendo [assistindo?] às sessões. [inaudível] E o vereador Alessandro [?] [inaudível], o pessoal da [primeira-dama? / Piratana?], o secretário de [inaudível].
+PRESIDENTE/RELATOR: Tomou conhecimento também por algum meio de comunicação, internet?
+TESTEMUNHA 1: Sim, sim.
+
+[00:11:55] PRESIDENTE: Algum membro da comissão [gostaria de formular pergunta]? [inaudível]
+[Nenhum membro perguntou.]
+
+[00:12:05] PRESIDENTE: Alguém da parte [dos denunciantes]?
+ADV. DENUNCIANTES: Sim, senhor. [Umas] perguntas bem rápidas. Senhor Miguel, o senhor teria algum parentesco com o senhor Antônio Carlos, com a primeira-dama?
+TESTEMUNHA 1: Não.
+ADV. DENUNCIANTES: O senhor acompanha as sessões da Câmara, né, do município de Miguel Alves?
+TESTEMUNHA 1: Sim, sim.
+ADV. DENUNCIANTES: Constantemente?
+TESTEMUNHA 1: Sim, sim.
+ADV. DENUNCIANTES: Certo. O senhor assistiu a alguns vídeos publicados pelo vereador neste ano de 2026?
+TESTEMUNHA 1: Sim.
+ADV. DENUNCIANTES: O que ele falava nesses vídeos?
+TESTEMUNHA 1: Ele falava, sim, envolvendo, no caso, os [denunciantes], né?
+ADV. DENUNCIANTES: Sim, exatamente.
+TESTEMUNHA 1: [Do] filho também, falava [inaudível].
+ADV. DENUNCIANTES: E o que o vereador dizia em relação à primeira-dama?
+TESTEMUNHA 1: Falava sobre a vida pessoal dela, de luxo, né? Nas sessões.
+
+[00:13:18] ADV. DENUNCIANTES: O senhor se recorda de alguma fala do vereador sobre lojas, joalheria [da?] primeira-dama? O que ele dizia?
+TESTEMUNHA 1: Ele [dizia?], falava da [loja?] dela [inaudível].
+ADV. DENUNCIANTES: Mas o que o senhor se recorda, especificamente?
+TESTEMUNHA 1: Não, senhor.
+
+[00:13:44] ADV. DENUNCIANTES: [Ele] falou alguma coisa sobre o filho do casal?
+TESTEMUNHA 1: Falou.
+ADV. DENUNCIANTES: O quê?
+TESTEMUNHA 1: Ele falou que estava estudando na faculdade.
+ADV. DENUNCIANTES: Mas de forma negativa? O senhor lembra?
+TESTEMUNHA 1: Não, não lembro.
+
+[00:14:00] ADV. DENUNCIANTES: E sobre o seu Antônio Carlos, o que o senhor se recorda assim que ele falou?
+TESTEMUNHA 1: [Ele] falou [do] Antônio Carlos. [inaudível]
+ADV. DENUNCIANTES: O senhor se recorda dele, em algum momento da sessão, ter falado que o senhor Antônio Carlos participava de alguma formação de quadrilha ou [algo do] tipo?
+TESTEMUNHA 1: Sim, sim.
+
+[00:14:43] ADV. DENUNCIANTES: Sobre essa questão de um dinheiro que foi apreendido, que ele inclusive tratou em sessão: o senhor tomou conhecimento de que foi aberto um inquérito policial, e que esse inquérito policial foi arquivado, contra o secretário Tuca?
+TESTEMUNHA 1: [resposta não captada]
+
+[00:15:00] ADV. DENUNCIANTES: Em algum momento o senhor viu o vereador ali se retratar de qualquer fala dele, ou ele sempre foi bem incisivo nas suas falas, sempre sustentou suas falas de [cunho] negativo em relação à primeira-dama, [ao] secretário? O senhor já viu ele se retratar e voltar atrás de uma fala dele?
+TESTEMUNHA 1: [resposta não captada]
+
+[00:15:24] ADV. DENUNCIANTES: Com relação a toda essa fala do vereador, tudo que ele levantou, como foi a repercussão aqui no município de Miguel Alves? O que o senhor ouvia pela sociedade?
+TESTEMUNHA 1: É, algumas pessoas comentando. [inaudível]
+ADV. DENUNCIANTES: Entendi. [inaudível] Então o senhor percebeu que tanto o secretário quanto a primeira-dama, depois de tudo que aconteceu, da repercussão, eles ficaram mais retraídos, né?
+TESTEMUNHA 1: Sim.
+ADV. DENUNCIANTES: Entendi. Estou satisfeito já.
+
+[00:16:07] PRESIDENTE: A defesa do denunciado manifesta [o desejo de fazer perguntas]?
+ADV. DEFESA: Não[, presidente].
+PRESIDENTE: Sem mais perguntas para o momento. [inaudível] Só agradeço pelas informações e pela sua presença aqui. O senhor vai aguardar só para assinar, tá bom?
+TESTEMUNHA 1: Tá bom.
+
+[00:16:37 – 00:20:11] [Intervalo. Falas esparsas e inaudíveis. Em 00:18:46: "Antes, quero ressaltar que todo o material está sendo gravado e o audiovisual vai ser disponibilizado." Em 00:19:34: "Viu, Miguel? A gente orienta que você não tenha contato com as outras testemunhas, tá bom?"]
+
+---
+
+## 3. Testemunha 2 – FERNANDO VIEIRA DA SILVA (00:20:16 – 00:27:48)
+
+[00:20:16] PRESIDENTE: Bom dia.
+TESTEMUNHA 2: Bom dia.
+PRESIDENTE: Passaremos à qualificação da testemunha. Eu gostaria de pedir ao senhor que proferisse o seu nome completo, o endereço, a profissão, para que a gente pudesse registrar.
+TESTEMUNHA 2: Fernando Vieira da Silva, [inaudível] [endereço: "do Amarante"? / "Vale São Miguel"?].
+
+[00:20:48] PRESIDENTE: Enquanto o secretário desta audiência faz a lavratura da ata, eu gostaria de advertir, nos termos do artigo 12 do regulamento desta Comissão, que assuma o compromisso de dizer a verdade sobre os fatos de que tiver conhecimento.
+TESTEMUNHA 2: Sim.
+
+[00:21:14 – 00:22:18] [Coleta de documentos (RG/CPF: número informado verbalmente, não registrado aqui por estar ininteligível) e conversas paralelas.]
+
+[00:22:23] PRESIDENTE: Fernando, tem algum parentesco [com os denunciantes] ou interesse no resultado do processo? Tem algum parentesco com os denunciantes? Tem algum interesse no resultado deste processo?
+TESTEMUNHA 2: Não, não tenho.
+
+[00:22:40] PRESIDENTE/RELATOR: Na condição de relator, eu inicio fazendo as perguntas. Como soube dos fatos que ensejaram a abertura do presente processo disciplinar? Como tomou conhecimento?
+TESTEMUNHA 2: Através das conversas aqui na Câmara.
+
+[00:23:00] PRESIDENTE/RELATOR: [O senhor] presenciou, em algum momento, o vereador denunciado afirmando fatos caluniosos, imputando fatos caluniosos, [difamatórios?] contra o secretário [Tuca] ou contra a [primeira-dama?]?
+TESTEMUNHA 2: Sim.
+PRESIDENTE/RELATOR: [O senhor] poderia externar para a gente?
+TESTEMUNHA 2: Sim. Na sessão, acompanhamos uma… Eu presto serviço durante as sessões, na questão de filmar e fotografar. E em alguns momentos a gente acompanhou a [explanação?] dele, fazendo insinuações com relação à questão financeira, mostrando [que fosse?], inclusive, do adolescente na época, e fazendo esse tipo de insinuação em relação a valores que não tinham condições, [tipo:] como é que se explicava o valor que o prefeito [e] a primeira[-dama] [recebiam] e [pagar] a universidade [inaudível] na questão [da] [Arlene?] Leal, na questão envolvendo o filho dela. Em relação ao secretário Tuca, houve fotos de algumas matérias veiculadas em alguns blogs de internet, mostrando e fazendo insinuações ao Tuca, [de] que o [dinheiro] [que estava] com ele poderia ser recurso público. E é o que depois foi mostrado [?].
+
+[00:24:29] PRESIDENTE/RELATOR: O vereador chegou a publicar nas suas redes sociais esses fatos?
+TESTEMUNHA 2: Sim.
+PRESIDENTE/RELATOR: Então teve alguma divulgação. Alguém da Comissão manifesta [interesse em] fazer alguma pergunta?
+[Membros da Comissão: "Não."]
+
+[00:24:59] PRESIDENTE: Como ninguém da Comissão [manifestou interesse em] fazer perguntas, eu passo a palavra ao advogado da parte dos denunciantes para [formular] as suas perguntas, se assim o desejar.
+ADV. DENUNCIANTES: Obrigado, presidente. O senhor já fez algumas perguntas que eu fui cortando aqui. Só vou complementar algumas questões. Fernando, as sessões aqui da Câmara, como elas são transmitidas?
+TESTEMUNHA 2: Elas são transmitidas através do YouTube, do Instagram e do Facebook, em tempo real.
+ADV. DENUNCIANTES: Ao vivo?
+TESTEMUNHA 2: Ao vivo.
+ADV. DENUNCIANTES: Ficam gravadas?
+TESTEMUNHA 2: Ficam gravadas.
+ADV. DENUNCIANTES: Então todas essas [sessões] estão no YouTube, né?
+TESTEMUNHA 2: No YouTube e no Facebook.
+
+[00:25:45] ADV. DENUNCIANTES: Ok. O senhor recorda mais ou menos em quantas sessões o vereador costumava trazer essas calúnias em relação ao secretário, à primeira-dama? O senhor tem noção de quantas vezes ele chegou a falar?
+TESTEMUNHA 2: Mais ou menos no mês de março, no mês de janeiro, no ano de [2026; o reconhecimento captou "2016"]. Durante as sessões em que ele [inaudível].
+ADV. DENUNCIANTES: Costuma ter quantas sessões?
+TESTEMUNHA 2: São duas sessões por mês.
+
+[00:26:16] ADV. DENUNCIANTES: E naquele tempo, enquanto estavam tendo essas sessões, houve alguma manifestação de algum outro vereador tentando fazer com que o vereador minimizasse essas falas, [que] ele retirasse essas falas?
+TESTEMUNHA 2: O vereador José [Elias? / Lias?] [Márcio?]. [inaudível]
+
+[00:26:42] ADV. DENUNCIANTES: O senhor se recorda de algum requerimento do vereador para convocar o secretário Tuca, para solicitar qualquer tipo de explicação com relação à questão do dinheiro apreendido?
+TESTEMUNHA 2: [resposta não captada]
+ADV. DENUNCIANTES: Estou satisfeito.
+
+[00:27:05] PRESIDENTE: Passo a palavra à parte da defesa do denunciado para também formular perguntas, se assim o desejar.
+[inaudível: não ficou claro no áudio se a defesa fez perguntas. Confirmar.]
+PRESIDENTE: Nenhum membro da Comissão manifesta desejo de [fazer] alguma pergunta? [Vamos] encerrar o seu depoimento, Fernando, e agradecer [pela presença e pelos] esclarecimentos. [O senhor vai assinar] a ata e, ao sair, não manter contato com [as] demais [testemunhas], [tá bom]?
+
+---
+
+## 4. Pedido de oitiva de testemunha apresentada fora do prazo (00:28:00 – 00:31:37)
+
+[00:28:00] PRESIDENTE: Mais alguma testemunha? Tem mais uma?
+[ASSESSORIA/SECRETARIA?]: Senhor presidente, [partes] denunciante [e] denunciado: ontem chegou um e-mail, um pedido da parte do denunciante para que fosse [ouvida] mais uma testemunha. Chegou ontem, [por volta] das três horas. [inaudível]
+PRESIDENTE: Isso. Conforme orientado pela nossa assessoria, para que seja acatado o pedido, tem que ter [a] anuência [de] ambas as partes.
+
+[00:28:45] ASSESSORIA JURÍDICA [?]: [Vou] explicar melhor. A instrução… até porque, fazendo aqui um pequeno [preâmbulo], para entender: os próprios pedidos que foram negados à outra parte partem, inclusive, de perda de prazo. Então, nós não poderíamos acatar esta testemunha fora do prazo, esta que foi arrolada ontem, e negar o pedido de testemunha, ou até de intimação de testemunha, que foi negado também ontem, da outra parte. Então, salvo se a outra parte concorde, nós não poderíamos ouvir essa última testemunha.
+ADV. DEFESA: Não concordo.
+[ADV. DENUNCIANTES?]: [inaudível] Eles pediram um adiamento em referência [às testemunhas?] e a gente não [inaudível]…
+ASSESSORIA JURÍDICA [?]: Não é questão de fundo, não é de [objeto?], é questão de prazo. Eles protocolaram, independente do que eles estão pedindo, eles protocolaram fora do prazo. Eu até fiquei muito tentado a fazer o parecer positivo em relação a eles.
+[?]: Quando eles falaram apenas da questão [inaudível], reitero a questão da testemunha: é o ônus dele. Ele não trouxe? Ok.
+ASSESSORIA JURÍDICA [?]: Tudo bem, isso vai ser discutido depois. Mas eu até fiquei tentado com relação às testemunhas que são servidoras públicas. O argumento é bom. Contudo, eles fizeram fora do prazo. Se tivessem feito, indicado antes, dizendo o endereço, onde é que está etc.
+ADV. DEFESA: A gente indicou essas testemunhas. Na defesa nós já [arrolamos].
+ASSESSORIA JURÍDICA [?]: Arrolaram, mas não disseram qual era a… Eu não tenho como [dar a] qualificação, eu não tenho como enviar, para onde enviar etc.
+ADV. DEFESA: Está todo o endereço lá.
+ASSESSORIA JURÍDICA [?]: E aí eles fizeram apenas no sábado essa indicação, [peticionaram] explicando "olha aqui, tal, tal", [entendemos] agora etc. Só que foi intempestivo. Se a deles foi intempestiva, independente do que eles estão pedindo, a de vocês também é. Foi feito apenas ontem, e o prazo [já] passou faz muito tempo. Então, salvo se eles concordassem, nós não podemos ouvir essa última [testemunha].
+ADV. DENUNCIANTES: Doutor, tendo em vista que essa testemunha é extremamente importante, eu queria que fosse anotado em ata, para o nosso [protesto?], para os questionamentos.
+PRESIDENTE/ASSESSORIA: Está gravado. Está gravado.
+[00:31:18] PRESIDENTE: [inaudível] A gente vai seguir o parecer da nossa orientação, do nosso assessor jurídico. Mais alguma testemunha para ser ouvida?
+
+---
+
+## 5. Encerramento da instrução e próximos atos (00:31:41 – 00:36:09)
+
+[00:31:41] PRESIDENTE: Então eu declaro encerrada a oitiva das testemunhas, e aí pergunto aos senhores, tanto da parte [dos denunciantes] quanto do denunciado, se ainda gostariam de formular algum outro requerimento.
+ADV. DEFESA [?]: [Doutor? / Só], presidente, antes mesmo de o senhor dar algum parecer: há prazo para a gente se manifestar da petição deles?
+PRESIDENTE/ASSESSORIA: Com relação às questões de ordem da defesa? Ela já foi indeferida. Ela já foi indeferida, e volta agora à Comissão, e [ela] tomará [as providências]. A Comissão vai analisar se considera a [instrução] completa, se está satisfeita, se marca mais algum ato ou não, [ou] se direciona para o plenário, para o plenário [apreciar] o relatório final. Aí, se a Comissão estiver satisfeita após essa análise, [as partes] serão intimadas para fazer uma última manifestação, umas alegações finais, e depois direciona [ao] plenário.
+ADV. DEFESA [?]: Então as alegações finais ainda vão ser após [essa análise]?
+PRESIDENTE/ASSESSORIA: Isso.
+ADV. DEFESA [?]: Eu ia pedir o prazo das alegações finais.
+PRESIDENTE/ASSESSORIA: Não, porque tem umas questõezinhas [a apreciar] aqui.
+ADV. [?]: [Em] outros [casos] que eu já atuei, após a instrução, eram as alegações.
+PRESIDENTE/ASSESSORIA: É o normal, mas como tem [um] pedido [inaudível], apesar de ter sido indeferido, [vamos] fazer de forma [a] notificar. E aí a intimação vai ser feita pelos e-mails que vocês [informaram].
+ADV. [?]: Só complementar [inaudível]: a gente pode receber as intimações [inaudível]?
+PRESIDENTE/ASSESSORIA: Cadastrado, sim.
+
+[00:33:30] PRESIDENTE: Antes de encerrar, fiquem todos cientes, tanto da parte [dos denunciantes] como da parte do denunciado, que serão todos informados se porventura precisar de algum ato complementar ou alguma manifestação. E lembrando que serão dados os prazos conforme o regramento jurídico pertinente. Então, todos serão notificados via e-mail, como já vem sendo feito. E a ata [inaudível] será disponibilizada [a todas] as partes. Já temos [os] dados do doutor Pádua, do doutor Gustavo [Leitardo?/Alvarado?], né? E o doutor [Rômulo?], [inaudível] e a doutora [dos Anjos?]. Temos os dados de todos. [inaudível: "a questão do comparecimento"?]
+
+[00:34:29] PRESIDENTE: Bem, como não há mais testemunhas a serem ouvidas, eu já encerro a fase de testemunhas. Também, como não há outros requerimentos, declaro encerrad[a] [inaudível].
+
+[00:35:14] PRESIDENTE: Bem, pessoal, ao tempo em que eu agradeço a presença de todos, pelos esclarecimentos e pela participação nesta audiência: concluídas as oitivas previstas para esta audiência, e já feita a consulta sobre requerimentos complementares, não havendo outras providências a realizar nesta data, declaro encerrada a presente audiência e determino que todos os depoimentos e requerimentos sejam devidamente registrados nos autos, assim também como tudo está sendo registrado por mídias, que serão disponibilizadas às partes. No mais, toda a movimentação do processo, todos os atos serão comunicados devidamente às partes por meio dos seus advogados aqui constituídos, tá bom? Eu agradeço demais pela presença [de todos] [e] encerro os trabalhos. Muito obrigado.
+
+[FIM DA GRAVAÇÃO – 00:36:09]
