@@ -88,6 +88,7 @@
 | Portão | Aberto **3 dias depois do muro**, na linha do muro, além dos 30 m. ⚠️ Em outra resposta a cliente disse **"final de junho/2026"** | **Confirmar a data.** De qualquer modo, menos de ano e dia |
 | Uso da faixa desde 2018 | Cuidava como terreno único; havia **cerca de arame no limite do Sr. Francisco**, onde hoje é o muro dele; ninguém mais usava | Prova de posse anterior e do **limite físico original** |
 | Quanto falta para o muro | ≈ **6,5 m** | Coerente com os 6,30 m da vistoria |
+| **Grades (novo fato)** | O Sr. Luis **instalou grades da marca dos 30 m até o fundo**, cercando a faixa de ≈ 6,5 m | **Agrava o esbulho**: há exclusão física da cliente e incorporação da faixa ao imóvel dele. Pedir na liminar a **retirada das grades** e dos tijolos, além da proibição de novas obras. **Data a confirmar** (mantém a posse nova) |
 | Leny | **Antiga dona** do lote, não é esposa do Sr. Luis | Corrigida a premissa: **Leny fica fora do polo passivo** |
 | Rogério Pessoa Xavier | **Irmão da cliente**. Vendeu o lote a Sebastião (R$ 4.500 pendentes) | ⚠️ **Impedido de depor como testemunha** (colateral de 2º grau — art. 447, § 2º, I, do CPC); poderá ser ouvido só como informante (art. 447, §§ 4º e 5º). Tem interesse econômico (R$ 4.500). Confirmar **exatamente o que vendeu** (só os 11 x 15 m?) |
 | Vizinhos que confirmaram | **Maria Cleane** (lado), **Francisco Furtado** (fundos), **Francisca Ferreira** (lado); uma vizinha mora lá há 27 anos | **Testemunhas-chave**, sem parentesco |
