@@ -1,7 +1,7 @@
 # ANÁLISE DE CASO — ANDREIA PESSOA XAVIER
 
 > Documento em construção. Os fatos e documentos serão incorporados conforme forem enviados.
-> Última atualização: 04/11/2026 (incorporada a Certidão de Lançamento Cadastral nº 6783).
+> Última atualização: 04/11/2026 (incorporadas as respostas da cliente ao questionário).
 
 ---
 
@@ -73,6 +73,30 @@
 ### 2.3. Do objetivo da cliente
 
 22. A cliente pretende **murar o seu terreno até o fundo**, ou seja, até a divisa com o confrontante dos fundos, abrangendo a faixa de aproximadamente 6,30 m. Com isso ficariam vedadas as portas abertas pelo Sr. Luis e a faixa deixaria de ser usada por ele.
+
+---
+
+### 2.4. Respostas da cliente ao questionário (04/11/2026)
+
+| Tema | Resposta | Consequência |
+|---|---|---|
+| Casa e 1ª porta do Sr. Luis | Há cerca de **2 anos (2024)** | Mais de ano e dia: **não pedir o desfazimento da 1ª porta**. Ela já está vedada pelo muro que a cliente ergueu dentro do próprio terreno |
+| Pedidos e recusa | Pedia desde a construção; ele prometia por meses; **recusa verbal em fins de maio/2026** ("fica pra sua parede") | A promessa reiterada reforça a boa-fé e o *venire contra factum proprium*, caso ele questione o muro |
+| Bodes e tijolos | **Dois bodes desde ≈ maio/2026**. Ele **pediu autorização e ela negou**. A família entrava para alimentar os animais. Os bodes **já foram retirados**; os **tijolos continuam** na faixa | **Início do esbulho: maio/2026**. A ocupação foi contra a vontade expressa da cliente (não é mera tolerância) |
+| Impedimento da Prefeitura | **Verbal**, pela Superintendente **Cleiciane**: disse que ela não poderia usar a faixa até analisar os outros lotes. Servidores mediram e os vizinhos confirmaram a versão dela | Não houve embargo formal. A Superintendente pode ser testemunha |
+| Muro | Erguido em **fins de julho/2026** até a marca dos 30 m, em frente à 1ª porta | — |
+| Portão | Aberto **3 dias depois do muro**, na linha do muro, além dos 30 m. ⚠️ Em outra resposta a cliente disse **"final de junho/2026"** | **Confirmar a data.** De qualquer modo, menos de ano e dia |
+| Uso da faixa desde 2018 | Cuidava como terreno único; havia **cerca de arame no limite do Sr. Francisco**, onde hoje é o muro dele; ninguém mais usava | Prova de posse anterior e do **limite físico original** |
+| Quanto falta para o muro | ≈ **6,5 m** | Coerente com os 6,30 m da vistoria |
+| Leny | **Antiga dona** do lote, não é esposa do Sr. Luis | Corrigida a premissa: **Leny fica fora do polo passivo** |
+| Rogério Pessoa Xavier | **Irmão da cliente**. Vendeu o lote a Sebastião (R$ 4.500 pendentes) | ⚠️ **Impedido de depor como testemunha** (colateral de 2º grau — art. 447, § 2º, I, do CPC); poderá ser ouvido só como informante (art. 447, §§ 4º e 5º). Tem interesse econômico (R$ 4.500). Confirmar **exatamente o que vendeu** (só os 11 x 15 m?) |
+| Vizinhos que confirmaram | **Maria Cleane** (lado), **Francisco Furtado** (fundos), **Francisca Ferreira** (lado); uma vizinha mora lá há 27 anos | **Testemunhas-chave**, sem parentesco |
+| Herdeiras | Devem confirmar que o lote ia até o fundo | Possíveis testemunhas ou declarações |
+| Pagamento às herdeiras | **Transferência bancária**, sem recibo | Obter o **comprovante** e informar o valor |
+| Casa da cliente | Construída em **1989** | A posse da cadeia remonta a **1989**, antes do título de 1994. Confirmar quem construiu |
+| IPTU/foro | **Não pagava** antes de 2026 | Risco da cláusula resolutiva do aforamento (3 anos sem foro). Recomendar a regularização |
+| Acordo | **Aceitaria** (fechar portas e sair da faixa) | Pedir audiência de conciliação (art. 334 do CPC) |
+| Indenização | **Não quer** | Não cumular perdas e danos. Pedidos apenas possessórios e de obrigação de fazer |
 
 ---
 

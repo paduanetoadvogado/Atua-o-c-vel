@@ -1,5 +1,19 @@
 # PERGUNTAS QUE FALTAM — ANDREIA PESSOA XAVIER
 
+> **Respondido em 04/11/2026** (ver item 2.4 da Análise de caso). Restam apenas:
+> 1. **Data do portão do fundo:** foi em fins de junho ou três dias depois do muro, em fins de julho de 2026?
+> 2. **Quando o Sr. Luis retirou os bodes?**
+> 3. **Valor pago às herdeiras** e **comprovante da transferência bancária**.
+> 4. A casa de 1989 foi construída pelo **Sr. Antonio**?
+> 5. O que exatamente o irmão **Rogério vendeu a Sebastião**: só o lote de 11 x 15 m?
+> 6. Qual vizinha mora lá **há 27 anos**?
+> 7. **Nomes e documentos das testemunhas** (não parentes).
+> 8. **Fotos** do muro, do portão, dos tijolos e da faixa; fotos antigas da **cerca de arame**, se houver.
+
+---
+
+## Questionário original
+
 > Versão consolidada (04/11/2026). Já respondido: objetivo da cliente (**murar até o fundo**); documentos do imóvel, das herdeiras, do lote do vizinho, do processo na Prefeitura e cadastro nº 6783.
 
 ## 1. DATAS (urgente — definem se cabe liminar)
