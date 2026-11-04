@@ -49,7 +49,7 @@
 3. **Mensagens/áudios** com o Sr. Luis (promessa de fechar a porta e recusa).
 4. **Documento da Prefeitura que proibiu o muro**, se houver.
 5. **RG, CPF e comprovante de endereço** da senhora.
-6. **Comprovante de IPTU/foro** ou espelho do **cadastro imobiliário nº 006783**.
+6. ~~Cadastro imobiliário~~ → **recebida** a Certidão de Lançamento Cadastral nº 6783. Ainda falta: **certidão de valor venal** e comprovantes de **IPTU/foro anteriores a 2026**, se existirem.
 7. **Boletim de ocorrência**, se houver.
 
 **Úteis, se for fácil conseguir:**

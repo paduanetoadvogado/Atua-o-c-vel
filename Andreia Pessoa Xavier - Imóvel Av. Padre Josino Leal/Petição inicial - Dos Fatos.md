@@ -4,7 +4,7 @@
 
 ## I. Do imóvel e da posse da Autora
 
-1. A Autora é possuidora, com ânimo de dona, do imóvel urbano consistente no **Lote 12 da Quadra "O" do Parque Residencial Padre Josino Leal**, situado na antiga Rua Principal, atualmente denominada **Avenida Padre Josino Leal, nº 2746, Bairro Forquilha, Miguel Alves/PI**. O imóvel mede **10,00 m de frente e de fundos por 30,00 m de cada lateral**, perfazendo **300,00 m²**, e está inscrito no **Cadastro Imobiliário Municipal sob o nº 006783**.
+1. A Autora é possuidora, com ânimo de dona, do imóvel urbano consistente no **Lote 12 da Quadra "O" do Parque Residencial Padre Josino Leal**, situado na antiga Rua Principal, atualmente denominada **Avenida Padre Josino Leal, nº 2746, Bairro Forquilha, Miguel Alves/PI**. O imóvel mede **10,00 m de frente e de fundos por 30,00 m de cada lateral**, perfazendo **300,00 m²**, e está inscrito **em nome da Autora** no **Cadastro Imobiliário Municipal sob o nº 6783**. O cadastro registra a área de 300,00 m² e os confrontantes do lote, com a **Avenida Padre Josino Leal** na frente e **Francisco Furtado da Silva nos fundos** (**Doc. 08**).
 
 2. Trata-se de terreno **foreiro**, cujo senhorio direto é o Município de Miguel Alves. O domínio útil foi concedido ao Sr. **ANTONIO RIBEIRO CAMPOS** pelo **Título de Aforamento nº 2.642, de 15 de dezembro de 1994**, expedido no Processo nº 2.642/1994, conforme o Edital nº 185/94, e lavrado no Livro nº 23, fls. 85, da Prefeitura Municipal (**Doc. 03**). O título descreve o lote pelas medidas e também pelos **limites**: a frente dá para a então Rua Principal, e **os fundos fazem divisa com o confrontante dos fundos**, o Sr. Francisco Furtado da Silva.
 
@@ -42,7 +42,7 @@
 
 16. No **Termo de Tentativa de Acordo e Encerramento do Processo Administrativo, de 27 de julho de 2026**, firmado pelas partes, pelo Fiscal responsável e pela Superintendente (**Doc. 10**), a Administração Municipal registrou o seguinte:
 
-    a) a Autora é **possuidora** do imóvel de 10,00 m x 30,00 m objeto do Título de Aforamento nº 2.642, inscrito no Cadastro Imobiliário sob o nº 006783;
+    a) a Autora é **possuidora** do imóvel de 10,00 m x 30,00 m objeto do Título de Aforamento nº 2.642, inscrito no Cadastro Imobiliário sob o nº 6783;
 
     b) o Réu ocupa imóvel de 11,00 m x 15,00 m, cuja profundidade **já está integralmente tomada por sua residência**;
 
@@ -87,7 +87,7 @@
 | 05 | Certidão de óbito de Raimunda Madeira Campos |
 | 06 | Instrumento Particular de Compra e Venda de 19/06/2018, registrado em RTD (nº 1.245, fls. 205-v, Livro B-07) |
 | 07 | Planta e memorial descritivo (jun/2018), Eng. Agrimensor Genival Cavalcante de Sampaio, CREA/PI 5045 |
-| 08 | Comprovante de cadastro imobiliário nº 006783 / IPTU **[obter]** |
+| 08 | Certidão de Lançamento Cadastral nº 6783 (27/07/2026) **[+ certidão de valor venal/IPTU, se obtida]** |
 | 09 | Declaração de Compra e Venda Domingos Lima de Oliveira → Leny de Sousa Feitosa Carvalho (02/2019) |
 | 10 | Termo de Tentativa de Acordo e Encerramento do PA nº 00003690/2026 (27/07/2026) |
 | 11 | Imagem de satélite com a demarcação dos imóveis |

@@ -1,7 +1,7 @@
 # ANÁLISE DE CASO — ANDREIA PESSOA XAVIER
 
 > Documento em construção. Os fatos e documentos serão incorporados conforme forem enviados.
-> Última atualização: 04/11/2026 (definido o objetivo da cliente: murar até o fundo).
+> Última atualização: 04/11/2026 (incorporada a Certidão de Lançamento Cadastral nº 6783).
 
 ---
 
@@ -264,6 +264,29 @@
 - O registro tardio do óbito de Raimunda, por justificação judicial, é **plenamente válido** (art. 109 da Lei 6.015/1973).
 - As certidões **não indicam filhos nem bens** — a prova da qualidade de "únicas herdeiras" depende das certidões de nascimento/casamento.
 - **Cadeia possessória ininterrupta:** Antonio (1994) → herdeiros, por *saisine* (2008/2013 — art. 1.784 do CC) → Andreia (19/06/2018), com soma de posses (art. 1.207 do CC): **mais de 30 anos de posse qualificada** sobre o lote.
+
+### 3.9. Certidão de Lançamento Cadastral — Município de Miguel Alves (27/07/2026)
+
+| Item | Conteúdo |
+|---|---|
+| Emissor | Município de Miguel Alves/PI — CNPJ impresso **06.553.140/0001-87** (no Termo do PA consta 06.553.614/0001-87; divergência sem relevância, mas usar o CNPJ correto ao qualificar o Município, se necessário) — emissor "Riquelmy", emissão 27/07/2026 |
+| Teor | Certifica que o imóvel, situado na Zona Urbana e "em conformidade com as Posturas Municipais", encontra-se **devidamente cadastrado** |
+| Inscrição | **6783** (inscrição anterior: em branco) |
+| "Proprietário" | **ANDREIA PESSOA XAVIER** |
+| Endereço | Padre Josino Leal, S/N, Forquilha, 64130-000, Miguel Alves/PI |
+| Data da inscrição | **27/07/2026** (mesma data do Termo do PA) |
+| Quadra / Lote / Valor venal | **Em branco** |
+| Registro (CRI, matrícula, livro, folha) | **Em branco** — confirma a ausência de registro imobiliário |
+| Medidas | Frente 10 m · Lado direito 30 m · Lado esquerdo 30 m · Fundo 10 m · **Área do lote 300,00 m²** · Área com restrição: 0,00 |
+| Área construída / alvará | Em branco |
+| Confrontantes | Frente: **Avenida Padre Josino Leal** · Fundo: **Francisco Furtado da Silva** · Lado direito: **Maria Cleane de Seba (sic) Brito** · Lado esquerdo: **Francisca de Sousa Ferreira** |
+
+**Pontos relevantes:**
+- **O Município cadastra a cliente como titular** do imóvel de 300 m², com os mesmos confrontantes do título e do memorial. Para fins cadastrais e fiscais, o próprio Município a reconhece como responsável pelo lote.
+- O cadastro registra como confrontante dos fundos **Francisco Furtado da Silva**, e não o Sr. Luis. Isso reforça que o lote da cliente se estende até o vizinho dos fundos.
+- **A inscrição é de 27/07/2026**, recente, feita no dia do encerramento do PA. A certidão não prova cadastro ou pagamento de IPTU desde 2018. Verificar se havia inscrição ou lançamento anterior.
+- **Lateralidade invertida:** o cadastro põe Maria Cleane à **direita** e Francisca à **esquerda**, ao contrário do memorial e do instrumento de 2018. A versão do cadastro corresponde à de **quem está na avenida olhando para o imóvel**, coerente com a imagem de satélite (ver item 4). Na petição, **descrever as laterais indicando o referencial** ("à direita de quem, da Avenida, olha o imóvel") para evitar contradição aparente.
+- **Valor venal em branco:** não serve para fixar o valor da causa. Pedir à Prefeitura certidão de valor venal ou espelho do IPTU.
 
 ## 4. CONFRONTO ENTRE OS DOCUMENTOS (observações preliminares)
 

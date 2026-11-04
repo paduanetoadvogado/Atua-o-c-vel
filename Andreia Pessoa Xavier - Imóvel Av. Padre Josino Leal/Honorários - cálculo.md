@@ -11,7 +11,7 @@ Ação de **reintegração/manutenção de posse com pedido liminar**, cumulada 
 | Item | Estimativa |
 |---|---|
 | Área disputada | Faixa de ≈ 6,30 m x 10,00 m (largura do lote) ≈ **63 m²** |
-| Referência de preço | Lote vizinho de 165 m² vendido por R$ 14.000,00 em 2019 (≈ R$ 85/m²); corrigido para 2026, algo como **R$ 120 a R$ 150/m²** (a confirmar com o valor venal no cadastro nº 006783) |
+| Referência de preço | Lote vizinho de 165 m² vendido por R$ 14.000,00 em 2019 (≈ R$ 85/m²); corrigido para 2026, algo como **R$ 120 a R$ 150/m²** (a Certidão de Lançamento Cadastral nº 6783 **não informa o valor venal** — pedir certidão específica à Prefeitura) |
 | Proveito econômico estimado | **≈ R$ 7.500 a R$ 9.500**, somados ao valor da obrigação de fazer (portas e muro) |
 | Valor da causa sugerido | **R$ 10.000,00** (ajustar ao valor venal, se for maior) |
 
