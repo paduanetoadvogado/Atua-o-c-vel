@@ -1,7 +1,7 @@
 # ANÁLISE DE CASO — ANDREIA PESSOA XAVIER
 
 > Documento em construção. Os fatos e documentos serão incorporados conforme forem enviados.
-> Última atualização: 04/11/2026 (incorporado o instrumento particular de compra e venda de 19/06/2018 e o verso do Título de Aforamento).
+> Última atualização: 04/11/2026 (incorporada a íntegra do Termo de Tentativa de Acordo e Encerramento do PA nº 00003690/2026).
 
 ---
 
@@ -46,7 +46,7 @@
 
 11. Como a porta está instalada dentro do terreno adquirido pelo Sr. Luiz, a cliente não mexeu nela: limitou-se a **construir/fechar o muro à frente da porta, dentro do seu próprio terreno**, vedando a abertura.
 
-12. O imóvel do Sr. Luiz foi adquirido em **fevereiro de 2019**, em nome de sua esposa, **LENY DE SOUSA FEITOSA CARVALHO**, de **DOMINGOS LIMA DE OLIVEIRA**, por meio de "Declaração de Compra e Venda" particular com firmas reconhecidas, pelo preço de R$ 14.000,00. Trata-se de **lote autônomo** de 165 m² (11 x 15 m), **com frente para a Rua 05, conhecida como Rua Gravataí**, de origem foreira e anteriormente pertencente a Manoel de Souza Costa.
+12. O lote hoje ocupado pelo Sr. Luiz foi vendido em **fevereiro de 2019** por **DOMINGOS LIMA DE OLIVEIRA** a **LENY DE SOUSA FEITOSA CARVALHO**, por meio de "Declaração de Compra e Venda" particular com firmas reconhecidas, pelo preço de R$ 14.000,00. Segundo a Prefeitura (PA nº 00003690/2026), a cadeia posterior é **informal**: Leni → **Rogério Pessoa Xavier** → **Sebastião Costa Lima** (filho do Sr. Luiz), **sem contrato escrito** e com **R$ 4.500,00 ainda não pagos** → **doação** ao Sr. Luiz, que ocupa o imóvel **há cerca de dois anos** (desde ≈ meados de 2024). Trata-se de **lote autônomo** de 165 m² (11 x 15 m), **com frente para a Rua 05, conhecida como Rua Gravataí**, de origem foreira e anteriormente pertencente a Manoel de Souza Costa.
 
 13. O próprio documento de compra do casal declara que o lote **confronta nos fundos com os "herdeiros do Sr. Antonio Ribeiro"**, isto é, com o terreno hoje pertencente à cliente. Assim, o casal **sabia, desde a aquisição**, que os fundos do seu lote fazem divisa com terreno alheio, e o título de aquisição **não lhes confere qualquer direito de passagem ou acesso** por esse terreno.
 
@@ -127,7 +127,7 @@
 |---|---|
 | Título do documento | "Declaração de Compra e Venda (Terreno Foreiro Municipal)" — instrumento particular |
 | Vendedor | DOMINGOS LIMA DE OLIVEIRA, brasileiro, RG 2.158.446-SSP/PI, CPF 947.224.713-04, residente na Localidade Arriba a Saia (?), s/n, zona rural, Miguel Alves/PI |
-| Compradora | LENY DE SOUSA FEITOSA CARVALHO, brasileira, **casada** (esposa de Luiz Pereira Lima, conforme a cliente), residente na Localidade Olivença, s/n, zona rural, Miguel Alves/PI, RG 7.547.4915 (sic) SSP/PI, CPF 918.367.433-00 |
+| Compradora | LENY DE SOUSA FEITOSA CARVALHO, brasileira, **casada** (a cliente informou ser esposa de Luiz; **o termo da Prefeitura, porém, a trata como "Leni de Sousa Oliveira", que teria vendido o imóvel a Rogério Pessoa Xavier** — ver item 3.5), residente na Localidade Olivença, s/n, zona rural, Miguel Alves/PI, RG 7.547.4915 (sic) SSP/PI, CPF 918.367.433-00 |
 | Objeto | Lote de terreno urbano foreiro municipal, **11,00 x 15,00 m**, perímetro 52 m, **área 165 m²**, Rua 05 do Parque Residencial Padre Josino Leal, Bairro Forquilha |
 | Preço | R$ 14.000,00 ("quatroze mil reais" — sic), pago à vista, com quitação |
 | Frente (11,00 m) | **Rua 05, conhecida como Gravataí** |
@@ -148,26 +148,37 @@
 - O documento é **posterior à aquisição da cliente (2018)** — a construção da casa e a instalação da porta são, necessariamente, de **depois de fevereiro de 2019**.
 - Fragilidades formais (não afetam a cliente, mas relevantes se houver litígio): instrumento particular não registrado; sem anuência/laudêmio do Município comprovados; testemunhas incompletas. Pelo valor (R$ 14.000,00, inferior a 30 salários mínimos de 2019), a escritura pública seria dispensável (art. 108 do CC), mas a transmissão do domínio útil continua dependendo do senhorio direto e do registro.
 
-### 3.5. Decisão de encerramento do Processo Administrativo nº 00003690/2026 — Prefeitura de Miguel Alves
+### 3.5. Termo de Tentativa de Acordo entre as Partes e Encerramento do Processo Administrativo nº 00003690/2026 (27/07/2026) — íntegra (3 páginas)
 
 | Item | Conteúdo |
 |---|---|
 | Órgão | Prefeitura Municipal de Miguel Alves/PI — Superintendência Municipal de Arrecadação e Tributos (CNPJ 06.553.614/0001-87) |
-| Partes | Andreia Pessoa Xavier e Luis (sic) Pereira Lima |
+| Data | **27 de julho de 2026** |
+| Partes | **ANDREIA PESSOA XAVIER**, CPF 015.874.903-07, residente na (Av.) Padre Josino Leal, nº 2746, Bairro Forquilha; e **LUIS PEREIRA LIMA**, CPF **296.062.843-87** |
+| Objeto | "Divergência quanto aos limites e à ocupação de área de imóvel urbano" |
+| Imóvel da cliente (apurado nos autos) | A Sra. Andreia "**é possuidora**" de imóvel urbano de **10 x 30 m**, na Av. Padre Josino Leal, objeto do **Título de Aforamento nº 2.642**, inscrito no **Cadastro Imobiliário Municipal sob nº 006783**, adquirido dos herdeiros de Antônio Ribeiro Campos |
+| Imóvel do Sr. Luis | Exerce a posse **há aproximadamente dois anos**, para moradia da família, imóvel **recebido por doação de seu filho, Sebastião Costa Lima**, que o adquiriu de **Rogério Pessoa Xavier**, que por sua vez o adquirira de **Leni de Sousa Oliveira** |
+| Situação documental do Sr. Luis | **Não houve formalização** de contrato entre Rogério e Sebastião; está **pendente o pagamento de R$ 4.500,00** da promessa de compra e venda, não concluído "em razão da ausência de documentação contratual e recibo de quitação" |
+| Dimensões do imóvel do Sr. Luis | ≈ **11 x 15 m** |
+| Vistoria técnica *in loco* | O Sr. Luis **edificou sua residência utilizando integralmente os 15,00 m de profundidade** do imóvel por ele ocupado |
+| Área remanescente | ≈ **6,30 m**, "**localizada ao fundo do imóvel da Sra. Andreia Pessoa Xavier**", originando o conflito |
 | Tese da cliente | A área integra seu imóvel, pois todos os imóveis confrontantes mantêm padrão de alinhamento e dimensões semelhantes, correspondentes à sequência dos lotes da quadra — **confirmado pelos vizinhos confrontantes** |
-| Tese do Sr. Luiz | Entende possuir direito sobre a área ocupada; permaneceu utilizando parte da área remanescente |
-| Proposta conciliatória | Dividir a área remanescente de **≈ 6,30 m** em partes iguais (**≈ 3,15 m** para cada) — considerada "tecnicamente adequada" |
-| Resultado | **Proposta não aceita pelo Sr. Luiz** |
-| Fundamento | Lei Municipal nº 853/2019 (ordenamento territorial e uso do solo): cabe ao Município fiscalizar a ocupação do solo, mas **definição de domínio, propriedade, posse, retificação de divisas e solução de conflitos possessórios ou dominiais é do Poder Judiciário** |
-| Dispositivo | Considerando vistoria técnica, tentativas de acordo, recusa de uma das partes e inexistência de competência administrativa: **encerrado o processo**, ressalvadas às partes as medidas judiciais/extrajudiciais |
-| Assinaturas | Servidor(es) e partes (consta assinatura de "Andreia") |
-| Observação | Foi enviada **apenas a última página**; faltam as anteriores (relatório, laudo da vistoria, medidas apuradas) |
+| Tese do Sr. Luis | Entende possuir direito sobre a área ocupada; **permaneceu utilizando parte da área remanescente** |
+| Proposta conciliatória | Dividir a faixa em partes iguais (≈ **3,15 m** para cada) — "tecnicamente adequada" |
+| Resultado | **Proposta não aceita pelo Sr. Luis** |
+| Fundamento | Lei Municipal nº 853/2019: cabe ao Município fiscalizar o uso do solo, mas **domínio, propriedade, posse, retificação de divisas e conflitos possessórios/dominiais são de competência do Poder Judiciário** |
+| Dispositivo | **Encerrado o processo**, ressalvado às partes adotar as medidas judiciais ou extrajudiciais "para definição dos limites, da posse ou da propriedade da área discutida" |
+| Assinaturas | Andreia Pessoa Xavier; Luis Pereira Lima; **Ciene Ferreira da Cunha Neto** (Fiscal da Superintendência); **Cleiciane Gomes dos Santos** (Superintendente de Arrecadação e Tributos, Portaria nº 10/2026). Páginas rubricadas |
 
 **Pontos relevantes:**
-- A Prefeitura **não reconheceu direito do Sr. Luiz** sobre a faixa; apenas propôs um acordo, que **ele mesmo recusou**.
-- O fato de **todos os lotes da quadra** terem o mesmo acréscimo reforça a tese de que a diferença decorre da **implantação original do loteamento** (os lotes vão, de fato, até a divisa dos fundos), e não de avanço da cliente.
-- Os **vizinhos confirmaram** a tese da cliente — são potenciais **testemunhas**.
-- Com o encerramento do processo e a declaração de incompetência, **qualquer restrição administrativa ao muro perde fundamento quanto à titularidade** — mas convém não murar sem respaldo judicial, para não dar ao Sr. Luiz argumento de esbulho/autotutela.
+- **Reconhecimento oficial da posse da cliente** sobre o imóvel do Título nº 2.642, com **cadastro imobiliário próprio (nº 006783)**.
+- **O imóvel do Sr. Luis já está integralmente ocupado pela casa dele (15 m de profundidade)**, e a faixa de 6,30 m fica **ao fundo do imóvel da cliente**. Portanto, **a faixa está fora das dimensões do lote do Sr. Luis** — confirmação técnica, por agente público, da tese do item 4.
+- **Fragilidade do Sr. Luis:** sua posse é **recente (≈ 2 anos)**, derivada de cadeia **informal** (Leni → Rogério → Sebastião → doação), **sem contrato escrito, sem quitação** (R$ 4.500,00 pendentes) e, ao que consta, doação sem forma escrita (art. 541 do CC). Ainda que tivesse título, ele só abrangeria **11 x 15 m**.
+- O Sr. Luis **assinou o termo** em que consta que sua casa ocupa os 15 m e que a faixa está ao fundo do imóvel da cliente — elemento de **prova documental contra ele**.
+- A Prefeitura **não atribuiu a faixa a ninguém**, propôs acordo que **ele recusou** e remeteu as partes ao Judiciário.
+- **Todos os lotes da quadra** têm o mesmo acréscimo, segundo a própria cliente e os vizinhos → a diferença vem da **implantação original do loteamento**, e não de avanço da cliente.
+- O **impedimento de murar** não está no termo — confirmar se houve ato escrito (pendência 10).
+- **Data da posse do Sr. Luis (≈ 2024)** → a **primeira porta** é, no máximo, de meados de 2024. A **segunda porta, os animais e os tijolos** são posteriores ao início do impasse (2026) → **posse nova** (menos de ano e dia), em princípio.
 
 ### 3.6. Instrumento Particular de Compra e Venda — Herdeiras de Antonio Ribeiro Campos → Andreia (19/06/2018)
 
@@ -225,10 +236,10 @@
 
 **Confronto com o documento de Leny (2019):** o lote de Leny (165 m², frente para a R. Gravataí) **faz fundos com o terreno da cliente**. Todavia, nem o título de 1994 nem o memorial de 2018 da cliente mencionam Leny, Domingos ou Manoel de Souza Costa como confrontantes (os fundos da cliente constam como Francisco Furtado da Silva). É preciso **verificar em campo em qual lado do terreno da cliente o lote de Leny encosta** (fundos ou lateral direita, nos fundos) e, se for o caso, **retificar o memorial** para incluir esse confrontante.
 
-**A faixa de 6,30 m à luz do documento de Leny (ponto central):** o lote de Leny tem **15,00 m de profundidade** a partir da Rua Gravataí, e seus fundos **confrontam diretamente** com os herdeiros de Antonio Ribeiro (terreno da cliente) — o documento **não menciona qualquer faixa vaga** entre os dois imóveis. Logo:
-- tudo o que o Sr. Luiz ocupar **além de 15 m contados da Rua Gravataí** está **fora do título da sua própria esposa**;
+**A faixa de 6,30 m à luz do documento de Leny e da vistoria da Prefeitura (ponto central):** a vistoria de 27/07/2026 confirmou que a casa do Sr. Luis **ocupa integralmente os 15 m** do seu lote e que a faixa de 6,30 m está **ao fundo do imóvel da cliente**. Além disso, o lote de Leny tem **15,00 m de profundidade** a partir da Rua Gravataí, e seus fundos **confrontam diretamente** com os herdeiros de Antonio Ribeiro (terreno da cliente) — o documento **não menciona qualquer faixa vaga** entre os dois imóveis. Logo:
+- tudo o que o Sr. Luiz ocupar **além de 15 m contados da Rua Gravataí** está **fora das dimensões do lote que ele ocupa** (e de toda a cadeia documental: Domingos → Leny);
 - se existe acréscimo, ele está do lado da cliente, cujo título delimita o imóvel pelos **confrontantes** (o terreno vai até a divisa dos fundos), e não apenas pela metragem.
-- **Medição a fazer:** profundidade real ocupada pelo Sr. Luiz a partir da Rua Gravataí (casa + segunda porta + área dos animais). Se passar de 15 m, a prova do avanço é documental e aritmética.
+- **Medição a fazer:** profundidade real ocupada pelo Sr. Luiz a partir da Rua Gravataí (casa + segunda porta + área dos animais). Se passar de 15 m, a prova do avanço é documental e aritmética — e a vistoria municipal **já indica que passa**.
 
 **Observação sobre a forma do terreno:** o pontilhado roxo sugere que o fundo do terreno não é um retângulo perfeito (curva nos fundos), o que deve ser confrontado com as medidas de 10 x 30 m do título e do memorial — especialmente para saber se a parcela vendida ao Sr. Luiz **está ou não dentro dos 300 m²** da cliente.
 
@@ -241,7 +252,8 @@
 - ~~Situação do cônjuge do falecido~~ → Raimunda Madeira Campos, falecida em 19/12/2013; as vendedoras se declaram herdeiras de ambos.
 - ~~Nome e qualificação dos herdeiros~~ → Maria Alice Madeira Campos, Francisca Ribeiro Campos e Maria do Rosário Amadeus Albuquerque.
 - ~~Registro do Título de Aforamento no RI~~ → não registrado (declarado no instrumento).
-- ~~Quem vendeu o lote ao Sr. Luiz e quando~~ → Domingos Lima de Oliveira a Leny de Sousa Feitosa Carvalho, em 02/2019 (item 3.4).
+- ~~Quem vendeu o lote ao Sr. Luiz e quando~~ → Domingos Lima de Oliveira a Leny de Sousa Feitosa Carvalho, em 02/2019 (item 3.4); depois, informalmente, Leni → Rogério Pessoa Xavier → Sebastião Costa Lima → doação ao Sr. Luis (item 3.5).
+- ~~Íntegra do PA nº 00003690/2026~~ → Termo de 27/07/2026 recebido (item 3.5). Ainda útil: o **laudo/croqui da vistoria** e o requerimento inicial, se houver.
 - ~~O lote do Sr. Luiz faz parte dos 300 m²?~~ → Em princípio não: lote autônomo, de outra cadeia, que confronta com o da cliente.
 - ~~O imóvel do Sr. Luiz tem saída para via pública?~~ → Sim, frente para a Rua 05 (Gravataí), segundo o próprio documento. Confirmar com foto.
 
@@ -258,7 +270,7 @@
 
 **Quanto ao processo administrativo e à faixa remanescente:**
 
-9. **Cópia integral do Processo Administrativo nº 00003690/2026** (requerimento do Sr. Luiz, laudo da vistoria técnica, medidas apuradas de cada lote, atas das reuniões, decisão completa).
+9. Do PA nº 00003690/2026, além do termo já recebido: **requerimento inicial** do Sr. Luis, **laudo/croqui/fotos da vistoria** e as medidas apuradas dos demais lotes da quadra (se existirem).
 10. **Ato formal que impediu a cliente de murar**: notificação, embargo ou auto de infração por escrito, ou apenas orientação verbal? Data e servidor.
 11. **Datas** da segunda porta, do início da criação de animais e do depósito dos tijolos (define **posse nova — menos de ano e dia —** e o cabimento de liminar).
 12. Antes da ocupação pelo Sr. Luiz, **quem usava a faixa** de 6,30 m? Estava cercada? Que atos de posse a cliente exercia ali (limpeza, plantio, guarda de materiais, cerca)? Desde quando?
@@ -273,7 +285,9 @@
 18. As portas ficam **exatamente na divisa** ou a que distância dela? Há também janelas voltadas para o terreno?
 19. Após o fechamento do muro, houve **outras reações do Sr. Luiz**: ameaças, notificação, boletim de ocorrência, ação judicial?
 20. Provas: **fotos** das portas e do muro, mensagens/áudios em que ele prometeu fechar a porta e depois se recusou, testemunhas.
-21. **Estado civil e regime de bens** de Leny e Luiz (casamento civil ou união estável), para definir o polo passivo (ambos).
+21. **Quem é Leny/Leni?** A cliente informou ser esposa do Sr. Luis, mas a Prefeitura registra "Leni de Sousa Oliveira" como quem **vendeu** o imóvel a Rogério. Esclarecer (e se o Sr. Luis é casado/convive com alguém que também ocupe a área).
+22. **Quem é Rogério Pessoa Xavier?** Tem o mesmo sobrenome da cliente — é **parente**? Mantém contato? Pode ser **testemunha** dos limites quando foi possuidor do lote.
+23. **Sebastião Costa Lima** (filho do Sr. Luis): endereço e se participa da ocupação da faixa (eventual inclusão no polo passivo).
 
 ---
 
@@ -296,7 +310,8 @@
 - A tolerância temporária da cliente (enquanto aguardava a promessa de fechamento) **não gera servidão**: atos de mera permissão ou tolerância não induzem posse (art. 1.208 do CC).
 - **Risco a avaliar:** eventual alegação do Sr. Luiz de **servidão de passagem** ou **passagem forçada** (art. 1.285 do CC). A passagem forçada só cabe para imóvel encravado, sem acesso a via pública; pela imagem, a área dele parece ter acesso à R. Gravataí, o que afastaria a tese. É preciso confirmar.
 - **O documento de Leny reforça a posição da cliente:** (i) os fundos do lote dela confrontam com o terreno dos herdeiros de Antonio Ribeiro (hoje da cliente); (ii) o lote tem acesso próprio pela Rua Gravataí; (iii) não há servidão; (iv) a obra é posterior a fev/2019, quando a cliente já era possuidora. Ninguém adquire, pelo simples fato de construir na divisa, direito de passar pelo terreno vizinho.
-- **Polo passivo** de eventual ação: **Luiz Pereira Lima** (quem construiu e recusa fechar a porta) **e Leny de Sousa Feitosa Carvalho** (titular do documento de aquisição).
+- **A vistoria municipal confirma a tese:** a casa do Sr. Luis já ocupa todos os 15 m do lote dele, e a faixa fica ao fundo do imóvel da cliente. Ele próprio assinou o termo com essas constatações.
+- **Polo passivo** de eventual ação: **LUIS PEREIRA LIMA, CPF 296.062.843-87** — possuidor direto, autor das portas, da criação de animais e do depósito de tijolos. Avaliar a inclusão de quem mais ocupar a faixa com ele (cônjuge/companheira; o filho Sebastião, se participar). Leny/Leni, ao que parece, **não é mais possuidora** e não precisa figurar.
 - Se houver turbação ou esbulho (ex.: derrubada do muro): **ação de manutenção/reintegração de posse** (arts. 1.210 do CC e 554 e ss. do CPC) ou ação demolitória/nunciação, conforme o caso.
 
 ### 6.2. Faixa remanescente de 6,30 m e avanço do Sr. Luiz
@@ -318,7 +333,7 @@
 | **Ação de obrigação de fazer / demolitória** (arts. 1.301, 1.302 e 1.312 do CC) | Fechamento das duas portas | Pode ser cumulada com a possessória |
 | **Tutela de urgência** (art. 300 do CPC) | Impedir que o Sr. Luiz construa com os tijolos já depositados | Urgente: obra concluída dificulta a reversão |
 
-Estratégia inicial sugerida: **possessória com liminar, cumulada com fechamento/demolição das portas**, pedido de **perícia topográfica** e, subsidiariamente, demarcação — a confirmar após as pendências 1 e 9 a 15. As **herdeiras vendedoras** (que respondem pela evicção) e os **vizinhos confrontantes** podem ser arrolados como testemunhas.
+Estratégia inicial sugerida: **possessória com liminar, cumulada com fechamento/demolição das portas**, pedido de **perícia topográfica** e, subsidiariamente, demarcação — a confirmar após as pendências 1, 10 a 15 e 21 a 23. O **Termo de 27/07/2026** é a prova central: posse da cliente reconhecida, cadastro nº 006783, casa do réu já ocupando os 15 m do lote dele, faixa ao fundo do imóvel da cliente e recusa do acordo. **Arrolar como testemunhas o Fiscal Ciene Ferreira da Cunha Neto** (autor da vistoria) e os vizinhos. As **herdeiras vendedoras** (que respondem pela evicção) e os **vizinhos confrontantes** podem ser arrolados como testemunhas.
 
 ---
 
