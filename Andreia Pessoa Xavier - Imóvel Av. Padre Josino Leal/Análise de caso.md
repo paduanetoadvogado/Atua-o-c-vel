@@ -1,7 +1,7 @@
 # ANÁLISE DE CASO — ANDREIA PESSOA XAVIER
 
 > Documento em construção. Os fatos e documentos serão incorporados conforme forem enviados.
-> Última atualização: 04/11/2026 (incorporadas as certidões de óbito de Antonio Ribeiro Campos e Raimunda Madeira Campos).
+> Última atualização: 04/11/2026 (definido o objetivo da cliente: murar até o fundo).
 
 ---
 
@@ -67,6 +67,12 @@
 20. Durante o impasse, a cliente **foi impedida pela Prefeitura de murar o terreno até o limite do confrontante dos fundos**, como indicavam seus documentos.
 
 21. Aproveitando-se de a cliente estar impedida de concluir o muro, o Sr. Luiz **construiu uma segunda porta**, agora no limite da área acrescida, passou a **criar animais** na faixa e **já depositou tijolos** no local — indicando intenção de edificar e consolidar a ocupação.
+
+---
+
+### 2.3. Do objetivo da cliente
+
+22. A cliente pretende **murar o seu terreno até o fundo**, ou seja, até a divisa com o confrontante dos fundos, abrangendo a faixa de aproximadamente 6,30 m. Com isso ficariam vedadas as portas abertas pelo Sr. Luis e a faixa deixaria de ser usada por ele.
 
 ---
 
@@ -370,7 +376,22 @@
 - **Prefeitura:** declarou-se incompetente e **não atribuiu a faixa ao Sr. Luiz**; o impedimento ao muro não decide a titularidade. Resta a via judicial, como a própria decisão indicou.
 - **Risco a avaliar:** se a faixa for considerada **área pública municipal** não aforada, nenhuma das partes tem domínio sobre ela e não cabe usucapião (art. 183, § 3º, da CF). Mesmo assim, entre particulares, a **proteção possessória** é possível (STJ admite possessória entre particulares sobre bem público — REsp 1.296.964/DF; conferir). Em paralelo, a cliente poderia requerer ao Município a **regularização da faixa** (aforamento complementar/REURB).
 
-### 6.3. Medidas judiciais cabíveis (preliminar)
+### 6.3. Objetivo da cliente: murar até o fundo — como chegar lá
+
+- **Fundamento material:** o possuidor/proprietário tem o direito de **murar e cercar** o seu imóvel (art. 1.297 do CC). O obstáculo não é jurídico, mas fático: (i) a **ocupação atual da faixa pelo Sr. Luis** (animais, tijolos, 2ª porta) e (ii) o **impedimento da Prefeitura**, que se declarou incompetente para definir a divisa.
+- **Não murar antes da decisão judicial.** Hoje o Sr. Luis exerce posse de fato sobre parte da faixa; se a cliente murar por conta própria, ele poderá alegar **esbulho** e propor possessória contra ela. O desforço imediato (art. 1.210, § 1º, do CC) só é admitido logo após o esbulho, o que já não é o caso.
+- **Via adequada: possessória.** A cliente é **possuidora** (a Prefeitura reconheceu isso), mas **não é proprietária registrada**: o título não foi registrado e o domínio útil não foi formalmente transmitido. Por isso a **ação demarcatória**, que exige a condição de proprietário ou titular de direito real (art. 569, I, do CPC), tem **risco de ilegitimidade**. Já a **reintegração/manutenção de posse** dispensa prova de domínio (art. 557 do CPC) e permite obter o mesmo resultado prático.
+- **Pedidos que levam ao muro:**
+  1. **liminar** de reintegração/manutenção na posse de toda a extensão do lote **até a divisa dos fundos**, com retirada dos animais e dos tijolos;
+  2. **autorização expressa para a autora concluir o muro até a divisa dos fundos**, servindo a decisão de título para obter, se necessário, o alvará municipal (cláusula "d" do Título de Aforamento: construção depende de licença);
+  3. ordem de **fechamento das duas portas** abertas sobre o terreno (arts. 1.301, 1.302 e 1.312 do CC) ou, subsidiariamente, reconhecimento do direito de vedá-las com o muro;
+  4. **proibição de novas obras** e de ingresso na faixa, com **multa diária** (arts. 555, parágrafo único, e 537 do CPC);
+  5. **perícia topográfica**, se o juiz entender necessária para fixar o ponto exato da divisa;
+  6. **ofício ao Município** dando ciência da decisão, para afastar o impedimento administrativo ao muro.
+- **Prova do ponto de chegada do muro:** (i) título de 1994 e instrumento de 2018, que limitam o lote pelo **confrontante dos fundos**; (ii) Termo de 27/07/2026, em que a faixa está "**ao fundo do imóvel da Sra. Andreia**" e a casa do réu já ocupa todos os **15 m** do lote dele; (iii) padrão dos demais lotes da quadra e depoimento dos vizinhos; (iv) croqui do título, se for localizado.
+- **Alternativa extrajudicial (antes da ação, opcional):** notificação extrajudicial ao Sr. Luis para retirar animais e tijolos e fechar as portas em prazo curto, sob pena de ação. Serve para documentar a recusa e marcar a data, mas **não substitui a liminar**. Se a posse dele sobre a faixa for nova, o ideal é **ajuizar logo**, para não perder o prazo de ano e dia (art. 558 do CPC).
+
+### 6.4. Medidas judiciais cabíveis (preliminar)
 
 | Medida | Objetivo | Observações |
 |---|---|---|
@@ -379,7 +400,7 @@
 | **Ação de obrigação de fazer / demolitória** (arts. 1.301, 1.302 e 1.312 do CC) | Fechamento das duas portas | Pode ser cumulada com a possessória |
 | **Tutela de urgência** (art. 300 do CPC) | Impedir que o Sr. Luiz construa com os tijolos já depositados | Urgente: obra concluída dificulta a reversão |
 
-Estratégia inicial sugerida: **possessória com liminar, cumulada com fechamento/demolição das portas**, pedido de **perícia topográfica** e, subsidiariamente, demarcação — a confirmar após as pendências 1, 10 a 15 e 21 a 23. O **Termo de 27/07/2026** é a prova central: posse da cliente reconhecida, cadastro nº 006783, casa do réu já ocupando os 15 m do lote dele, faixa ao fundo do imóvel da cliente e recusa do acordo. **Arrolar como testemunhas o Fiscal Ciene Ferreira da Cunha Neto** (autor da vistoria) e os vizinhos. As **herdeiras vendedoras** (que respondem pela evicção) e os **vizinhos confrontantes** podem ser arrolados como testemunhas.
+Estratégia definida (objetivo: **murar até o fundo**): **reintegração/manutenção de posse com liminar**, cumulada com **autorização para concluir o muro até a divisa dos fundos**, fechamento das portas, retirada de animais e materiais e multa diária, com pedido de **perícia topográfica** se necessário (ver item 6.3). A demarcatória fica descartada, salvo se o domínio útil for regularizado antes — a confirmar após as pendências 1, 10 a 15 e 21 a 23. O **Termo de 27/07/2026** é a prova central: posse da cliente reconhecida, cadastro nº 006783, casa do réu já ocupando os 15 m do lote dele, faixa ao fundo do imóvel da cliente e recusa do acordo. **Arrolar como testemunhas o Fiscal Ciene Ferreira da Cunha Neto** (autor da vistoria) e os vizinhos. As **herdeiras vendedoras** (que respondem pela evicção) e os **vizinhos confrontantes** podem ser arrolados como testemunhas.
 
 ---
 

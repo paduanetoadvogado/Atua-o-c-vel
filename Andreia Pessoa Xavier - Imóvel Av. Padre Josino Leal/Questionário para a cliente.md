@@ -37,7 +37,7 @@
 
 19. **Quanto pagou** às herdeiras em 2018 e como (dinheiro, transferência, recibo)?
 20. A sua casa (nº 2746) foi construída **quando**? Paga **IPTU/foro** à Prefeitura?
-21. O que a senhora quer na ação: (a) fechar as duas portas; (b) retirar animais e tijolos; (c) murar até o fundo; (d) indenização? **Aceitaria algum acordo**?
+21. ~~O que a senhora quer na ação?~~ → **RESPONDIDO: murar até o fundo.** Ainda a confirmar: aceitaria algum acordo? Quer também indenização?
 
 ---
 
