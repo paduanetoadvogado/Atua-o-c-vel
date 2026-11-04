@@ -1,7 +1,7 @@
 # ANÁLISE DE CASO — ANDREIA PESSOA XAVIER
 
 > Documento em construção. Os fatos e documentos serão incorporados conforme forem enviados.
-> Última atualização: 04/11/2026.
+> Última atualização: 04/11/2026 (incorporado o instrumento particular de compra e venda de 19/06/2018 e o verso do Título de Aforamento).
 
 ---
 
@@ -11,7 +11,8 @@
 |---|---|
 | Nome | ANDREIA PESSOA XAVIER |
 | Estado civil | Solteira |
-| Profissão | Comerciante |
+| Profissão | Comerciante (no instrumento de 2018: "vendedora") |
+| RG | 2.418.625-PI |
 | CPF | 015.874.903-07 |
 | Endereço | Avenida Padre Josino Leal, nº 2746, Bairro Forquilha, Miguel Alves/PI, CEP 64.130-000 |
 | Endereço eletrônico | Não possui |
@@ -21,49 +22,51 @@
 
 ## 2. DOS FATOS
 
-1. Em **2018**, a cliente ANDREIA PESSOA XAVIER adquiriu imóvel urbano consistente em um terreno situado na Avenida Padre Josino Leal, Bairro Forquilha, Miguel Alves/PI.
+1. O terreno objeto do caso é o **Lote 12 da Quadra O do Parque Residencial Padre Josino Leal**, situado na antiga Rua Principal, hoje **Avenida Padre Josino Leal**, Bairro Forquilha, Miguel Alves/PI, com 10 x 30 m (300 m²). É **terreno foreiro**, tendo como senhorio direto o **Município de Miguel Alves/PI**.
 
-2. O terreno é **foreiro (aforamento)**, tendo como senhorio direto o **Município de Miguel Alves/PI**, e estava em nome de **ANTONIO RIBEIRO CAMPOS**, já falecido, titular do domínio útil por força do **Título de Aforamento nº 2.642**.
+2. O domínio útil foi concedido a **ANTONIO RIBEIRO CAMPOS** pelo **Título de Aforamento nº 2.642, de 15/12/1994** (Processo nº 2.642/1994 e Edital nº 185/94), assinado pelo Prefeito, pelo foreiro (por impressão digital) e por duas testemunhas. O título **nunca foi registrado no Cartório de Registro de Imóveis**.
 
-3. A aquisição foi formalizada por **documento assinado pelos três herdeiros** do falecido foreiro.
+3. ANTONIO RIBEIRO CAMPOS **faleceu em 10/01/2008** (registro de óbito nº 2.365, fls. 260, Livro C-04 do Cartório de Miguel Alves). Sua esposa, **RAIMUNDA MADEIRA CAMPOS**, **faleceu em 19/12/2013** (registro de óbito nº 45.879, fls. 50, Livro C-72, 3º Ofício de Teresina/PI). Não há notícia de inventário.
 
-4. Na mesma época (junho/2018), a cliente providenciou **levantamento topográfico (planta e memorial descritivo)** do imóvel, em seu nome, elaborado por engenheiro agrimensor.
+4. Em **19/06/2018**, as três herdeiras do casal — **MARIA ALICE MADEIRA CAMPOS**, **FRANCISCA RIBEIRO CAMPOS** e **MARIA DO ROSÁRIO AMADEUS ALBUQUERQUE** —, declarando-se **únicas herdeiras** de Antonio e Raimunda, celebraram com a cliente **Instrumento Particular de Compra e Venda**, transferindo-lhe a **posse** do lote, com "todo o direito, domínio, ação e servidão, ativa e passiva", obrigando-se pela evicção. O instrumento teve as **firmas reconhecidas** e foi **registrado no mesmo dia no Registro de Títulos e Documentos** do Cartório do Ofício Único de Miguel Alves (nº 1.245, fls. 205-v, Livro B-07).
 
-5. A cliente reside atualmente no imóvel, cujo endereço é Avenida Padre Josino Leal, nº 2746 (o memorial de 2018 registra "S/N").
+5. O instrumento descreve o imóvel conforme o **memorial descritivo elaborado pelo engenheiro agrimensor Genival Cavalcante de Sampaio (CREA/PI 5045)**, em junho/2018, com as confrontações atualizadas: frente para a Av. Pe. Josino Leal; fundos com Francisco Furtado da Silva; flanco direito com Francisca de Sousa Ferreira; flanco esquerdo com Maria Cleane de Sena Brito.
+
+6. Desde então a cliente exerce a posse do imóvel, onde reside, hoje sob o nº 2746 da Avenida Padre Josino Leal.
 
 ### 2.1. Do conflito com o vizinho LUIZ PEREIRA LIMA
 
-6. O terreno da cliente tem frente para a Avenida Padre Josino Leal (trecho urbano da rodovia PI-110) e se estende para os fundos até encontrar o terreno do vizinho de trás (confrontante dos fundos).
+7. O terreno da cliente tem frente para a Avenida Padre Josino Leal (trecho urbano da rodovia PI-110) e se estende para os fundos até encontrar o terreno do vizinho de trás (confrontante dos fundos).
 
-7. Uma pequena área situada nos fundos, contígua ao terreno da cliente, foi vendida ao Sr. **LUIZ PEREIRA LIMA**, que ali construiu sua casa.
+8. Uma pequena área situada nos fundos, contígua ao terreno da cliente, foi vendida ao Sr. **LUIZ PEREIRA LIMA**, que ali construiu sua casa.
 
-8. Ao edificar, o Sr. Luiz instalou uma **porta voltada diretamente para o terreno da cliente**, na divisa entre os dois imóveis.
+9. Ao edificar, o Sr. Luiz instalou uma **porta voltada diretamente para o terreno da cliente**, na divisa entre os dois imóveis.
 
-9. Inconformada, a cliente solicitou que ele retirasse/fechasse a porta. O vizinho, de início, **prometeu que a retiraria**; com o tempo, passou a protelar, até afirmar expressamente que **não iria fechá-la**.
+10. Inconformada, a cliente solicitou que ele retirasse/fechasse a porta. O vizinho, de início, **prometeu que a retiraria**; com o tempo, passou a protelar, até afirmar expressamente que **não iria fechá-la**.
 
-10. Como a porta está instalada dentro do terreno adquirido pelo Sr. Luiz, a cliente não mexeu nela: limitou-se a **construir/fechar o muro à frente da porta, dentro do seu próprio terreno**, vedando a abertura.
+11. Como a porta está instalada dentro do terreno adquirido pelo Sr. Luiz, a cliente não mexeu nela: limitou-se a **construir/fechar o muro à frente da porta, dentro do seu próprio terreno**, vedando a abertura.
 
-11. O imóvel do Sr. Luiz foi adquirido em **fevereiro de 2019**, em nome de sua esposa, **LENY DE SOUSA FEITOSA CARVALHO**, de **DOMINGOS LIMA DE OLIVEIRA**, por meio de "Declaração de Compra e Venda" particular com firmas reconhecidas, pelo preço de R$ 14.000,00. Trata-se de **lote autônomo** de 165 m² (11 x 15 m), **com frente para a Rua 05, conhecida como Rua Gravataí**, de origem foreira e anteriormente pertencente a Manoel de Souza Costa.
+12. O imóvel do Sr. Luiz foi adquirido em **fevereiro de 2019**, em nome de sua esposa, **LENY DE SOUSA FEITOSA CARVALHO**, de **DOMINGOS LIMA DE OLIVEIRA**, por meio de "Declaração de Compra e Venda" particular com firmas reconhecidas, pelo preço de R$ 14.000,00. Trata-se de **lote autônomo** de 165 m² (11 x 15 m), **com frente para a Rua 05, conhecida como Rua Gravataí**, de origem foreira e anteriormente pertencente a Manoel de Souza Costa.
 
-12. O próprio documento de compra do casal declara que o lote **confronta nos fundos com os "herdeiros do Sr. Antonio Ribeiro"**, isto é, com o terreno hoje pertencente à cliente. Assim, o casal **sabia, desde a aquisição**, que os fundos do seu lote fazem divisa com terreno alheio, e o título de aquisição **não lhes confere qualquer direito de passagem ou acesso** por esse terreno.
+13. O próprio documento de compra do casal declara que o lote **confronta nos fundos com os "herdeiros do Sr. Antonio Ribeiro"**, isto é, com o terreno hoje pertencente à cliente. Assim, o casal **sabia, desde a aquisição**, que os fundos do seu lote fazem divisa com terreno alheio, e o título de aquisição **não lhes confere qualquer direito de passagem ou acesso** por esse terreno.
 
-13. A porta instalada pelo Sr. Luiz fica, portanto, **na parede dos fundos** da sua casa, abrindo-se diretamente sobre o terreno da cliente — enquanto o acesso regular do imóvel dele é pela **Rua Gravataí**.
+14. A porta instalada pelo Sr. Luiz fica, portanto, **na parede dos fundos** da sua casa, abrindo-se diretamente sobre o terreno da cliente — enquanto o acesso regular do imóvel dele é pela **Rua Gravataí**.
 
 ### 2.2. Do processo administrativo na Prefeitura e do avanço sobre a área remanescente
 
-14. Inconformado com o fechamento do muro, o Sr. Luiz **acionou a Prefeitura Municipal de Miguel Alves** para medir os terrenos, dando origem ao **Processo Administrativo nº 00003690/2026**, conduzido pela Superintendência Municipal de Arrecadação e Tributos.
+15. Inconformado com o fechamento do muro, o Sr. Luiz **acionou a Prefeitura Municipal de Miguel Alves** para medir os terrenos, dando origem ao **Processo Administrativo nº 00003690/2026**, conduzido pela Superintendência Municipal de Arrecadação e Tributos.
 
-15. Na vistoria, apurou-se que o terreno da cliente — **assim como os dos demais vizinhos da quadra** — apresenta um **acréscimo de aproximadamente 6,30 m** em relação às medidas constantes dos documentos (área chamada pela Prefeitura de "área remanescente").
+16. Na vistoria, apurou-se que o terreno da cliente — **assim como os dos demais vizinhos da quadra** — apresenta um **acréscimo de aproximadamente 6,30 m** em relação às medidas constantes dos documentos (área chamada pela Prefeitura de "área remanescente").
 
-16. A cliente sustentou que essa faixa **integra seu imóvel**, pois todos os lotes confrontantes mantêm o mesmo padrão de alinhamento e dimensões, correspondente à sequência dos lotes da quadra — fato **confirmado pelos próprios vizinhos confrontantes**, que afirmaram possuir áreas compatíveis com as medidas originalmente estabelecidas. O Sr. Luiz, por sua vez, entende ter direito sobre a área que passou a ocupar.
+17. A cliente sustentou que essa faixa **integra seu imóvel**, pois todos os lotes confrontantes mantêm o mesmo padrão de alinhamento e dimensões, correspondente à sequência dos lotes da quadra — fato **confirmado pelos próprios vizinhos confrontantes**, que afirmaram possuir áreas compatíveis com as medidas originalmente estabelecidas. O Sr. Luiz, por sua vez, entende ter direito sobre a área que passou a ocupar.
 
-17. A Prefeitura promoveu diversas reuniões de conciliação e propôs **dividir a faixa de 6,30 m em partes iguais (3,15 m para cada um)**. A proposta **foi recusada pelo Sr. Luiz**.
+18. A Prefeitura promoveu diversas reuniões de conciliação e propôs **dividir a faixa de 6,30 m em partes iguais (3,15 m para cada um)**. A proposta **foi recusada pelo Sr. Luiz**.
 
-18. Por fim, a Prefeitura **encerrou o processo**, declarando expressamente que, nos termos da **Lei Municipal nº 853/2019**, **não tem competência** para definir domínio, propriedade, posse ou retificar divisas — matéria reservada ao **Poder Judiciário** —, ressalvando às partes as medidas judiciais ou extrajudiciais cabíveis.
+19. Por fim, a Prefeitura **encerrou o processo**, declarando expressamente que, nos termos da **Lei Municipal nº 853/2019**, **não tem competência** para definir domínio, propriedade, posse ou retificar divisas — matéria reservada ao **Poder Judiciário** —, ressalvando às partes as medidas judiciais ou extrajudiciais cabíveis.
 
-19. Durante o impasse, a cliente **foi impedida pela Prefeitura de murar o terreno até o limite do confrontante dos fundos**, como indicavam seus documentos.
+20. Durante o impasse, a cliente **foi impedida pela Prefeitura de murar o terreno até o limite do confrontante dos fundos**, como indicavam seus documentos.
 
-20. Aproveitando-se de a cliente estar impedida de concluir o muro, o Sr. Luiz **construiu uma segunda porta**, agora no limite da área acrescida, passou a **criar animais** na faixa e **já depositou tijolos** no local — indicando intenção de edificar e consolidar a ocupação.
+21. Aproveitando-se de a cliente estar impedida de concluir o muro, o Sr. Luiz **construiu uma segunda porta**, agora no limite da área acrescida, passou a **criar animais** na faixa e **já depositou tijolos** no local — indicando intenção de edificar e consolidar a ocupação.
 
 ---
 
@@ -78,12 +81,23 @@
 | Local da lavratura | Gabinete do Prefeito Municipal de Miguel Alves/PI |
 | Procurador(a) dos Feitos presente | Maria do Socorro A. Azevedo |
 | Testemunhas | Miguel Benedito de Menezes e Gilmar Sousa Rebelo |
-| Foreiro (aforado) | ANTONIO RIBEIRO CAMPOS, brasileiro, piauiense, **casado**, residente nesta cidade |
-| Contrato com o Município | Lavrado às folhas nº 1851 do Livro nº 23 (vinte e três) |
+| Foreiro (aforado) | ANTONIO RIBEIRO CAMPOS, brasileiro, piauiense, **casado**, residente nesta cidade — assinou por **impressão digital** |
+| Contrato com o Município | Livro nº 23, **folhas 85** ("oitenta e cinco", por extenso no verso; no anverso a leitura parecia "1851" — prevalece o extenso) |
+| Origem | Concedido "por fornecimento", a pedido do interessado, no **Processo nº 2.642, de 15/12/1994**, informado pelo **Fiscal Francisco das Chagas Bones (?)**, conforme **Edital nº 185/94, de 15/12/1994** |
+| Croqui | O terreno é "descrito e caracterizado pelo **croquis**, conferido, devidamente autenticado, **anexo** a este título" — **não enviado** |
 | Localização | Rua Principal, Parque Residencial Padre Josino Leal, **Quadra O, Lote 12**, zona urbana |
 | Medidas | Frente: 10,00 m · Flanco direito: 30,00 m · Flanco esquerdo: 30,00 m · Fundos: 10,00 m |
 | Área | 300 m² (10,00 x 30,00) |
 | Confrontações | Frente: a mesma rua · Flanco direito: Lote 13 · Flanco esquerdo: Maria das Graças Ricardo · Fundos: Francisco Furtado da Silva |
+| Assinaturas | Prefeito, foreiro (impressão digital) e testemunhas Miguel Benedito de Menezes e Gilmar Sousa Rebelo; Procuradora dos Feitos Maria do Socorro Araújo Azevedo |
+
+**Obrigações do foreiro (verso do título):**
+- a) pagar o **foro anual**, com vencimento em 31 de dezembro, sob multa de 10%;
+- b) pagar **laudêmio de 2%** sobre o valor da alienação (terreno, construção e benfeitorias) em caso de transferência do domínio útil por venda ou dação em pagamento, respeitado o **direito de opção (preferência) da Prefeitura** (art. 683 do CC/1916);
+- c) **não alienar nem subenfiteuticar sem prévia permissão da Prefeitura**, sob pena de rescisão;
+- d) não construir ou reconstruir sem **licença prévia**, obrigando-se a recuar ou avançar para o **alinhamento da via pública**;
+- e) respeitar o Código Civil (enfiteuse) e o Código de Posturas do Município.
+- **Cláusula resolutiva:** o aforamento considera-se rescindido e extinto em caso de **falta de pagamento do foro por 3 anos consecutivos** ou de desobediência às cláusulas acima.
 
 ### 3.2. Memorial Descritivo e Planta Baixa (jun/2018)
 
@@ -96,7 +110,7 @@
 | Coordenadas | Latitude -4.1724572 · Longitude -42.880371 |
 | Escala da planta | 1:400 |
 | Data | Junho/2018 |
-| Responsável técnico | Eng. Agrimensor, CREA-PI 5045 (assinatura: "G... C. de Sampaio" — confirmar nome completo) |
+| Responsável técnico | **Genival Cavalcante de Sampaio**, Engenheiro Agrimensor, CREA/PI 5045 (nome confirmado pelo instrumento de 2018) |
 | Desenho | Kauan Jordan |
 | Confrontações | Frente (10,00 m): Avenida Padre Josino Leal · Fundo (10,00 m): Francisco Furtado da Silva · Lado direito (30,00 m): Francisca de Sousa Ferreira · Lado esquerdo (30,00 m): Maria Cleane de Sena Brito |
 
@@ -155,11 +169,40 @@
 - Os **vizinhos confirmaram** a tese da cliente — são potenciais **testemunhas**.
 - Com o encerramento do processo e a declaração de incompetência, **qualquer restrição administrativa ao muro perde fundamento quanto à titularidade** — mas convém não murar sem respaldo judicial, para não dar ao Sr. Luiz argumento de esbulho/autotutela.
 
-### 3.6. Documento de transmissão assinado pelos herdeiros (Andreia)
+### 3.6. Instrumento Particular de Compra e Venda — Herdeiras de Antonio Ribeiro Campos → Andreia (19/06/2018)
 
-- **Ainda não enviado.** Necessário para análise (ver pendências).
+| Item | Conteúdo |
+|---|---|
+| Natureza | Instrumento particular de compra e venda de lote de terreno foreiro municipal — **transferência do direito de posse** |
+| Data / local | 19 de junho de 2018, Miguel Alves/PI |
+| 1ª outorgante vendedora | **FRANCISCA RIBEIRO CAMPOS**, brasileira, maior, solteira, do lar, RG 795.635-PI, CPF 000.053.843-46, residente na Rua Mercúrio, nº 4436, Bairro Satélite, Teresina/PI — **analfabeta**: assinou **a rogo** por JOSÉ FRANCISCO DA SILVA (brasileiro, maior, casado, garçom, residente na Av. Capitão Vanderlei, Q-16, C-25, Conj. Saturno, Bairro Satélite, Teresina/PI), com aposição de impressão digital |
+| 2ª outorgante vendedora | **MARIA DO ROSÁRIO AMADEUS ALBUQUERQUE**, brasileira, maior, solteira, do lar, RG 2.192.731-PI, CPF 981.760.993-68, residente em Capoeira Comprida, zona rural, Barras/PI |
+| 3ª outorgante vendedora | **MARIA ALICE MADEIRA CAMPOS**, brasileira, maior, solteira, lavradora, RG 726.322-PI, CPF 446.352.223-49, residente na Rua 30, nº 5012, Vila Bandeirante 2, Teresina/PI |
+| Outorgada compradora | **ANDREIA PESSOA XAVIER**, brasileira, maior, solteira, vendedora, RG 2.418.625-PI, CPF 015.874.903-07, residente na Av. Pe. Josino Leal, nº 2746, Bairro Forquilha, Miguel Alves/PI |
+| Qualidade das vendedoras | **Únicas herdeiras** de ANTONIO RIBEIRO CAMPOS (RG 2.017.067-PI, falecido em 10/01/2008 — óbito nº 2.365, fls. 260, Livro C-04, Cartório de Miguel Alves) e de RAIMUNDA MADEIRA CAMPOS (RG 1.397.408-PI, CPF 535.647.153-04, falecida em 19/12/2013 — óbito nº 45.879, fls. 50, Livro C-72, 3º Ofício de Teresina) |
+| Objeto | Lote de terreno foreiro municipal na Rua Principal do Parque Residencial Padre Josino Leal, **Q-O, Lote 12**, atualmente Av. Pe. Josino Leal, Bairro Forquilha, adquirido pelo falecido pelo **Título de Aforamento nº 2.642, de 15/12/1994**, "**o qual não fora registrado em imóvel**" |
+| Descrição | Frente 10 m (Av. Pe. Josino Leal) · Fundo 10 m (Francisco Furtado da Silva) · Flanco direito 30 m (Francisca de Sousa Ferreira) · Flanco esquerdo 30 m (Maria Cleane de Sena Brito) · 300 m² · perímetro 80 m · Lat. -4.1724572 / Long. -42.880371 — conforme memorial de Genival Cavalcante de Sampaio (CREA/PI 5045) |
+| Cláusulas | Transferem "o direito de posse que exerciam", transmitindo "todo o direito, domínio, ação e **servidão, ativa e passiva**"; venda "boa, firme e valiosa"; respondem pela **evicção**, por si, herdeiros e sucessores; respondem civil e criminalmente pelas declarações; põem a compradora a salvo de contestações futuras |
+| Forma | Declaram não ter feito escritura pública porque o imóvel **não é registrado** e "não se pode registrá-lo, por força e impedimento da lei" |
+| Preço | **Não consta** nas páginas enviadas |
+| Testemunhas | JOÃO DE DEUS DE SOUSA (brasileiro, casado, residente em Capoeira Comprida, zona rural, Barras/PI) e RAIMUNDO NATANAEL ALBUQUERQUE DE SOUSA (brasileiro, casado, lavrador, Rua Cel. Alcide Lages, nº 1127, Bairro Pedrinhas 2, Barras/PI) |
+| Reconhecimento de firma | Cartório do Ofício Único de Miguel Alves, Tabelião Designado **Júlio César de Castro Oliveira** (Mat. 4138201), em 19/06/2018 — selo AAY 00899 |
+| Registro | **Registro de Títulos e Documentos** nº **1.245**, fls. **205-v**, Livro **B-07**, Cartório do Ofício Único da Comarca de Miguel Alves, em **19/06/2018** — selos AAC 79485 (arquivamento) e AAM 14317 |
+| Rubricas | Margem da 1ª página rubricada por Maria do Rosário, Maria Alice, Andreia e Raimundo Natanael |
 
----
+**Pontos relevantes:**
+- **Prova robusta da posse da cliente desde 19/06/2018**, com data certa e eficácia perante terceiros (registro em RTD — arts. 127, I, e 129 da Lei 6.015/1973), e **soma das posses** do foreiro originário (1994) e de suas sucessoras (arts. 1.206 e 1.207 do CC).
+- **Resolve a dúvida sobre o cônjuge:** Raimunda Madeira Campos faleceu **depois** de Antonio (2013); as vendedoras se declaram herdeiras **de ambos**, de modo que a meação dela também está abrangida.
+- As vendedoras transferem expressamente as **servidões ativas e passivas** e se obrigam pela **evicção** — podem ser chamadas a confirmar os limites do lote (e, se necessário, **denunciadas à lide** — art. 125, I, do CPC).
+- O imóvel é descrito por seus **confrontantes**, incluindo os fundos — reforça a tese de que o lote vai até a divisa dos fundos (relevante para a faixa de 6,30 m).
+
+**Fragilidades a sanar:**
+- Transferência **sem prévia permissão da Prefeitura** (cláusula "c" do título) e, ao que consta, **sem laudêmio** (cláusula "b") → risco teórico de rescisão do aforamento. Convém **regularizar junto ao Município** (pedido de transferência do aforamento, pagamento de laudêmio e foros atrasados). Pela **Súmula 122 do STF**, o enfiteuta pode purgar a mora enquanto não decretado o comisso por sentença.
+- **Foros**: se não pagos por 3 anos consecutivos, a cláusula resolutiva poderia ser invocada pelo Município — verificar a situação na Prefeitura.
+- Como cessão de bem singular da herança, sem inventário, a transmissão do **domínio útil** depende de regularização (art. 1.793, §§ 2º e 3º, do CC); **a posse, porém, foi validamente transmitida** — suficiente para as ações possessórias.
+- **Assinatura a rogo** de Francisca (analfabeta) por instrumento particular: aceita na prática, com duas testemunhas e digital, mas pode ser questionada; se necessário, colher ratificação.
+- **Maria do Rosário Amadeus Albuquerque** tem sobrenome distinto: confirmar a filiação (certidão de nascimento) e a inexistência de outros herdeiros.
+- **Preço não declarado** nas páginas recebidas.
 
 ## 4. CONFRONTO ENTRE OS DOCUMENTOS (observações preliminares)
 
@@ -178,6 +221,8 @@
 
 **Observação sobre a orientação da planta:** na imagem de satélite, a avenida (PI-110) passa ao **sul** do terreno, que se estende para o **norte**. Na planta de 2018, porém, a avenida aparece a **oeste**, com o lote se estendendo para leste, mesmo com a seta do norte apontando para cima. Ao que parece, o desenho está girado 90°. Isso reforça a necessidade de revisar a planta e o memorial (orientação e lateralidade) antes de usá-los em juízo ou em cartório.
 
+**Correspondência das confrontações laterais (1994 → 2018):** o instrumento de 2018 mantém a mesma lateralidade do memorial (direito: Francisca de Sousa Ferreira; esquerdo: Maria Cleane de Sena Brito). Comparando com o título de 1994, **Francisca de Sousa Ferreira ocupa a posição do antigo Lote 13** e **Maria Cleane de Sena Brito sucede Maria das Graças Ricardo** — confirmar com os documentos desses vizinhos.
+
 **Confronto com o documento de Leny (2019):** o lote de Leny (165 m², frente para a R. Gravataí) **faz fundos com o terreno da cliente**. Todavia, nem o título de 1994 nem o memorial de 2018 da cliente mencionam Leny, Domingos ou Manoel de Souza Costa como confrontantes (os fundos da cliente constam como Francisco Furtado da Silva). É preciso **verificar em campo em qual lado do terreno da cliente o lote de Leny encosta** (fundos ou lateral direita, nos fundos) e, se for o caso, **retificar o memorial** para incluir esse confrontante.
 
 **A faixa de 6,30 m à luz do documento de Leny (ponto central):** o lote de Leny tem **15,00 m de profundidade** a partir da Rua Gravataí, e seus fundos **confrontam diretamente** com os herdeiros de Antonio Ribeiro (terreno da cliente) — o documento **não menciona qualquer faixa vaga** entre os dois imóveis. Logo:
@@ -191,44 +236,52 @@
 
 ## 5. PENDÊNCIAS / INFORMAÇÕES A COLHER
 
-1. Cópia do **documento assinado pelos três herdeiros** (natureza: contrato de compra e venda, cessão de direitos hereditários ou recibo; data; preço; forma de pagamento; se tem firma reconhecida; se é instrumento particular ou escritura pública).
-2. **Certidão de óbito** de Antonio Ribeiro Campos (data do óbito, estado civil, se deixou bens e herdeiros).
-3. Situação do **cônjuge** do falecido — no título de 1994 ele consta como **casado**: a esposa é viva? Assinou o documento? (meação).
-4. Nome e qualificação dos **três herdeiros**; se existem outros herdeiros; se houve **inventário/arrolamento**.
-5. Se o Título de Aforamento foi **registrado no Cartório de Registro de Imóveis** de Miguel Alves (matrícula?).
-6. Se a transferência foi **comunicada ao Município** (senhorio direto), se houve pagamento de **laudêmio** e se os **foros/IPTU** estão em dia e em nome de quem.
-7. Comprovantes de **posse desde 2018**: contas de luz/água, IPTU, notas de construção, fotos, declarações de vizinhos/confrontantes.
-8. Se há **construção** no terreno (casa nº 2746) e quando foi edificada.
-9. Certidão da Prefeitura sobre a **mudança de denominação** do logradouro (Rua Principal → Av. Padre Josino Leal) e sobre a numeração.
-10. Objetivo da cliente: regularização/registro em seu nome? Há algum conflito, ameaça de turbação ou disputa com herdeiros ou terceiros?
+**Respondidas:**
+- ~~Documento assinado pelos herdeiros~~ → Instrumento particular de 19/06/2018, registrado em RTD (item 3.6).
+- ~~Situação do cônjuge do falecido~~ → Raimunda Madeira Campos, falecida em 19/12/2013; as vendedoras se declaram herdeiras de ambos.
+- ~~Nome e qualificação dos herdeiros~~ → Maria Alice Madeira Campos, Francisca Ribeiro Campos e Maria do Rosário Amadeus Albuquerque.
+- ~~Registro do Título de Aforamento no RI~~ → não registrado (declarado no instrumento).
+- ~~Quem vendeu o lote ao Sr. Luiz e quando~~ → Domingos Lima de Oliveira a Leny de Sousa Feitosa Carvalho, em 02/2019 (item 3.4).
+- ~~O lote do Sr. Luiz faz parte dos 300 m²?~~ → Em princípio não: lote autônomo, de outra cadeia, que confronta com o da cliente.
+- ~~O imóvel do Sr. Luiz tem saída para via pública?~~ → Sim, frente para a Rua 05 (Gravataí), segundo o próprio documento. Confirmar com foto.
+
+**Quanto à titularidade do imóvel da cliente:**
+
+1. **Croqui anexo ao Título de Aforamento nº 2.642** e cópia do **Processo nº 2.642/1994** e do **Edital nº 185/94** na Prefeitura — podem mostrar a **profundidade real do lote e o desenho original da quadra** (decisivo para a faixa de 6,30 m).
+2. **Preço** pago às herdeiras e comprovantes de pagamento (página faltante do instrumento?).
+3. **Certidões de óbito** de Antonio e Raimunda e **certidões de nascimento** das três herdeiras (confirmar filiação, sobretudo de Maria do Rosário, e inexistência de outros herdeiros).
+4. Se a transferência foi **comunicada ao Município**, se houve **laudêmio** e se os **foros/IPTU** estão em dia e em nome de quem (risco da cláusula resolutiva de 3 anos).
+5. Comprovantes de **posse desde 2018**: contas de luz/água, IPTU, notas de construção, fotos, declarações de vizinhos.
+6. **Construção** no terreno (casa nº 2746): quando foi edificada e se houve licença municipal.
+7. Certidão da Prefeitura sobre a **mudança de denominação** do logradouro (Rua Principal → Av. Padre Josino Leal) e a numeração.
+8. Documentos dos **vizinhos laterais** (Francisca de Sousa Ferreira — antigo Lote 13; Maria Cleane de Sena Brito) e do **vizinho dos fundos** (Francisco Furtado da Silva), com as medidas dos seus títulos.
 
 **Quanto ao processo administrativo e à faixa remanescente:**
 
-19. **Cópia integral do Processo Administrativo nº 00003690/2026** (requerimento do Sr. Luiz, laudo/relatório da vistoria técnica, medidas apuradas de cada lote, atas das reuniões, decisão completa).
-20. **Ato formal que impediu a cliente de murar**: houve notificação, embargo ou auto de infração por escrito? Ou foi apenas orientação verbal? Data e servidor.
-21. **Datas** da segunda porta, do início da criação de animais e do depósito dos tijolos (define **posse nova — menos de ano e dia —** e o cabimento de liminar).
-22. Antes da ocupação pelo Sr. Luiz, **quem usava a faixa** de 6,30 m? Estava cercada? A cliente exercia algum ato de posse (limpeza, plantio, guarda de materiais, cerca)? Desde quando?
-23. Fotos atuais: **segunda porta, animais, tijolos**, muro inacabado; e, se possível, fotos antigas da faixa.
-24. **Nome e contato dos vizinhos** que confirmaram as medidas na Prefeitura (testemunhas) e se aceitariam declarar por escrito.
-25. A faixa é **municipal** (área não aforada do loteamento) ou integra os lotes? Verificar na Prefeitura a **planta original do Parque Residencial Padre Josino Leal** e as medidas dos títulos dos lotes vizinhos.
+9. **Cópia integral do Processo Administrativo nº 00003690/2026** (requerimento do Sr. Luiz, laudo da vistoria técnica, medidas apuradas de cada lote, atas das reuniões, decisão completa).
+10. **Ato formal que impediu a cliente de murar**: notificação, embargo ou auto de infração por escrito, ou apenas orientação verbal? Data e servidor.
+11. **Datas** da segunda porta, do início da criação de animais e do depósito dos tijolos (define **posse nova — menos de ano e dia —** e o cabimento de liminar).
+12. Antes da ocupação pelo Sr. Luiz, **quem usava a faixa** de 6,30 m? Estava cercada? Que atos de posse a cliente exercia ali (limpeza, plantio, guarda de materiais, cerca)? Desde quando?
+13. Fotos atuais: **segunda porta, animais, tijolos**, muro inacabado; e, se possível, fotos antigas da faixa.
+14. **Nome e contato dos vizinhos** que confirmaram as medidas na Prefeitura (testemunhas) e se aceitariam declarar por escrito.
+15. A faixa é **municipal** (área não aforada do loteamento) ou integra os lotes? Verificar a **planta original do Parque Residencial Padre Josino Leal**.
 
 **Quanto ao conflito com Luiz Pereira Lima:**
 
-11. ~~Quem vendeu a parcela ao Sr. Luiz e quando~~ → **respondido:** Domingos Lima de Oliveira vendeu a Leny de Sousa Feitosa Carvalho (esposa de Luiz) em 02/2019 (item 3.4). Pendente: cópia do documento anterior (Manoel de Souza Costa → Domingos), citado como anexo.
-12. ~~A parcela faz parte dos 300 m² da cliente?~~ → **respondido, em princípio, que não:** é lote autônomo, de outra cadeia dominial, que **confronta** com o terreno da cliente. Confirmar em campo.
-13. **Data da construção** da casa e da instalação da porta, e **data em que o muro foi fechado** (relevante para o prazo de ano e dia do art. 1.302 do CC).
-14. A porta fica **exatamente na divisa** ou a que distância dela? É porta de passagem ou também há janelas voltadas para o terreno?
-15. ~~A casa do Sr. Luiz tem outra saída para via pública?~~ → **respondido pelo próprio documento:** o lote tem frente para a Rua 05 (Gravataí). Confirmar com foto da fachada.
-18. Confirmar o **estado civil e o regime de bens** de Leny e Luiz (casamento civil ou união estável), para definir o polo passivo de eventual ação (ambos).
-16. Após o fechamento do muro, houve **reação do Sr. Luiz**: ameaças, derrubada do muro, notificação, boletim de ocorrência, ação judicial? Qual a situação atual?
-17. Provas: **fotos** da porta e do muro, mensagens/áudios em que ele prometeu fechar a porta e depois se recusou, testemunhas.
+16. Cópia do documento anterior da cadeia do lote de Leny (Manoel de Souza Costa → Domingos), citado como anexo.
+17. **Data da construção** da casa e da instalação da primeira porta, e **data em que o muro foi fechado** (prazo de ano e dia do art. 1.302 do CC).
+18. As portas ficam **exatamente na divisa** ou a que distância dela? Há também janelas voltadas para o terreno?
+19. Após o fechamento do muro, houve **outras reações do Sr. Luiz**: ameaças, notificação, boletim de ocorrência, ação judicial?
+20. Provas: **fotos** das portas e do muro, mensagens/áudios em que ele prometeu fechar a porta e depois se recusou, testemunhas.
+21. **Estado civil e regime de bens** de Leny e Luiz (casamento civil ou união estável), para definir o polo passivo (ambos).
 
 ---
 
 ## 6. ENQUADRAMENTO JURÍDICO PRELIMINAR (a desenvolver)
 
 - Enfiteuse constituída em 1994, sob o **Código Civil de 1916** (arts. 678 e ss.), mantida pelo **art. 2.038 do CC/2002**; transmissão do domínio útil sujeita à notificação do senhorio (preferência) e ao laudêmio.
-- Alienação por herdeiros antes da partilha: **art. 1.793 do CC/2002** (cessão de direitos hereditários exige escritura pública; cessão de bem singular é ineficaz sem autorização judicial).
+- Alienação por herdeiros antes da partilha: **art. 1.793 do CC/2002** (cessão de direitos hereditários exige escritura pública; cessão de bem singular é ineficaz sem autorização judicial). No caso, o instrumento de 2018 transferiu expressamente a **posse** — que se transmite independentemente de escritura e basta para a tutela possessória (arts. 1.196, 1.206 e 1.207 do CC). A regularização do **domínio útil** é questão paralela.
+- Cláusulas do título: alienação **sem prévia permissão da Prefeitura** e eventual falta de **foro/laudêmio** podem ensejar a rescisão do aforamento; a mora pode ser purgada enquanto não decretado o comisso por sentença (**Súmula 122 do STF**). Recomenda-se **regularizar a transferência junto ao Município** antes ou em paralelo à ação, para retirar esse argumento do Sr. Luiz.
 - Caminhos possíveis, a definir após as pendências: regularização administrativa junto ao Município / **REURB (Lei 13.465/2017)**; inventário/sobrepartilha com adjudicação ou alvará; adjudicação compulsória; usucapião do domínio útil (verificar prazo e modalidade cabível — área de 300 m² afasta a usucapião especial urbana de até 250 m²).
 
 ### 6.1. Conflito de vizinhança (porta voltada para o terreno)
@@ -265,7 +318,7 @@
 | **Ação de obrigação de fazer / demolitória** (arts. 1.301, 1.302 e 1.312 do CC) | Fechamento das duas portas | Pode ser cumulada com a possessória |
 | **Tutela de urgência** (art. 300 do CPC) | Impedir que o Sr. Luiz construa com os tijolos já depositados | Urgente: obra concluída dificulta a reversão |
 
-Estratégia inicial sugerida: **possessória com liminar, cumulada com fechamento/demolição das portas**, pedido de **perícia topográfica** e, subsidiariamente, demarcação — a confirmar após as pendências 19 a 25.
+Estratégia inicial sugerida: **possessória com liminar, cumulada com fechamento/demolição das portas**, pedido de **perícia topográfica** e, subsidiariamente, demarcação — a confirmar após as pendências 1 e 9 a 15. As **herdeiras vendedoras** (que respondem pela evicção) e os **vizinhos confrontantes** podem ser arrolados como testemunhas.
 
 ---
 
