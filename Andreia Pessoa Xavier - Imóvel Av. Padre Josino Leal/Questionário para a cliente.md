@@ -1,60 +1,62 @@
-# QUESTIONÁRIO E DOCUMENTOS — ANDREIA PESSOA XAVIER
+# PERGUNTAS QUE FALTAM — ANDREIA PESSOA XAVIER
 
-> Foco: montar os fatos da **ação possessória** (reintegração/manutenção de posse com liminar, cumulada com fechamento das portas).
-> Na possessória discute-se **posse**, não propriedade (art. 557 do CPC). Por isso, as perguntas abaixo priorizam **datas, atos de posse e condutas do Sr. Luis**.
+> Versão consolidada (04/11/2026). Já respondido: objetivo da cliente (**murar até o fundo**); documentos do imóvel, das herdeiras, do lote do vizinho, do processo na Prefeitura e cadastro nº 6783.
 
-## A. DATAS (as mais importantes — definem o cabimento da liminar)
+## 1. DATAS (urgente — definem se cabe liminar)
 
 1. Em que mês/ano o Sr. Luis (ou o filho Sebastião) **construiu a casa** e **abriu a 1ª porta** para o seu terreno?
-2. Quando a senhora **pediu pela primeira vez** que ele fechasse a porta? Quando ele **prometeu** fechar? Quando disse que **não fecharia**?
+2. Quando a senhora **pediu** a ele que fechasse a porta? Quando ele **prometeu** fechar? Quando disse que **não fecharia**?
 3. Quando a senhora **fechou o muro** em frente à 1ª porta?
-4. Quando a Prefeitura **impediu** a senhora de continuar o muro até o fundo? Foi **por escrito** (notificação/embargo) ou **verbal**? Quem foi o servidor?
-5. Quando ele **abriu a 2ª porta**? Quando começou a **criar animais** na faixa? Quando **colocou os tijolos**? (Se não souber o dia, informe ao menos o mês.)
+4. Quando a Prefeitura **impediu** a senhora de terminar o muro? Foi **por escrito** ou **só falado**? Qual servidor?
+5. Quando ele **abriu a 2ª porta**, começou a **criar animais** e **colocou os tijolos**? (Se não lembrar o dia, informe o mês.)
 
-## B. A SUA POSSE SOBRE A FAIXA DOS FUNDOS (6,30 m)
+## 2. A FAIXA DOS FUNDOS
 
-6. Desde 2018, **como a senhora usava a faixa do fundo**? (cerca, muro, limpeza, plantio, árvores, guarda de material, varal, criação etc.)
-7. Quando a senhora comprou, em 2018, **o terreno já ia até o fundo** (até o vizinho de trás)? Havia **cerca, marco ou muro velho** marcando o limite?
-8. Hoje o seu muro **vai até onde**? Quantos metros faltam para chegar ao fundo?
-9. Antes do Sr. Luis, **alguém mais usava** essa faixa? (Rogério, Sebastião, outro vizinho?)
+6. Desde 2018, **o que a senhora fazia na faixa do fundo**? (limpava, plantava, tinha cerca, árvore, guardava material, varal etc.)
+7. Em 2018, o terreno **já ia até o vizinho de trás (Francisco Furtado da Silva)**? Havia **cerca, marco ou muro velho** no fundo?
+8. Até onde vai o seu muro hoje? **Quantos metros faltam** para chegar ao fundo?
+9. Antes do Sr. Luis, **alguém mais usava** essa faixa?
 
-## C. CONDUTA DO SR. LUIS
+## 3. O SR. LUIS
 
-10. Que **animais** ele cria ali e quantos? Causam **mau cheiro, barulho, sujeira ou insetos**?
-11. Para que ele quer os **tijolos**? Já começou a levantar parede?
-12. Ele **entra** na faixa pelas portas? Já houve **ameaça, ofensa ou briga**? Houve **boletim de ocorrência**?
-13. A casa dele tem **porta da frente para a Rua Gravataí** (saída própria para a rua)?
+10. Que **animais** ele cria ali e **quantos**? Causam **mau cheiro, barulho ou sujeira**?
+11. Ele já começou a **levantar parede** com os tijolos?
+12. Ele ou a família **entram** na faixa pelas portas? Já houve **ameaça, ofensa ou boletim de ocorrência**?
+13. A casa dele tem **porta da frente para a Rua Gravataí**?
+14. **Leny** é esposa do Sr. Luis ou foi a antiga dona do lote? Com quem ele mora hoje? O filho **Sebastião** também usa a faixa?
 
-## D. PESSOAS
+## 4. PESSOAS QUE PODEM AJUDAR
 
-14. **Leny/Leni** é esposa do Sr. Luis ou foi a antiga dona do lote? **Com quem o Sr. Luis mora** hoje?
-15. **Rogério Pessoa Xavier** é seu parente? Tem contato com ele? Ele sabe onde terminava o lote quando era dele?
-16. **Nomes e endereços dos vizinhos** que confirmaram na Prefeitura que os lotes da quadra vão até o fundo.
-17. **2 ou 3 testemunhas** que saibam que a senhora está no terreno desde 2018 e que viram o Sr. Luis abrir as portas e ocupar a faixa (de preferência sem parentesco com a senhora).
-18. Tem contato com as **herdeiras** (Maria Alice, Francisca, Maria do Rosário)? Elas confirmariam que o terreno do pai ia até o fundo?
+15. **Rogério Pessoa Xavier** é seu parente? A senhora tem contato com ele?
+16. **Nome e endereço dos vizinhos** que confirmaram na Prefeitura que os lotes vão até o fundo.
+17. **2 ou 3 testemunhas** (de preferência não parentes) que saibam que a senhora está no terreno desde 2018 e que viram o Sr. Luis abrir as portas e ocupar a faixa.
+18. A senhora tem contato com as **herdeiras** (Maria Alice, Francisca, Maria do Rosário)? Elas confirmariam que o terreno do pai ia até o fundo?
 
-## E. O IMÓVEL E O OBJETIVO
+## 5. O SEU IMÓVEL
 
-19. **Quanto pagou** às herdeiras em 2018 e como (dinheiro, transferência, recibo)?
-20. A sua casa (nº 2746) foi construída **quando**? Paga **IPTU/foro** à Prefeitura?
-21. ~~O que a senhora quer na ação?~~ → **RESPONDIDO: murar até o fundo.** Ainda a confirmar: aceitaria algum acordo? Quer também indenização?
+19. **Quanto pagou** às herdeiras em 2018 e como (dinheiro, transferência)? Tem **recibo**?
+20. Quando a **sua casa** (nº 2746) foi construída?
+21. Antes de julho de 2026, o imóvel **já estava cadastrado** na Prefeitura? A senhora pagava **IPTU ou foro**? Tem algum comprovante?
+
+## 6. A AÇÃO
+
+22. Se o Sr. Luis propuser **acordo** (fechar as portas e sair da faixa), a senhora aceitaria sem ir até o fim do processo?
+23. Quer pedir também **indenização** (danos com animais, sujeira, gastos)?
 
 ---
 
-## DOCUMENTOS REALMENTE NECESSÁRIOS
+## DOCUMENTOS QUE AINDA FALTAM
 
-**Para a ação (imprescindíveis):**
-1. **Fotos atuais e datadas**: 1ª porta, 2ª porta, animais, tijolos, muro inacabado e a **fachada da casa do Sr. Luis na Rua Gravataí**. (Fotos de vários ângulos; se possível, um vídeo percorrendo a faixa.)
-2. **Fotos antigas** da faixa e do terreno (celular, WhatsApp, redes sociais) — mostram a sua posse antes da ocupação e ajudam a datar as obras.
-3. **Mensagens/áudios** com o Sr. Luis (promessa de fechar a porta e recusa).
-4. **Documento da Prefeitura que proibiu o muro**, se houver.
-5. **RG, CPF e comprovante de endereço** da senhora.
-6. ~~Cadastro imobiliário~~ → **recebida** a Certidão de Lançamento Cadastral nº 6783. Ainda falta: **certidão de valor venal** e comprovantes de **IPTU/foro anteriores a 2026**, se existirem.
-7. **Boletim de ocorrência**, se houver.
+**Imprescindíveis:**
+1. **Fotos atuais e datadas**: 1ª e 2ª portas, animais, tijolos, muro inacabado e **frente da casa do Sr. Luis na Rua Gravataí** (se possível, um vídeo andando pela faixa).
+2. **Fotos antigas** do terreno e da faixa (celular, WhatsApp, redes sociais).
+3. **Mensagens/áudios** com o Sr. Luis.
+4. **RG, CPF e comprovante de endereço**.
+5. **Documento da Prefeitura que proibiu o muro**, se houver.
+6. **Boletim de ocorrência**, se houver.
 
-**Úteis, se for fácil conseguir:**
-8. **Croqui anexo ao Título de Aforamento** (a senhora ou as herdeiras têm?) ou cópia na Prefeitura.
-9. **Laudo/croqui/fotos da vistoria** da Prefeitura (PA nº 00003690/2026).
+**Úteis:**
+7. **Certidão de valor venal** do imóvel (pedir na Prefeitura; o cadastro veio sem esse valor).
+8. **Croqui** que acompanhava o Título de Aforamento (a senhora ou as herdeiras têm?).
+9. **Laudo, croqui ou fotos da vistoria** da Prefeitura.
 10. **Recibo** do pagamento às herdeiras.
-
-**Não são necessários agora** (servirão depois, para regularizar o terreno em seu nome na Prefeitura/cartório): certidões de nascimento das herdeiras e certidão de casamento de Antonio e Raimunda.
