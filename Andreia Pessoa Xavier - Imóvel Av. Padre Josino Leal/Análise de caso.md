@@ -32,7 +32,7 @@
 
 5. O instrumento descreve o imóvel conforme o **memorial descritivo elaborado pelo engenheiro agrimensor Genival Cavalcante de Sampaio (CREA/PI 5045)**, em junho/2018, com as confrontações atualizadas: frente para a Av. Pe. Josino Leal; fundos com Francisco Furtado da Silva; flanco direito com Francisca de Sousa Ferreira; flanco esquerdo com Maria Cleane de Sena Brito.
 
-6. Desde então a cliente exerce a posse do imóvel, onde reside, hoje sob o nº 2746 da Avenida Padre Josino Leal.
+6. Desde então a cliente exerce a posse do imóvel, **lote sem edificação** situado sob o **nº 2773** da Avenida Padre Josino Leal (ela reside no nº 2746).
 
 ### 2.1. Do conflito com o vizinho LUIZ PEREIRA LIMA
 
@@ -83,7 +83,7 @@
 | Casa e 1ª porta do Sr. Luis | Há cerca de **2 anos (2024)** | Mais de ano e dia: **não pedir o desfazimento da 1ª porta**. Ela já está vedada pelo muro que a cliente ergueu dentro do próprio terreno |
 | Pedidos e recusa | Pedia desde a construção; ele prometia por meses; **recusa verbal em fins de maio/2026** ("fica pra sua parede") | A promessa reiterada reforça a boa-fé e o *venire contra factum proprium*, caso ele questione o muro |
 | Bodes e tijolos | **Dois bodes desde ≈ maio/2026**. Ele **pediu autorização e ela negou**. A família entrava para alimentar os animais. Os bodes **já foram retirados**; os **tijolos continuam** na faixa | **Início do esbulho: maio/2026**. A ocupação foi contra a vontade expressa da cliente (não é mera tolerância) |
-| Impedimento da Prefeitura | **Verbal**, pela Superintendente **Cleiciane**: disse que ela não poderia usar a faixa até analisar os outros lotes. Servidores mediram e os vizinhos confirmaram a versão dela | Não houve embargo formal. A Superintendente pode ser testemunha |
+| Impedimento da Prefeitura | **Verbal**, pela Superintendente **Cleiciane**, na 1ª de **duas reuniões** (a 2ª foi a tentativa de acordo): disse que ela não poderia usar a faixa até analisar os outros lotes. Servidores mediram e os vizinhos confirmaram a versão dela | Não houve embargo formal. A Superintendente pode ser testemunha |
 | Muro | Erguido em **fins de julho/2026** até a marca dos 30 m, em frente à 1ª porta | — |
 | Portão | Aberto **3 dias depois do muro**, na linha do muro, além dos 30 m. ⚠️ Em outra resposta a cliente disse **"final de junho/2026"** | **Confirmar a data.** De qualquer modo, menos de ano e dia |
 | Uso da faixa desde 2018 | Cuidava como terreno único; havia **cerca de arame no limite do Sr. Francisco**, onde hoje é o muro dele; ninguém mais usava | Prova de posse anterior e do **limite físico original** |
@@ -93,7 +93,7 @@
 | Vizinhos que confirmaram | **Maria Cleane** (lado), **Francisco Furtado** (fundos), **Francisca Ferreira** (lado); uma vizinha mora lá há 27 anos | **Testemunhas-chave**, sem parentesco |
 | Herdeiras | Devem confirmar que o lote ia até o fundo | Possíveis testemunhas ou declarações |
 | Pagamento às herdeiras | **Transferência bancária**, sem recibo | Obter o **comprovante** e informar o valor |
-| Casa da cliente | Construída em **1989** | A posse da cadeia remonta a **1989**, antes do título de 1994. Confirmar quem construiu |
+| Imóvel | **Correção do advogado:** o lote é o **nº 2773** e está **sem edificação**; a cliente **não reside nele** (ela mora no nº 2746). A casa de 1989 citada na resposta é a casa onde ela mora, não o lote | A posse é provada por **atos sobre lote vago** (cerca, conservação, muro de 2026, cadastro, RTD). A cadeia possessória conta desde **1994** (título) |
 | IPTU/foro | **Não pagava** antes de 2026 | Risco da cláusula resolutiva do aforamento (3 anos sem foro). Recomendar a regularização |
 | Acordo | **Aceitaria** (fechar portas e sair da faixa) | Pedir audiência de conciliação (art. 334 do CPC) |
 | Indenização | **Não quer** | Não cumular perdas e danos. Pedidos apenas possessórios e de obrigação de fazer |

@@ -1,12 +1,12 @@
 # DOS FATOS
 
-> **Minuta revisada com as respostas da cliente (04/11/2026).** Os trechos entre **[colchetes]** ainda dependem de confirmação.
+> **Minuta revisada com as respostas da cliente e as correções do advogado (04/11/2026).** Os trechos entre **[colchetes]** ainda dependem de confirmação.
 
 ## I. Do imóvel e da posse da Autora
 
-1. A Autora é possuidora, com ânimo de dona, do imóvel urbano consistente no **Lote 12 da Quadra "O" do Parque Residencial Padre Josino Leal**, situado na antiga Rua Principal, atualmente denominada **Avenida Padre Josino Leal, nº 2746, Bairro Forquilha, Miguel Alves/PI**. O imóvel mede **10,00 m de frente e de fundos por 30,00 m de cada lateral**, perfazendo **300,00 m²**, e está inscrito **em nome da Autora** no **Cadastro Imobiliário Municipal sob o nº 6783**. O cadastro registra a área de 300,00 m² e os confrontantes do lote, com a **Avenida Padre Josino Leal** na frente e **Francisco Furtado da Silva nos fundos** (**Doc. 08**).
+1. A Autora é possuidora, com ânimo de dona, do imóvel urbano consistente no **Lote 12 da Quadra "O" do Parque Residencial Padre Josino Leal**, situado na antiga Rua Principal, atualmente denominada **Avenida Padre Josino Leal, nº 2773, Bairro Forquilha, Miguel Alves/PI**. O imóvel mede **10,00 m de frente e de fundos por 30,00 m de cada lateral**, perfazendo **300,00 m²**, e está inscrito **em nome da Autora** no **Cadastro Imobiliário Municipal sob o nº 6783**. O cadastro registra a área de 300,00 m² e os confrontantes do lote, com a **Avenida Padre Josino Leal** na frente e **Francisco Furtado da Silva nos fundos** (**Doc. 08**).
 
-2. Trata-se de terreno **foreiro**, cujo senhorio direto é o Município de Miguel Alves. O domínio útil foi concedido ao Sr. **ANTONIO RIBEIRO CAMPOS** pelo **Título de Aforamento nº 2.642, de 15 de dezembro de 1994**, expedido no Processo nº 2.642/1994, conforme o Edital nº 185/94, e lavrado no Livro nº 23, fls. 85, da Prefeitura Municipal (**Doc. 03**). O título descreve o lote pelas medidas e também pelos **limites**: a frente dá para a então Rua Principal, e **os fundos fazem divisa com o confrontante dos fundos**, o Sr. Francisco Furtado da Silva. A casa existente no lote foi edificada em **1989** **[confirmar se pelo Sr. Antonio]**, o que demonstra que a ocupação do terreno é ainda anterior ao próprio título.
+2. Trata-se de terreno **foreiro**, cujo senhorio direto é o Município de Miguel Alves. O domínio útil foi concedido ao Sr. **ANTONIO RIBEIRO CAMPOS** pelo **Título de Aforamento nº 2.642, de 15 de dezembro de 1994**, expedido no Processo nº 2.642/1994, conforme o Edital nº 185/94, e lavrado no Livro nº 23, fls. 85, da Prefeitura Municipal (**Doc. 03**). O título descreve o lote pelas medidas e também pelos **limites**: a frente dá para a então Rua Principal, e **os fundos fazem divisa com o confrontante dos fundos**, o Sr. Francisco Furtado da Silva.
 
 3. O foreiro originário **faleceu em 10 de janeiro de 2008** (**Doc. 04**). Sua esposa, Sra. **RAIMUNDA MADEIRA CAMPOS**, faleceu viúva **em 19 de dezembro de 2013** (**Doc. 05**). Com a abertura das sucessões, a posse do imóvel transmitiu-se de pleno direito às herdeiras do casal (art. 1.784 do Código Civil).
 
@@ -14,7 +14,7 @@
 
 5. Na mesma ocasião, a Autora mandou fazer o **levantamento topográfico do imóvel**. A planta e o memorial descritivo foram elaborados pelo engenheiro agrimensor Genival Cavalcante de Sampaio, CREA/PI nº 5045, e o memorial confirma as medidas e os confrontantes do lote (**Doc. 07**).
 
-6. Desde então, a Autora exerce sobre o imóvel **posse mansa, pacífica, contínua e de boa-fé**. Ali fixou sua residência e sempre cuidou do terreno **como um todo único, desde a avenida até a divisa dos fundos**. Quando recebeu o imóvel, em 2018, o limite dos fundos estava marcado por uma **cerca de arame** na linha da divisa com o Sr. Francisco Furtado da Silva, no local onde hoje se encontra o muro deste confrontante. **Ninguém mais usava a área dos fundos**, que sempre integrou o lote. Somada à de seus antecessores (art. 1.207 do Código Civil), a posse da Autora sobre o lote remonta a **1989**, quando a casa foi construída, há mais de trinta e cinco anos.
+6. Desde então, a Autora exerce sobre o imóvel **posse mansa, pacífica, contínua e de boa-fé**. O imóvel é um **lote sem edificação**, onde a Autora não fixou residência. Ela, porém, sempre cuidou do terreno **como um todo único, desde a avenida até a divisa dos fundos** **[descrever os atos: limpeza, capina, conservação da cerca etc.]**. Quando recebeu o imóvel, em 2018, o limite dos fundos estava marcado por uma **cerca de arame** na linha da divisa com o Sr. Francisco Furtado da Silva, no local onde hoje se encontra o muro deste confrontante. **Ninguém mais usava a área dos fundos**, que sempre integrou o lote. Somada à de seus antecessores (art. 1.207 do Código Civil), a posse da Autora sobre o lote remonta a **1994**, data do Título de Aforamento, há mais de trinta anos.
 
 7. O lote da Autora, como os demais lotes da mesma quadra, segue o **padrão de alinhamento e de dimensões da implantação original do loteamento**: todos se estendem da avenida **até a divisa dos fundos**. Os próprios confrontantes, **Maria Cleane de Sena Brito**, **Francisca de Sousa Ferreira** e o confrontante dos fundos, **Francisco Furtado da Silva**, confirmaram essa circunstância perante a Prefeitura Municipal, como consta do termo administrativo adiante referido (**Doc. 10**). Entre eles há vizinha que reside no local **há cerca de 27 anos** **[identificar qual]**.
 
@@ -40,7 +40,7 @@
 
 15. O Réu provocou então a Prefeitura Municipal de Miguel Alves, o que deu origem ao **Processo Administrativo nº 00003690/2026**, conduzido pela Superintendência Municipal de Arrecadação e Tributos.
 
-16. No curso do processo, a Superintendente de Arrecadação e Tributos, Sra. Cleiciane Gomes dos Santos, **orientou verbalmente a Autora a não fazer uso da faixa dos fundos** até a análise dos demais lotes. Servidores municipais **mediram os terrenos da quadra** e ouviram os vizinhos, que **confirmaram a versão da Autora**.
+16. No curso do processo, a Prefeitura realizou **duas reuniões** com as partes. Na primeira, a Superintendente de Arrecadação e Tributos, Sra. Cleiciane Gomes dos Santos, **negou verbalmente à Autora a construção do muro até o fim do terreno** e a orientou a não fazer uso da faixa dos fundos até a análise dos demais lotes. Em seguida, servidores municipais **mediram os terrenos da quadra** e ouviram os vizinhos, que **confirmaram a versão da Autora**.
 
 17. No **Termo de Tentativa de Acordo e Encerramento do Processo Administrativo, de 27 de julho de 2026**, firmado pelas partes, pelo Fiscal responsável e pela Superintendente (**Doc. 10**), a Administração Municipal registrou o seguinte:
 
@@ -54,7 +54,7 @@
 
     e) o Réu, embora sem título que o ampare, "entende possuir direito" sobre a área e **permaneceu utilizando parte dela**.
 
-18. A Prefeitura promoveu diversas reuniões e propôs, como solução conciliatória, a divisão da faixa em partes iguais, com cerca de 3,15 m para cada parte. **A proposta foi recusada pelo Réu.** O Município então **encerrou o processo**, declarando expressamente que, nos termos da Lei Municipal nº 853/2019, a definição de posse, domínio e divisas e a solução de conflitos possessórios constituem **matéria de competência do Poder Judiciário**.
+18. Na segunda reunião, a Prefeitura tentou a conciliação e propôs a divisão da faixa em partes iguais, com cerca de 3,15 m para cada parte. **A proposta foi recusada pelo Réu.** O Município então **encerrou o processo**, declarando expressamente que, nos termos da Lei Municipal nº 853/2019, a definição de posse, domínio e divisas e a solução de conflitos possessórios constituem **matéria de competência do Poder Judiciário**.
 
 ## V. Do esbulho praticado pelo Réu
 
