@@ -63,9 +63,9 @@ A **ordem de grandeza** do passivo fica em torno de R$ 215 mil no BB, mais o sal
 3. **Bradesco.** A saída do banco da folha e a explosão dos encargos de mora reproduzem o caso do Bernardo, e a tese e a redação podem ser reaproveitadas quase integralmente.
 4. **Crefisa.** O débito em conta fracionado e repetido sobre verba salarial reforça a tutela para suspender os débitos. Falta a taxa do contrato, porque a 1ª página da CCB está ilegível.
 
-## 4. Pontos fracos (riscos sérios)
+## 4. Pontos fracos e riscos
 
-1. **Recursos na poupança.** Esse é o ponto mais grave. A cliente transfere todo crédito para a poupança (variação 51 da conta 6406-8, ag. 2298-5) no mesmo dia em que ele entra, e é isso que faz os débitos da Crefisa voltarem. Só de ago a out/2026 entraram na poupança:
+1. **Recursos na poupança (risco afastado; ver saldos abaixo).** A cliente transfere todo crédito para a poupança (variação 51 da conta 6406-8, ag. 2298-5) no mesmo dia em que ele entra, e é isso que faz os débitos da Crefisa voltarem. Só de ago a out/2026 entraram na poupança:
    - R$ 3.000,00 em 15/08;
    - R$ 4.200,00 em 28/08;
    - **R$ 24.849,00 em 25/09.** É o **abono salarial** (rateio do FUNDEB), pago pelo Fundo Municipal, segundo a cliente.
@@ -79,19 +79,25 @@ A **ordem de grandeza** do passivo fica em torno de R$ 215 mil no BB, mais o sal
    - a verba é salarial e impenhorável (art. 833, IV, do CPC), e a poupança até 40 salários mínimos também (art. 833, X);
    - a conduta prova que, sem essa defesa, a renda inteira seria absorvida, o que demonstra o comprometimento do mínimo existencial e a necessidade da tutela.
 
-   **O risco continua, mas agora depende só do saldo.** Os salários comuns (R$ 4.200 a R$ 5.000) que ela movimenta pela poupança para pagar as despesas do mês não preocupam. Preocupam os valores extraordinários, que provavelmente ainda estão lá:
-   - R$ 24.849,00 (25/09);
-   - R$ 17.810,45 (09/10);
-   - R$ 7.000,00 do consignado novo.
-
    **Origem esclarecida.** São **verbas eventuais, que não se repetem**: o abono do FUNDEB e o precatório do FUNDEF de 1998–2000, recebido uma única vez. Consequências:
    - (a) **não aumentam a renda mensal** usada para calcular os 35% e o mínimo existencial, e isso deve ficar explícito na inicial, com os comprovantes do Município;
    - (b) têm origem lícita e documentada, o que afasta a ideia de patrimônio oculto;
    - (c) o abono é verba remuneratória (art. 833, IV, do CPC). O precatório é crédito do professor, e na poupança vale também o limite de 40 salários mínimos (art. 833, X).
 
-   **O risco que resta é só o saldo atual.** Mesmo impenhorável, um saldo alto pesa na avaliação da “impossibilidade manifesta” e da gratuidade. Os credores vão argumentar que ela recebeu cerca de R$ 42,7 mil extras e não pagou ninguém. Há duas respostas:
-   - **se o dinheiro foi usado em despesas e dívidas atrasadas** (água, energia, Recovery, sustento), é preciso juntar os comprovantes, e o argumento cai;
-   - **se ainda está guardado**, o melhor uso processual é **oferecê-lo como entrada no plano de pagamento** (art. 104-A do CDC) ou quitar com desconto os credores menores. Isso transforma o ponto fraco em prova de boa-fé.
+   **Saldo da poupança: o risco foi afastado.** Os extratos da poupança (conta 510006406-8), emitidos em 05/11/2026, mostram os saldos de fim de mês:
+
+   | Mês | Saldo final |
+   |---|---|
+   | maio/2026 | R$ 1.988,27 |
+   | junho | R$ 603,95 |
+   | julho | R$ 589,35 |
+   | agosto | R$ 250,69 |
+   | **setembro** | **R$ 3.853,04** |
+   | **outubro** | **R$ 6.069,78** |
+
+   Em setembro entraram cerca de R$ 28,7 mil (o abono e o salário), e o mês fechou em R$ 3,8 mil. Em outubro entraram cerca de R$ 24,8 mil (o precatório e o consignado), e o mês fechou em R$ 6,1 mil. **Não há patrimônio guardado: os valores extraordinários foram consumidos.** Em maio a agosto, a poupança funciona como conta de movimento, com dezenas de Pix pequenos, pagamento de boletos e conta de telefone, o que é coerente com o uso para despesas correntes.
+
+   **Ressalva:** nos PDFs de setembro e outubro, os lançamentos saíram em branco; só o cabeçalho e o rodapé foram exportados. Só aparecem algumas saídas de 01–02/10: boletos de R$ 593,14 e R$ 1.538,56, transferência de R$ 323,00 e Pix. Os réus vão perguntar para onde foram cerca de R$ 47 mil em dois meses. É preciso **reemitir esses dois extratos** (pelo app, em “extrato por período”, ou na agência) e que a cliente aponte as despesas e dívidas pagas com esse dinheiro. Se ela pagou dívidas atrasadas, isso conta a favor da boa-fé.
 
    **Na inicial**, essa conduta deve ser narrada abertamente, como defesa do mínimo existencial diante dos débitos fracionados da Crefisa (CCB, cláusula 2.1.2). Nunca deve ser omitida, porque os réus vão juntar os extratos.
 2. **Dívidas recentes.** O consignado de R$ 9.000,00 é de 07/10/2026. A cliente usou R$ 7.000 na poupança, R$ 1.000 em transferência para Maria Helena Lopes Araújo, R$ 500 em Pix para ela mesma e R$ 500 em saque.
@@ -103,9 +109,13 @@ A **ordem de grandeza** do passivo fica em torno de R$ 215 mil no BB, mais o sal
    **Ressalva:** a cliente recebeu o abono (25/09) e o precatório (09/10) **na mesma semana** do consignado. Os réus vão perguntar por que ela pegou empréstimo se tinha dinheiro na poupança. É preciso que ela explique quais despesas pagou e que a explicação seja coerente com o extrato da poupança. Pergunte também quem é Maria Helena Lopes Araújo.
 
    A cliente também firmou acordo com a Recovery (25/09/2026) e confissão com a Riachuelo (14/10/2026). Os dois atos mostram tentativa de pagar, e não má-fé.
-3. **Gratuidade.** Bruto de R$ 13,7 mil, mesma dificuldade do Bernardo. Os valores eventuais não devem ser considerados renda, mas o saldo da poupança na data do ajuizamento sim.
+3. **Gratuidade.** Bruto de R$ 13,7 mil, mesma dificuldade do Bernardo. Os valores eventuais não devem ser considerados renda, e o saldo da poupança (cerca de R$ 6 mil) não impede o benefício.
 4. **Inconsistências.** O IRPF 2025 (ano-base 2024) declara só R$ 40,8 mil de dívidas e omite os R$ 189 mil do Bradesco. Os documentos trazem três endereços diferentes: Av. Principal, 26 (Zona Rural); Loc. Centro do Designo, s/n; e R. 06, 518 (Matadouro). Os filhos já são maiores (Caio, 2004; Maria Clara, 2007).
-5. **Despesas essenciais sem prova.** Só há energia elétrica, com cerca de R$ 365 a R$ 412 em reaviso de vencimento, e recibos de água de R$ 60 a R$ 90. Isso não basta para demonstrar o mínimo existencial concreto.
+5. **FIES do filho.** Caio Vinicius (CPF 088.876.303-48) tem contrato FIES na Caixa (nº 16.0029.187.0000604/36), com parcela de **R$ 157,08** (a 41ª venceu em 16/10/2026) e boletos em atraso.
+   - **Não entra na repactuação.** O devedor é o filho, e, segundo o STJ, o FIES não está sujeito ao CDC (REsp 1.155.684/RN, repetitivo).
+   - **Se a cliente for fiadora**, a dívida também é dela, mas continua fora do plano.
+   - **Uso na ação:** se é ela quem paga, a parcela entra no mínimo existencial como despesa de educação da família. Juntar o contrato e verificar se ela é fiadora.
+6. **Despesas essenciais sem prova.** Só há energia elétrica, com cerca de R$ 365 a R$ 412 em reaviso de vencimento, e recibos de água de R$ 60 a R$ 90. Isso não basta para demonstrar o mínimo existencial concreto.
 
 ## 5. Viabilidade matemática do plano
 
@@ -116,14 +126,14 @@ A **ordem de grandeza** do passivo fica em torno de R$ 215 mil no BB, mais o sal
 
 ## 6. Recomendação
 
-**A tese é viável no mérito, mas a ação NÃO deve ser ajuizada agora.** Antes, é preciso:
+**A tese é viável e a ação pode ser preparada.** O saldo da poupança, que era o principal obstáculo, está em cerca de R$ 6 mil em 31/10/2026. Antes de protocolar:
 
-1. **Obter o extrato da poupança (var. 51 da conta 6406-8) (abr–nov/2026), com o saldo atual.** É indispensável.
+1. **Reemitir os extratos da poupança de setembro e outubro/2026 com os lançamentos**, porque os PDFs enviados saíram em branco, e obter da cliente a lista do que pagou com o abono, o precatório e o consignado.
 2. **Comprovar a origem** do abono do FUNDEB (R$ 24.849,55) e do precatório do FUNDEF (R$ 17.810,37) com a folha complementar, o demonstrativo do rateio ou a declaração do Município, e **comprovar o uso** desses valores e do consignado de R$ 9.000 (recibos, contas pagas).
-3. **Se houver saldo relevante (≥ R$ 30 mil), seguir a estratégia híbrida:**
+3. **Estratégia híbrida (descartada).** Ela pressupunha saldo relevante, que não existe. Fica registrada só como alternativa caso a cliente receba outra verba extraordinária antes do ajuizamento:
    - **Fase extrajudicial.** Quitar à vista, com os descontos já ofertados, as dívidas pequenas: CEA (R$ 2.606,33), Crefisa (R$ 9.280,14), Ipanema (R$ 6.506,22), Riachuelo (R$ 8.821,55), Mateus (~R$ 2.460), os dois Itaú (~R$ 1.130), Costa, PicPay, Claudino e Honda (~R$ 1.700). O total é de **cerca de R$ 32,5 mil**, o que elimina 10 credores e todas as negativações, menos Bradesco e BB. Antes de pagar, confirmar se CEA e Ipanema são dívidas distintas.
    - **Fase judicial.** Propor ação de repactuação **só contra BB e Bradesco**, no molde do Bernardo: tutela para limitar os consignados do BB a 35% (de R$ 5.250,77 para R$ 3.546,27); abstenção de débitos em conta e de negativação pelo Bradesco; conciliação global; 54-D; exibição de contratos. A quitação prévia das demais dívidas mostra boa-fé e esvazia a alegação de blindagem.
-4. **Se a poupança estiver zerada**, ajuizar contra todos os credores relevantes (BB, Bradesco, Crefisa, Midway, CEA/Ipanema) e explicar o destino dos valores com documentos.
+4. **Estratégia adotada: ajuizar contra todos os credores relevantes** (BB, Bradesco, Crefisa, Midway/Riachuelo, CEA e Ipanema, Mateus), no molde do Bernardo, explicando com documentos o destino dos valores extraordinários. As dívidas pequenas (Itaú, PicPay, Claudino, Costa, Honda, Recovery) podem ficar no plano ou ser negociadas por fora.
 5. **Proteger o salário pela via própria.** A cliente pode pedir ao BB o cancelamento da autorização de débito em conta da Crefisa (Resolução CMN nº 4.790/2020). Na ação, o pedido de tutela deve incluir a abstenção de débitos em conta pela Crefisa e pelo Bradesco. Hoje, a transferência para a poupança é a única defesa dela; com a tutela, deixa de ser necessária.
 6. **Orientar a cliente**, desde já, a: não contrair novos créditos (art. 104-A, § 4º, IV); não pagar a parcela de R$ 7.400,49 da Riachuelo em 13/11; manter as parcelas da Recovery (R$ 239,69) se couberem.
 7. **Documentos faltantes:**
