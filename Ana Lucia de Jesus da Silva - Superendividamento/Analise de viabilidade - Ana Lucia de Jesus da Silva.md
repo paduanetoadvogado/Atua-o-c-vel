@@ -35,6 +35,17 @@ Até agosto (Nível V) o líquido creditado era de R$ 4.200,60.
 
 Isso dá R$ 3.569,34/mês, com débito em conta autorizado. Os descontos em folha cessaram, e o saldo de **“OPERAÇÕES VENCIDAS” chegou a R$ 77.435,48 em 13/10/2026**; a Serasa registra a negativação desde 10/04/2025. O saldo total, somando as parcelas vincendas, ainda precisa ser apurado.
 
+**Renegociação BB – CCB nº 229.808.308 (24/12/2024).** Este contrato reúne o **CDC Salário e a dívida do cartão de crédito Visa (Ourocard)**:
+- valor de **R$ 75.137,31**, em 72 parcelas de **R$ 2.125,22** (total de R$ 153.015,84), com juros de 2,15% a.m. (29,08% a.a.) e débito em conta no dia 28;
+- a própria cédula se identifica como **“operação de renegociação de dívidas”**: autoriza o cancelamento de limites e declara que a conta ficou **bloqueada durante o período de renegociação**;
+- segundo a cliente, ela **teve de renegociar para conseguir receber o salário**, e a cobrança foi **congelada até maio/2027**.
+
+Consequências:
+- **Vício na contratação.** Condicionar a liberação do salário à assinatura da renegociação é prática abusiva: é coação econômica (arts. 39, IV e V, e 51, IV, do CDC), e a retenção de salário pelo banco é vedada (art. 833, IV, do CPC; STJ, REsp 1.012.915/PR). Isso reforça o art. 54-D e pode embasar pedido de revisão ou anulação das cláusulas.
+- **Dívida vincenda que agrava o quadro.** Durante a carência, os juros se acumulam no saldo. Se nada foi pago desde 12/2024, o saldo a 2,15% a.m. passaria de **R$ 139 mil em maio/2027**. A parcela de R$ 2.125,22, ou um valor recalculado maior, começa a ser cobrada em conta a partir de **maio/2027**. A partir daí, as cobranças mensais sobem para **R$ 13.117,33, ou 129% da renda líquida**.
+- **Na ação:** o art. 54-A, § 1º, inclui as dívidas “exigíveis e vincendas”, então este contrato **entra no plano** e deve constar da tutela, para que continue suspenso, sem débito em conta, até a homologação do plano.
+- **Pendência:** é preciso o extrato atualizado da operação (SISBB, “extrato de operação”), com o saldo devedor, a data da 1ª parcela e o valor da prestação após a carência. Também é preciso verificar se, além do adiamento, houve um novo aditivo.
+
 **Demais credores (Serasa de 12/10/2026 e ofertas de acordo):**
 
 | Credor | Negativado | Atualizado / proposta à vista |
@@ -149,6 +160,6 @@ A **ordem de grandeza** do passivo fica em torno de R$ 215 mil no BB, mais o sal
    - comprovante de residência atualizado;
    - lista e comprovantes das despesas essenciais (alimentação, transporte, saúde, escola/faculdade dos filhos);
    - página do Quadro III da CCB da Crefisa, legível;
-   - status do contrato BB 229.808.308 (CDC de 24/12/2024, R$ 75.137,31 em 72 × R$ 2.125,22): não aparecem débitos nos extratos de 2026, e é preciso saber se foi absorvido pela renovação de 02/2026;
+   - extrato atualizado da renegociação BB 229.808.308 (CDC Salário + cartão Visa), com o saldo após a carência e a prestação a partir de 05/2027, e prova do bloqueio da conta ou da retenção do salário à época (extratos de nov–dez/2024, mensagens, protocolos);
    - extrato completo do Bradesco com o saldo total, não só o vencido;
    - Registrato/SCR do Banco Central.
