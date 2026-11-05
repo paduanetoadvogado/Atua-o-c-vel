@@ -97,7 +97,16 @@ A **ordem de grandeza** do passivo fica em torno de R$ 215 mil no BB, mais o sal
 
    Em setembro entraram cerca de R$ 28,7 mil (o abono e o salário), e o mês fechou em R$ 3,8 mil. Em outubro entraram cerca de R$ 24,8 mil (o precatório e o consignado), e o mês fechou em R$ 6,1 mil. **Não há patrimônio guardado: os valores extraordinários foram consumidos.** Em maio a agosto, a poupança funciona como conta de movimento, com dezenas de Pix pequenos, pagamento de boletos e conta de telefone, o que é coerente com o uso para despesas correntes.
 
-   **Ressalva:** nos PDFs de setembro e outubro, os lançamentos saíram em branco; só o cabeçalho e o rodapé foram exportados. Só aparecem algumas saídas de 01–02/10: boletos de R$ 593,14 e R$ 1.538,56, transferência de R$ 323,00 e Pix. Os réus vão perguntar para onde foram cerca de R$ 47 mil em dois meses. É preciso **reemitir esses dois extratos** (pelo app, em “extrato por período”, ou na agência) e que a cliente aponte as despesas e dívidas pagas com esse dinheiro. Se ela pagou dívidas atrasadas, isso conta a favor da boa-fé.
+   **Extrato de outubro (lançamentos recebidos em 05/11/2026).** O extrato bate com o saldo: partindo de R$ 3.853,04, entraram R$ 24.865,01 (o consignado, o precatório e duas devoluções), saíram R$ 22.754,14 e sobram R$ 5.963,91. A diferença de R$ 105,87 para o saldo final de R$ 6.069,78 corresponde a lançamentos posteriores a 22/10 que não saíram no PDF.
+
+   As saídas de outubro foram:
+   - **Pix: R$ 14.857,45**, em mais de 80 transferências. Há várias de valor alto: R$ 1.500,00 (15/10), R$ 1.000,00 ×2 (13/10), R$ 950,00 (07/10), R$ 740,00 (09/10 e 22/10), R$ 511,80 e R$ 500,00 ×3;
+   - **boletos: R$ 5.149,53**, entre eles R$ 1.538,56 (01/10), R$ 1.502,88 (14/10), R$ 1.014,23 (07/10), R$ 593,14 e R$ 398,31;
+   - **saques: R$ 1.900,00** (13 e 14/10);
+   - **transferências: R$ 735,36**, entre elas R$ 412,36 em 19/10, que coincide com a fatura de energia em reaviso;
+   - **telefone: R$ 72,30**.
+
+   **Não há acúmulo**, mas o padrão (grandes Pix nos dias seguintes ao precatório) será explorado pelos réus. A cliente deve identificar quem recebeu os Pix acima de R$ 300 e o que eram os boletos acima de R$ 1.000, por exemplo dívidas pagas, aluguel, despesas da família ou obras. **Setembro continua pendente:** o PDF saiu em branco e é preciso reemiti-lo, porque foi o mês do abono de R$ 24.849,55.
 
    **Na inicial**, essa conduta deve ser narrada abertamente, como defesa do mínimo existencial diante dos débitos fracionados da Crefisa (CCB, cláusula 2.1.2). Nunca deve ser omitida, porque os réus vão juntar os extratos.
 2. **Dívidas recentes.** O consignado de R$ 9.000,00 é de 07/10/2026. A cliente usou R$ 7.000 na poupança, R$ 1.000 em transferência para Maria Helena Lopes Araújo, R$ 500 em Pix para ela mesma e R$ 500 em saque.
@@ -128,7 +137,7 @@ A **ordem de grandeza** do passivo fica em torno de R$ 215 mil no BB, mais o sal
 
 **A tese é viável e a ação pode ser preparada.** O saldo da poupança, que era o principal obstáculo, está em cerca de R$ 6 mil em 31/10/2026. Antes de protocolar:
 
-1. **Reemitir os extratos da poupança de setembro e outubro/2026 com os lançamentos**, porque os PDFs enviados saíram em branco, e obter da cliente a lista do que pagou com o abono, o precatório e o consignado.
+1. **Reemitir o extrato da poupança de setembro/2026**, porque o de outubro já foi recebido e confere com o saldo, e obter da cliente a identificação dos Pix e boletos maiores de setembro e outubro.
 2. **Comprovar a origem** do abono do FUNDEB (R$ 24.849,55) e do precatório do FUNDEF (R$ 17.810,37) com a folha complementar, o demonstrativo do rateio ou a declaração do Município, e **comprovar o uso** desses valores e do consignado de R$ 9.000 (recibos, contas pagas).
 3. **Estratégia híbrida (descartada).** Ela pressupunha saldo relevante, que não existe. Fica registrada só como alternativa caso a cliente receba outra verba extraordinária antes do ajuizamento:
    - **Fase extrajudicial.** Quitar à vista, com os descontos já ofertados, as dívidas pequenas: CEA (R$ 2.606,33), Crefisa (R$ 9.280,14), Ipanema (R$ 6.506,22), Riachuelo (R$ 8.821,55), Mateus (~R$ 2.460), os dois Itaú (~R$ 1.130), Costa, PicPay, Claudino e Honda (~R$ 1.700). O total é de **cerca de R$ 32,5 mil**, o que elimina 10 credores e todas as negativações, menos Bradesco e BB. Antes de pagar, confirmar se CEA e Ipanema são dívidas distintas.
