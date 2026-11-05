@@ -73,7 +73,20 @@ A **ordem de grandeza** do passivo fica em torno de R$ 215 mil no BB, mais o sal
    - **R$ 7.000,00 em 07/10**, vindos do novo consignado;
    - **R$ 17.810,45 em 09/10**, vindos do Município de Miguel Alves por motivo não identificado (precatório do FUNDEF? férias-prêmio?).
 
-   **Total: cerca de R$ 60,7 mil.** Se esse saldo existir, o pedido de gratuidade, a tutela e a própria “impossibilidade manifesta” (art. 54-A, § 1º) ficam comprometidos. Os credores vão alegar má-fé e blindagem patrimonial. A impenhorabilidade da poupança até 40 salários mínimos não resolve, porque o juízo de superendividamento avalia a capacidade global de pagamento.
+   **Total: cerca de R$ 60,7 mil.**
+
+   **Motivo informado pela cliente:** as transferências servem para impedir que os débitos em conta, sobretudo da Crefisa, consumam todo o salário e a deixem sem renda. O motivo é legítimo e pode ser usado a favor dela:
+   - a verba é salarial e impenhorável (art. 833, IV, do CPC), e a poupança até 40 salários mínimos também (art. 833, X);
+   - a conduta prova que, sem essa defesa, a renda inteira seria absorvida, o que demonstra o comprometimento do mínimo existencial e a necessidade da tutela.
+
+   **O risco continua, mas agora depende só do saldo.** Os salários comuns (R$ 4.200 a R$ 5.000) que ela movimenta pela poupança para pagar as despesas do mês não preocupam. Preocupam os valores extraordinários, que provavelmente ainda estão lá:
+   - R$ 24.849,00 (25/09);
+   - R$ 17.810,45 (09/10);
+   - R$ 7.000,00 do consignado novo.
+
+   Se esses cerca de R$ 50 mil continuarem guardados, os credores vão alegar que existe capacidade de pagamento e que a cliente está blindando patrimônio, e o juiz pode negar gratuidade e tutela. O extrato da poupança resolve a dúvida.
+
+   **Na inicial**, essa conduta deve ser narrada abertamente, como defesa do mínimo existencial diante dos débitos fracionados da Crefisa (CCB, cláusula 2.1.2). Nunca deve ser omitida, porque os réus vão juntar os extratos.
 2. **Dívidas recentes.** O consignado de R$ 9.000,00 é de 07/10/2026. A cliente usou R$ 7.000 na poupança, R$ 1.000 em transferência para Maria Helena Lopes Araújo, R$ 500 em Pix para ela mesma e R$ 500 em saque. Também firmou acordo com a Recovery em 25/09/2026 e confissão com a Riachuelo em 14/10/2026, ambos às vésperas da ação. Há risco de exclusão pelo art. 54-A, § 3º, e de questionamento da boa-fé.
 3. **Gratuidade.** Bruto de R$ 13,7 mil, mesma dificuldade do Bernardo, agravada pela poupança.
 4. **Inconsistências.** O IRPF 2025 (ano-base 2024) declara só R$ 40,8 mil de dívidas e omite os R$ 189 mil do Bradesco. Os documentos trazem três endereços diferentes: Av. Principal, 26 (Zona Rural); Loc. Centro do Designo, s/n; e R. 06, 518 (Matadouro). Os filhos já são maiores (Caio, 2004; Maria Clara, 2007).
@@ -96,8 +109,9 @@ A **ordem de grandeza** do passivo fica em torno de R$ 215 mil no BB, mais o sal
    - **Fase extrajudicial.** Quitar à vista, com os descontos já ofertados, as dívidas pequenas: CEA (R$ 2.606,33), Crefisa (R$ 9.280,14), Ipanema (R$ 6.506,22), Riachuelo (R$ 8.821,55), Mateus (~R$ 2.460), os dois Itaú (~R$ 1.130), Costa, PicPay, Claudino e Honda (~R$ 1.700). O total é de **cerca de R$ 32,5 mil**, o que elimina 10 credores e todas as negativações, menos Bradesco e BB. Antes de pagar, confirmar se CEA e Ipanema são dívidas distintas.
    - **Fase judicial.** Propor ação de repactuação **só contra BB e Bradesco**, no molde do Bernardo: tutela para limitar os consignados do BB a 35% (de R$ 5.250,77 para R$ 3.546,27); abstenção de débitos em conta e de negativação pelo Bradesco; conciliação global; 54-D; exibição de contratos. A quitação prévia das demais dívidas mostra boa-fé e esvazia a alegação de blindagem.
 4. **Se a poupança estiver zerada**, ajuizar contra todos os credores relevantes (BB, Bradesco, Crefisa, Midway, CEA/Ipanema) e explicar o destino dos valores com documentos.
-5. **Orientar a cliente**, desde já, a: não contrair novos créditos (art. 104-A, § 4º, IV); não pagar a parcela de R$ 7.400,49 da Riachuelo em 13/11; manter as parcelas da Recovery (R$ 239,69) se couberem.
-6. **Documentos faltantes:**
+5. **Proteger o salário pela via própria.** A cliente pode pedir ao BB o cancelamento da autorização de débito em conta da Crefisa (Resolução CMN nº 4.790/2020). Na ação, o pedido de tutela deve incluir a abstenção de débitos em conta pela Crefisa e pelo Bradesco. Hoje, a transferência para a poupança é a única defesa dela; com a tutela, deixa de ser necessária.
+6. **Orientar a cliente**, desde já, a: não contrair novos créditos (art. 104-A, § 4º, IV); não pagar a parcela de R$ 7.400,49 da Riachuelo em 13/11; manter as parcelas da Recovery (R$ 239,69) se couberem.
+7. **Documentos faltantes:**
    - comprovante de residência atualizado;
    - lista e comprovantes das despesas essenciais (alimentação, transporte, saúde, escola/faculdade dos filhos);
    - página do Quadro III da CCB da Crefisa, legível;
